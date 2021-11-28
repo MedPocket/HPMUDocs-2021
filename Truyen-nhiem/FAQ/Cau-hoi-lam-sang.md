@@ -1,4 +1,4 @@
-# Lâm sàng truyền nhiễm
+# Lâm sàng truyền nhiễm HPMU
 
 > Tác giả **Long Nhật Nguyễn**.
 

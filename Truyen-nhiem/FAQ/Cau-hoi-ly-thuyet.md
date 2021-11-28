@@ -1,4 +1,4 @@
-# Câu hỏi lý thuyết truyền nhiễm
+# Câu hỏi lý thuyết truyền nhiễm HPMU
 
 > Tác giả **Long Nhật Nguyễn**.
 
