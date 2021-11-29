@@ -395,11 +395,3 @@ Case lâm sàng N_L.
 |A. |B. |
 |C. |D. |
 --->
-
-
-Windows Network Diagnostics Publisher details 
-
-Issues found 
-Problem with wireless adapter or access pointProblem with wireless adapter or access point Not fixed Not Fixed 
-Reset the wireless adapter Failed 
-Investigate router or access point issues Failed 
