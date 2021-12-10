@@ -136,7 +136,7 @@
 - Hô hấp dùng cephalosporin thế hệ 3-4, quinolon.
 - Da dùng oxacilin, cefazolin hoặc vancomycin, v.v.
 
-### Dùng corticoid khi nào?
+### Dùng corticoid đối với BN nhiễm khuẩn huyết khi nào?
 
 - Đối với những BN sốc nhiễm trùng, huyết áp tâm thu <90 mmHg.
 - Dùng đường tĩnh mạch 8h đầu của sốc, dùng trong 7 ngày.
@@ -204,7 +204,7 @@
 - Người lớn: Amoxicilline 200 hoặc cefotaxime 200-300 hoặc ceftriaxone 70-100.
 - Có thể phối hợp vancomycin, gentamycin nếu có dấu hiệu nguy hiểm.
 
-### Dùng corticoid tron viêm màng não với vi khuẩn nào
+### Dùng corticoid trong viêm màng não với vi khuẩn nào
 
 - Haemophilus và Streptococcus suis để giảm di chứng.
 
