@@ -265,7 +265,7 @@
 - Hạ sốt bằng paracetamol, efenagan codein, chườm lạnh, v.v.
 - Bù nước điện giải.
 
-### Những điểm cần lưu ý
+### Những điểm cần lưu ý với sốt kéo dài
 
 - Sau 1 tháng điều trị kháng sinh không hết sốt nghĩ đến nguyên nhân do kí sinh trùng.
 - Tìm viêm tại tĩnh mạch sâu.
