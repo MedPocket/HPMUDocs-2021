@@ -1469,7 +1469,7 @@
   - Bệnh amip phổi.
   - Bệnh amip não.
 
-## Điều trị amip
+### Điều trị amip
 
 - Cấp tính:
   - Metronidazol.
