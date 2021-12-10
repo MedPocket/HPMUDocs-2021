@@ -1061,9 +1061,9 @@
 
 ### Biện pháp nào không được áp dụng sau khi bị chó cắn có vết thương chảy máu không biết tình trạng sức khỏe của con vật được tiêm phòng dại hay chưa?
 
-- Tiêm globulin miễn dịch. 20 IU/kg vào mông.
+- Tiêm globulin miễn dịch.
 
-### Phòng dại bằng vaccine
+### Phòng dại bằng vacine
 
 - Vacine giảm hoạt lực 3 mũi vào ngày 0, 7 và 28 nhắc lại sau 1, 3-5 năm.
 
