@@ -662,7 +662,7 @@
 ### Sởi phân biệt với bệnh nào?
 
 - Chưa phát ban có cúm, viêm phế quản, ỉa chảy, bạch hầu.
-- Phát ban: Rubeole, Megalerytheme, Tăng bạch cầu đơn nhân nhiễm trùng, Scarlatine, Rickettsia, dị ứng, virus đường ruột Coxackia A/B, v.v.
+- Phát ban: Rubela, Megalerytheme, Tăng bạch cầu đơn nhân nhiễm trùng, Scarlatine, Rickettsia, dị ứng, virus đường ruột Coxackia A/B, v.v.
 
 ### Đặc điểm miễn dịch khi mắc sởi?
 
