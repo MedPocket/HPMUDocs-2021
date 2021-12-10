@@ -1,4 +1,5 @@
 # Bệnh học truyền nhiễm
+
 Bệnh truyền nhiễm còn gọi là bệnh lây - Là bệnh thường gặp ở tất cả các châu lục nhưng đặc biệt là ở các nước có khí hậu nóng ẩm (nhiệt đới).
 
 ## Nội dung
