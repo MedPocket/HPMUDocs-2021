@@ -478,7 +478,7 @@
 
 ### Đặc điểm nào không phải của virus cúm type A?
 
-- Chỉ gây bệnh ở người.
+- _Không đúng_ chỉ gây bệnh ở người.
 - Cúm A lây bệnh ở người và các loài động vật khác nhau.
 - Cúm B chỉ lưu hành ở người và gây các vụ dịch theo mùa.
 - Cúm C lưu hành ở người và lợn nhưng nhẹ.
