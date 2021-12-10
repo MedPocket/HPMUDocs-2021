@@ -1308,7 +1308,7 @@
 ### Uốn ván có cơn co giật phân biệt với?
 
 - Ngộ độc Strychnin.
-- _Toàn phát phân biệt viêm màng não mủ giả uống ván, hạ đường huyết, cơn testanine, histeria, u não, v.v._
+- _Toàn phát phân biệt viêm màng não mủ giả uống ván, hạ đường huyết, cơn tetanine, histeria, u não, v.v._
 
 ### Dấu hiệu gợi ý uốn ván thể nặng?
 
