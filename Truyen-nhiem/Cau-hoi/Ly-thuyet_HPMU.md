@@ -428,7 +428,7 @@
 
 ### Phụ nữ mang thai bị viêm gan B, thuốc kháng virus nào dùng cho BN?
 
-- Tenterfovir.
+- Tenerfovir.
 
 ### Thuốc kháng virus nào sử dụng được cho phụ nữ mang thai?
 
@@ -468,7 +468,7 @@
 
 - Tiêm 500 đơn vị cho trường hợp phơi nhiễm nghề nghiệp.
 - Tiêm 8 đơn vị/kg tiêm bắp không quá 500 đơn vị cho người lọc máu.
-- Tiêm bắp 30 đơn vị/lg cho trẻ sơ sinh, tác dụng bảo vệ trong 5 tuần.
+- Tiêm bắp 30 đơn vị/kg cho trẻ sơ sinh, tác dụng bảo vệ trong 5 tuần.
 
 ## Cúm
 
