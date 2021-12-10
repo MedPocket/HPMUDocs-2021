@@ -554,15 +554,15 @@
 
 - Trước 6 ngày, 5 ngày sau khi có triệu chứng sốt. Thời gian lây bệnh kéo dài 10 ngày.
 
-### Thời kỳ ủ bệnh
+### Thời kỳ ủ bệnh của quai bin
 
 - 16-20 ngày.
 
-### Thời kỳ khởi phát
+### Thời kỳ khởi phát của quai bị
 
 - 24-48h với sốt, đau cơ, chán ăn, có nôn.
 
-### Biểu hiện lâm sàng của quai bị?
+### Biểu hiện lâm sàng của quai bị
 
 - Sưng đau tuyến nước bọt, có hạch.
 
@@ -622,13 +622,13 @@
 - Khởi phát 4 ngày.
 - Toàn phát (phát ban).
 
-### Đặc điểm bệnh sởi thời kì khởi phát?
+### Đặc điểm bệnh sởi thời kì khởi phát
 
 - Hội chứng nhiễm trùng: Sốt nhẹ hoặc sốt vừa, cao.
 - Hội chứng viêm long đường hô hấp trên: Viêm mũi họng, chảy nước mắt.
 - Xuất hiện hạt trắng nhỏ (Koplick).
 
-### Đặc điểm của ban sởi?
+### Đặc điểm của ban sởi
 
 - Mọc tuần tự từ trên xuống dưới:
   - Ngày 1: Tai, trán, chân tóc, má.
@@ -916,7 +916,7 @@
 
 - ADN tiền virus tích hợp vào ADN tế bào chủ nhờ Integrase.
 
-### Thời gian điều trị bằng Co-trimoxazole
+### Thời gian điều trị bằng co-trimoxazole
 
 - ARV ít nhất 12 tháng, CD4>350 và lâm sàng ổn định.
 
@@ -957,7 +957,7 @@
 
 - CD4 <100.
 
-### 1 BN HIV, đau mạn sườn, sốt, CD4 = 206, mờ mắt và lao màng phổi ở giai đoạn nào?
+### Một BN HIV, đau mạn sườn, sốt, CD4 = 206, mờ mắt và lao màng phổi ở giai đoạn nào?
 
 - Giai đoạn 4.
 
