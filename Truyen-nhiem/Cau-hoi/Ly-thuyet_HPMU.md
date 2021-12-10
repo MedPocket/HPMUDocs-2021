@@ -1149,11 +1149,11 @@
   - Thủng ruột.
   - Viêm miệng lợi, thương hàn đại tràng, viêm túi mật, viêm gan, viêm tuyến mang tai.
 - Tim mạch xuất hiện ở tuần thứ 3:
-  - Viêm cơ tim: nhịp tim nhanh, tiếng tim mờ, huyết áp hạ, tiếng ngựa phi, v.v.
+  - Viêm cơ tim nhịp tim nhanh, tiếng tim mờ, huyết áp hạ, tiếng ngựa phi, v.v.
   - Viêm tắc động mạch hiếm gặp.
 - Thần kinh:
   - Viêm não thương hàn với dấu hiệu Typhos.
-  - Viêm màng nõa tủy.
+  - Viêm màng não tủy.
 - Ngoài ra còn viêm phế quản, viêm phổi, tràn dịch màng phổi, v.v.
 
 ### Biến chứng tim mạch gặp ở bệnh thương hàn?
