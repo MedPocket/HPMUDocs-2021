@@ -194,11 +194,11 @@
 - Độ tập trung bình thường, hồng cầu thường không có.
 - Protein <1 g.
 
-### Nguyên tắc điều trị
+### Nguyên tắc điều trị viêm màng não
 
 - Sử dụng kháng sinh đường tĩnh mạch ngay lập tức.
 
-### Kháng sinh thường dùng
+### Kháng sinh thường dùng trong viêm màng não
 
 - Hơn 3 tuổi: Cefotaxime 200-300 hoặc ceftriaxone 70-100.
 - Người lớn: Amoxicilline 200 hoặc cefotaxime 200-300 hoặc ceftriaxone 70-100.
