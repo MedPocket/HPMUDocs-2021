@@ -1706,7 +1706,7 @@
 
 - Đúng.
 
-#### Bệnh nhân được điều trị tấn công bằng Co-trimoxazol với liều như sau
+#### Bệnh nhân được điều trị tấn công bằng co-trimoxazol với liều như sau
 
 - Co-trimoxazol: TMP 15 mg/kg/ngày + SMX 75 mg/kg/ngày uống 21 ngày.
 
@@ -1736,7 +1736,7 @@
 
 - Không.
 
-### Bệnh nhân nữ, 22 tuổi có thai 8 tuần, vào viện ngày thứ 1 của bệnh vì tiêu chảy. Trước đó 2 ngày, bệnh nhân có ăn bún riêu cua kèm rau sống ở chợ. Bệnh nhân đi ngoài liên tục phân toàn nước trong, không có nhầy máu. Bệnh nhân nôn nhiều, không đau bụng, không mót rặn. Khám: Bệnh nhân mệt lả, nhiệt độ 36,5oC. huyết áp 80/50 mmHg, mạch quay 120 lần/phút.
+### Bệnh nhân nữ, 22 tuổi có thai 8 tuần, vào viện ngày thứ 1 của bệnh vì tiêu chảy. Trước đó 2 ngày, bệnh nhân có ăn bún riêu cua kèm rau sống ở chợ. Bệnh nhân đi ngoài liên tục phân toàn nước trong, không có nhầy máu. Bệnh nhân nôn nhiều, không đau bụng, không mót rặn. Khám: Bệnh nhân mệt lả, nhiệt độ 36,5 oC, huyết áp 80/50 mmHg, mạch quay 120 lần/phút.
 
 #### Chẩn đoán lâm sàng có thể nhất ở bệnh nhân này
 
@@ -1762,7 +1762,7 @@
 
 #### Bạn cần làm thêm xét nghiệm gì để khẳng định chẩn đoán:
 
-- Anti HBc typ IgM.
+- Anti HBc type IgM.
 
 ### Một bệnh nhân nam có tiền sử sử dụng ma túy 10 năm nay vào viện vì lí do vàng da, vàng mắt, mệt mỏi. Xét nghiệm AST/ALT = 1100/1200 U/L, bilirubin toàn phần/bilirubin trực tiếp = 43/34 µmol/L, HBsAg (-), anti HCV (+), anti HAV typ IgM và IgG (-).
 
