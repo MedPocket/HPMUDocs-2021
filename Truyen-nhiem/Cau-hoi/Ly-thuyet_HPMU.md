@@ -2,556 +2,18 @@
 
 > Tác giả **Long Nhật Nguyễn**.
 
-## Viêm não
-
-### Viêm não trong thương hàn biểu hiện như thế nào?
-
-- Dấu hiệu Typhos.
-
-### Tổn thương thuỳ thái dương căn nguyên nào gây bệnh?
-
-- Herpes Simplex 1.
-
-### Tử ban hình sao có giá trị trong chẩn đoán căn nguyên do?
-
-- Neisseria menigitidis (Não mô cầu). Đặc điểm màu đỏ thẫm haocwj xám tính, đường kính 1-5 mm bề mặt bằng phẳng không gồ tập trung ưới thân mình và chi dưới.
-
-### Viêm não virus thứ phát do
-
-- Virus quai bị.
-
-### Nguồn bệnh trong thiên nhiên của viêm não Nhật Bản B
-
-- Chim và lợn.
-
-### Tiến triển thường gặp của viêm não Nhật Bản B là?
-
-- Tử vong hoặc qua khỏi nhưng để lại di chứng.
-
-### Phế cầu S. Pneumon hay gây viêm não
-
-- Gram (+).
-- Gây bệnh ở trẻ <5 tuổi và người già > 50 tuổi.
-
-### Các phòng bệnh đặc hiệu virus gây viêm não?
-
-- Bằng vacine đối với HI cho trẻ dưới 5 tuổi.
-- Đối với não mô cầu có 4 loại vacine: Nonovalen, bivalent A và C, quadrivalet A.
-- Tiêm vacine viêm não Nhật Bản B.
-
-### Trung gian truyền bệnh viêm não Nhật Bản B tại Việt Nam là?
-
-- Muỗi Culex.
-
-### 3 thể lâm sàng thường gặp của viêm não mô cầu?
-
-- Viêm họng.
-- Nhiễm khuẩn huyết.
-- Viêm màng não.
-
-### Virus nào gây viêm não ở tất cả các mùa trong năm?
-
-- Herpes Simplex 1.
-
-### Khi nghi ngờ viêm não do virus Herpes Simplex 1 (tương tự với viêm não do virus B) cần tiến hành điều trị ngay bằng?
-
-- Acyclovir.
-
-### Acyclovir được chỉ định khi nào?
-
-- Điều trị sớm cho BN viêm não mà không rõ căn nguyên.
-- Trước khi BN mất ý thức.
-- Trong vòng 24h từ khi khởi phát.
-- Glassgow 9-15 điểm.
-
-### Đứng trước 1 BN chưa được tiêm chủng có sưng tuyến nước bọt mang tai và có thay đổi ý thức cần nghĩ đến viêm não thứ phát do căn nguyên nào?
-
-- Virus quai bị (paramyxo virus).
-
-### BN chẩn đoán viêm não do virus, xuất hiện mụn nước ở mạn sườn phải. Nguyên nhân do?
-
-- Herpes Simplex 1, Varicella Zoster.
-
-### Sự lan nhanh của các ban xuất huyết do não mô cầu là 1 yếu tố tiên lượng tốt?
-
-- Sai.
-
-## Viêm gan virus
-
-### Vacine phòng viêm gan B đạt hiệu quả:
-
-- 90%.
-
-### Virus viêm gan A, B, C, D, E thuộc họ?
-
-- HAV Picorna.
-- HBV Hepadna.
-- HCV Flaviviridae.
-- HDV Delta mượn vỏ của virus viêm gan B.
-- HEV Calcivirus.
-
-### HCV khi nào cần điều trị?
-
-- Khi bệnh nhân xơ gan bất kể còn bù hay mất bù.
-
-### Không áp dụng tiêm phòng cho bệnh nào?
-
-- Viêm gan C.
-
-### Thời gian ủ bệnh của viêm gan A?
-
-- 4 tuần.
-- _HAV trung bình 30 ngày (15-45 ngày), HBV trung bình 60-90 ngày (30-180 ngày), HCV trung bình 50 ngày (15-150 ngày), HDV giống HBV, HEV trung bình 40 ngày (15-60 ngày)._
-
-### Thời gian ủ bệnh của viêm gan C?
-
-- 8 tuần.
-
-### BN nam, 23 tuổi, có xăm trở tiền sử viêm gan C cách đây 2 năm. XN có AST/ALT tăng, protein 59%, HbsAg (-), anti HCV (+), anti HCV type IgG (+).
-
-#### Chẩn đoán phù hợp là gì?
-
-- Viêm gan C cấp.
-
-#### Cần làm thêm XN gì?
-
-- HCV ARN.
-
-### Thuốc kháng virus nào sử dụng được cho phụ nữ mang thai?
-
-- Rifampicine 20mg.
-- DTG, Dohitegravit.
-
-### Điều trị quan trọng nhất của viêm gan C là?
-
-- Thuốc kháng virus viêm gan C.
-
-### Một phụ nữ 20 tuổi, khỏe mạnh, đến khám sức khỏe định kỳ, HbsAg (-), anti Hbs (+) 5 đơn vị/ml. Tư vấn cho BN?
-
-- Cô ấy nên đi tiêm phòng vacine viêm gan B.
-
-### BN nam 21 tuổi, ăn kém, vàng da 1 tuần nay. XN thấy HbsAG (+), anti Hbc type IgM (+), anti HCV (-), anti HAV type IgG (+), AST/ALT tăng. Chẩn đoán phù hợp là gì?
-
-- Viêm gan B cấp.
-
-### Một phụ nữ 30 tuổi, khỏe mạnh khám sức khỏe, HbsAg (-), anti Hbs 18 đơn vị. Cô ấy có cần tiêm phòng không?
-
-- Không.
-
-### Một phụ nữ khoẻ mạnh đến kiểm tra định kỳ HbsAg (-), Anti Hbs (+) 29 đơn vị/ml. Cô ấy cần tiêm phòng không?
-
-- Cô ấy đã đủ nồng độ kháng thể để bảo vệ.
-
-### Một BN viêm gan C do sử dụng ma tuý qua đường tĩnh mạch. AST/ALT tăng, HbSAg (+), anti HCV (+). Giả sử tải lượng virus 3x10^3. Áp dụng lựa chọn điều trị phù hợp?
-
-- Thuốc kháng virus.
-
-### Phụ nữ mang thai bị viêm gan B, thuốc kháng virus nào dùng cho BN?
-
-- Tenterfovir.
-
-### Viêm gan A ở các nước đang phát triển gặp chủ yếu ở?
-
-- Trẻ em.
-
-### Tam chứng cổ điển Caroli xuất hiện vào thời kỳ nào của viêm gan B?
-
-- Tiền hoàng đản.
-- _Tam chứng vàng da, phát ban, đau khớp._
-
-### Thời gian ủ bệnh viêm gan B?
-
-- 10 tuần.
-
-### Viêm gan B uống thuốc kháng virus bao lâu?
-
-- Điều trị có thời hạn bằng Pegylated Interferon (PegINF) 48 tuần.
-- Xơ gan điều trị cả đời.
-- Chưa xơ gan, HBeAg dương tính điều trị tới khi HBeAg âm tính rồi thêm 12 tháng hoặc không đo được HBeAg thì điều trị ít nhất 12 tháng.
-
-### Biểu hiện lâm sàng của viêm gan virus cấp
-
-- Chán ăn, vàng da, mệt mỏi, xuất hiện sau sốt.
-- Đột ngột mệt mỏi, buồn nôn, chướng bụng, đau hạ sườn phải.
-- Vàng da, phân bạc màu, nước tiểu sẫm màu.
-
-### Thời gian giai đoạn viêm gan cấp?
-
-- Viêm gan cấp khi được chẩn đoán <6 tháng.
-- Viêm gan thể teo gan vàng cấp:
-  - Tối cấp <1 tuần.
-  - Cấp trong 1 tháng đầu.
-  - Bán cấp sau 1 tháng.
-
-### Hội chứng tiền hoàng đản
-
-- Từ 5-15 ngày.
-- Mệt mỏi.
-- Chán ăn, buồn nôn, đau thượng vị và hạ sườn phải.
-- Sốt nhẹ hoặc không.
-- Đau khớp đôi khi phát ban. Tam chứng cổ điển Caroli (vàng da, phát ban, đau khớp).
-- Tiếp đố đến thời kỳ hoàng đản 2-6 tuần: Vàng da xuất hiện từ từ, hết sốt, nước tiểu sẫm màu, phân nhạt màu.
-
-### Diễn biến viêm gan A
-
-- Viêm gan A gây dịch.
-- Viêm gan A không dẫn đến viêm gan mạn và rất ít tử vong.
-
-### Diễn biến nào viêm gan gây tử vong
-
-- Ung thư HCC -> Tử vong.
-- Xơ gan -> Suy gan -> Tử vong.
-
-### Viêm gan B, C, D lây qua đường?
-
-- Máu (Chủ yếu viêm gan C).
-- Tình dục không an toàn.
-- Mẹ sang con trong thời kỳ chu sinh (không lây qua rau thai với viêm gan B).
-- Lây ngang.
-
-### Điều trị nào nên được tiến hành ở BN viêm gan B cấp tính?
-
-- Nghỉ ngơi, điều trị triệu chứng.
-
-### Về cơ bản, chỉ định điều trị thuốc kháng virus viêm gan B mạn cần dựa vào?
-
-- Cả 3 yếu tố:
-  - Men ALT.
-  - Tải lượng HBV ADN.
-  - Tình trạng xơ hóa gan.
-
-### Đường lây chủ yếu của virus viêm gan C là?
-
-- Tiêm chích có dùng chung bơm kim tiêm.
-
-## HIV
-
-### Thời gian điều trị bằng Co-trimoxazole
-
-- ARV ít nhất 12 tháng, CD4>350 và lâm sàng ổn định.
-
-### XN phát hiện sớm HIV
-
-- p24.
-
-### HIV có bạch sản lông là giai đoạn mấy?
-
-- Giai đoạn 3.
-
-### Điều nào không nên làm khi bị phơi nhiễm HIV?
-
-- Không nặn bóp máu.
-- Không điều trị dự phòng phơi nhiễm khi đã quá 72h.
-- Không chỉ định dự phòn sau phơi nhiễm HIV cho các trường hợp:
-  - Người bị phơi nhiễm đã nhiễm.
-  - Người gây phơi nhiễm có HIV (-).
-  - Phơi nhiễm với dịch không có nguy cơ nhiễm HIV.
-  - Phơi nhiễm liên tục với HIV.
-- Các bước xử trí phơi nhiễm:
-  - Bước 1 xử lý vết thương tại chỗ: Rửa vết thương dưới vòi nước sạch bằng xà phòng, rửa mắt bằng nước cất hoặc nước muối liên tục trong 5 phút, rửa mũi miệng.
-  - Bước 2 báo cho người phụ trách và lập biên bản.
-  - Bước 3 đánh giá nguy cơ phơi nhiễm.
-  - Bước 4 xác định tình trạng HIV của nguồn gây phơi nhiễm.
-  - Bước 5 xác định tình trạng HIV của người bị phơi nhiễm.
-  - Bước 6 tư vấn cho người bị phơi nhiễm.
-
-### Dự phòng bằng Co-trimoxazole khi nào?
-
-- CD4 <=350.
-
-### Phòng lây truyền HIV biện pháp nào tốt nhất?
-
-- Tình dục an toàn.
-
-### Điều trị dự phòng viêm màng não và nhiễm nấm Cryptococus nèoormans cho BN HIV khi?
-
-- CD4 <100.
-
-### 1 BN HIV, đau mạn sườn, sốt, CD4 = 206, mờ mắt và lao màng phổi ở giai đoạn nào?
-
-- Giai đoạn 4.
-
-### Diễn biến lâm sàng tự nhiên của HIV có mấy giai đoạn?
-
-- 3 giai đoạn:
-  - Giai đoạn cấp tính.
-  - Giai đoạn tiềm tàng.
-  - Giai đoạn tiến triển.
-
-### Khi nào điều trị ARV?
-
-- Bất kể CD4 bằng bao nhiêu. Chỉ định điều trị ngay khi được chẩn đoán HIV.
-- Trẻ dưới 18 tháng tuổi có PCR lần 1 (+).
-
-### Virus HIV tích hợp mã di truyền vào ADN bằng cách?
-
-- ADN tiền virus tích hợp vào ADN tế bào chủ nhờ ZnZyen Intergrbse.
-
-### Nồng độ HIV huyết tương cao nhất ở thời điểm nào?
-
-- Giai đoạn cấp tính và giai đoạn tiến triển AIDS.
-
-### 1 phụ nữ phát hiện nhiễm HIV 2 năm, hiện có zona mặt phải làm BN đau nhức, nhìn mờ. BN ở giai đoạn mấy?
-
-- Giai đoạn 2.
-
-### Cytomegalovirus gây ra, trừ
-
-- Viêm cầu thận.
-- _Gây bệnh tại võng mạc, đại tràng, thực quản_
-
-### Nấm Talaromyces (Penicillium marneffei)
-
-- CD4 <100.
-- _Tổn thương da đơn thuần đặc trưng._
-- _Điều trị amphotericin B (0.7-1.5 mg/kg/ngày) x 2 tuần, sau đó dùng itraconazole 200mg (trẻ em 5-6 mg/kg) x 2 lần/ngày x 8-10 tuần. Ngừng khi điều trị ARV có CD4 > 100 duy trì >= 6 tháng._
-
-### Co-trimoxazole được chỉ định điều trị dự phòng các bệnh nào?
-
-- Viêm phổi Pneumocystis jiroveci (PCP).
-- Viêm não Toxoplasma.
-- Viêm phổi do vi khuẩn Norcadia.
-- Bệnh đường tiêu hóa Salmonela, Shigella isopora, v.v.
-- Sốt rét.
-
-### Co-trimoxazolee không điều trị dự phòng cho?
-
-- Lao.
-- Chống chỉ định và sulfamid.
-
-### Điều trị nấm Candida miệng bằng?
-
-- Fluconazole 100-200 mg/ngày x 7-14 ngày.
-
-## Uốn ván
-
-### Trực khuẩn uốn ván?
-
-- Kỵ khí gram (+).
-- _Tên Clostridium tetani._
-
-### Thời gian biểu hiện bệnh của uốn ván?
-
-- Nung bệnh trung bình 7-12 ngày. Dưới 8 ngày nặng, trên 20 ngày tiên lượng khả quan.
-- Khởi phát dưới 48 giờ bệnh nặng, trên 5 ngày bệnh nhẹ.
-
-### Tiên lượng uốn ván tốt lên khi?
-
-- Thời gian ủ bệnh kéo dài.
-
-### Tiên lượng BN uốn ván dựa vào?
-
-- Thời gian nung bệnh.
-- Thời gian khởi phát.
-- Cơ địa.
-- Cơn co giật.
-- Rối loạn thần kinh thực vật.
-- Kết quả điều trị.
-
-### Uốn ván có cơn co giật phân biệt với?
-
-- Ngộ độc Strychnin.
-- _Toàn phát phân biệt viêm màng não mủ giả uống ván, hạ đường huyết, cơn testanine, histeria, u não, v.v._
-
-### Kháng sinh ưu tiên điều trị uốn ván?
-
-- Penicilin G, metronidazol, cephalosporine, imipenem, macrolide. Trong đó penicilin G hay được sử dụng nhất.
-
-### Kiểu co cơ của uốn ván?
-
-- Co cứng tự nhiên hoặc do kích thích kéo dài vài dây đến vài phút.
-- Co cứng điển hình gồm cứng lưng, duỗi vai, bụng.
-
-### Sử dụng SAT trong uốn ván để?
-
-- Trung hoà độc tố.
-
-### Liều tối thiểu của SAT?
-
-- 10000 UI. _Tiêm từ 10000-20000 UI_.
-
-### Triệu chứng lâm sàng quan trọng nhất để phân biệt uốn ván với các bệnh thần kinh khác?
-
-- Tinh thần tỉnh.
-
-### Phương pháp giảm tỷ lệ uốn ván sơ sinh?
-
-- Tiêm phòng vacine cho thai phụ 3 tháng cuối.
-- Tiêm vacine giải độc tố cho trẻ 2-3 tháng (5 trong 1).
-
-### Dấu hiệu gợi ý uốn ván thể nặng?
-
-- Rối loạn thần kinh thực vật.
-
-### Các nguyên nhân có thể gây co giật ở BN uốn ván?
-
-- Tất cả các ý (Kích thích với tiếng động, tác nghẽn, rối loạn thần kinh thực vật).
-
-### Hội chứng rối loạn thần kinh thực vật do uốn ván.
-
-- Sốt 39-40 độc C, mạch nhanh, huyết áp thất thường, da lúc đỏ lúc tái, tăng tiết mồ hôi, tăng tiết đờm dãi.
-
-### Bệnh uốn ván nặng khi có thời kỳ khởi phát?
-
-- <2 ngày.
-
-### Biểu hiện lâm sàng sớm cần phát hiện của BN uốn ván?
-
-- Cơn chẹn ngực.
-
-### Cứng hàm uốn ván phân biệt với?
-
-- Viêm khớp thái dương hàm.
-- _Ngoài ra phân biệt với tai biến răng 8, amidan mủ, sai khớp thái dương hàm, viêm xương hàm)._
-
-### Thể uốn ván gây tử vong nhiều nhất
-
-- Uốn ván đầu có liệt.
-
-### Thể uốn ván tiên lượng nhẹ
-
-- Uốn ván cục bộ.
-
-## Sốt xuất huyết Dengue
-
-### Vật chủ chính của virus sốt Dengue:
-
-- Người.
-
-### Đối tượng ít mắc Dengue?
-
-- Người cao tuổi.
-- _Hay mắc ở trẻ em <15 tuổi, đa số từ 5-9 tuổi, vùng dịch vừa người lớn mắc nhưng không quá 50 tuổi._
-
-### Sốt Dengue hay gặp tháng nào trong năm ở Việt Nam?
-
-- Thường từ tháng 4-7.
-- 4-10 ở miền Bắc và 6-12 ở miền Nam.
-
-### Đặc điểm của sốt xuất huyết Dengue?
-
-- Giai đoạn sốt:
-  - Sốt cao đột ngột, liên tục.
-  - Nhức đầu, chán ăn, buồn nôn.
-  - Da xung huyết.
-  - Xuất huyết ở da, chân răng.
-- Giai đoạn nguy hiểm (ngày 3-7):
-  - Giảm sốt.
-  - Vật vã, li bì.
-  - Gan to.
-  - Nôn.
-  - Thoát huyết ương da tăng tính thấm thành mạch (kéo dài 24h-48h).
-  - Xuất huyết.
-  - Tổn thương gan, thận.
-- Giai đoạn hồi phục (ngày 7-10):
-  - Hết sốt.
-  - Có thể phát ban, ngứa.
-
-### Dấu hiệu cảnh báo sốt xuất huyết Dengue
-
-- Sốt cao 40 độ C, đau dầu, đau khớp, đau ổ mắt, xuất huyết chảy máu mũi, răng, sốc mạch nhanh, huyết áp tụt, tràn dịch đa màng, Hct tăng, albumin giảm.
-- Cụ thể 9 dấu hiệu cảnh báo:
-  - Vật vã, li bì.
-  - Nôn nhiều >3 lần/h hoặc >4 lần/6h.
-  - Xuất huyết niêm mạc.
-  - Gan to >2 cm.
-  - Tiểu cầu giảm.
-  - Hct tăng, PLT giảm.
-  - AST/ALT tăng trên 400 U/L.
-  - Tràn dịch màng bụng trên Xquang, siêu âm.
-
-### Dấu hiệu không có trong tăng tính thấm thành mạch do sốt xuất huyết Dengue
-
-- Siêu âm không thấy dịch nhưng tiểu cầu giảm.
-
-### Sốt xuất huyết Dengue truyền khối tiểu cầu khi nào?
-
-- Khi tiểu cầu <5000/mm^3 dù chưa có xuất huyết.
-
-### Muỗi Aedes là trung gian truyền những bệnh gì?
-
-- Sốt xuất huyết Dengue và Zikavirus.
-- _Vector truyền bệnh chính là Aedes. aegypti. Ngoài ra các loại Aedes khác khả năng truyền bệnh không rõ ràng._
-
-### Hiện tượng thoát huyết tương ra ngoài lòng mạch xảy ra trong giai đoạn nào của sốt xuất huyết Dengue?
-
-- Giai đoạn nguy kịch.
-
-### Type virus Dengue nào hay gây bệnh cảnh sốt xuất huyết Dengue nặng?
-
-- Type 2.
-
-### Sốt xuất huyết Dengue nặng là sốt xuất huyết kèm theo?
-
-- Sốt cao.
-- Xuất huyết tạng.
-- Suy tạng.
-
-### Điều trị sốt Dengue
-
-- Nước muối sinh lý 0.9%.
-
-### Biện pháp phòng sốt xuất huyết Dengue khi chưa có dịch:
-
-- Không đặc hiệu:
-  - Kiểm tra tích cực và theo dõi sát muỗi Aedes aegypti.
-  - Hướng dẫn cộng đồng biết cách sớm nhận biết.
-- Đặc hiệu:
-  - Đang nghiên cứu vacine.
-
-## Sốt mò
-
-### Địa dư sốt mò?
-
-- Bãi hoa màu
-
-### Đặc điểm của vi khuẩn sốt mò.
-
-- Tên Orientia tsutsugamushi.
-- Sốt mò là vi khuẩn Gram âm và bắt buộc phải kí sinh nội bào.
-- Trung gian truyền bệnh là ấu trùng mò Leptotrobidium thông qua vật chủ tự nhiên là động vật nhỏ như chuột, chó, gà, chim.
-- Không lây trực tiếp từ người sang người.
-
-### Dấu hiệu của sốt mò.
-
-- Sốt cao kéo dài, kèm theo dấu hiệu da xung huyết, hạch to, phát ban, sẩn đỏ.
-- Dấu Eschar có giá trị chẩn đoán nhưng không phải lúc nào cũng có.
-
-### Bệnh cảnh lâm sàng thường gặp trong bệnh sốt mò?
-
-- Sốt, phát ban, nổi hạch tại nhiều cơ quan. Vết Eschar ở vị trí mềm, không đau, không ngứa, 50-70% gan lách to ở tuần thứ 2.
-
-### Dấu hiệu có giá trị nhất để chẩn đoán bệnh sốt mò?
-
-- Dấu Eschar.
-
-### Tính chất của vết đốt mò?
-
-- Tròn, bầu dục đường kính 0.5-1 cm, không đau, không ngứa, nổi viền đỏ lên mặt da.
-- Nếu có vẩy, vẩy đen, cứng phủ trên môt nốt sẩn có gờ cứng.
-- Nếu vẩy bong sẽ để lại vết lõm, màu đỏ tươi, sạch không tiết dịch, không có mủ.
-
 ## Nhiễm khuẩn huyết
+
+### Hội chứng đáp ứng viêm hệ thống (SIRS)
+
+- Nhiệt độ >38 hoặc <36 oC.
+- Nhịp tim >90 lần/phút.
+- Nhịp thở >20 lần/phút hoặc PaCO2 <32 mmHg.
+- Bạch cầu >10 G/l hoặc <4 G/l.
 
 ### Định nghĩa nhiễm khuẩn huyết
 
 - Rối loạn chức năng cơ quan đe dọa tính mạng.
-
-### Biểu hiện lâm sàng nhiễm khuẩn huyết do S. Aureus (tụ cầu)?
-
-- Sốt cao, rét run, sau chấn thương.
-
-### BN tiền sử đái buốt, đái dắt. Lâm sàng sốt cao, rét run, mạch tăng, huyết áp 90/60 mmHg, đái buốt, nước tiểu đục, protein (++), hồng cầu (+). Chẩn đoán ở BN này là gì?
-
-- Nhiễm khuẩn huyết đường vào tiết niệu.
-
-### Một BN làm nghề thịt lợn có ăn thịt lợn, vào viện vì sốt rét run, nhiệt độ 39 độ C, huyết áp 90/60 mmHg, mạch 100 lần/phút? Căn nguyên gây bệnh là?
-
-- Streptocucus suis (liên cầu lợn).
-
-### Khi nghi ngờ nhiễm trùng do nguyên nhân kỵ khí kháng sinh nào nên được sử dụng?
-
-- Metronidazol.
 
 ### Định nghĩa nhiễm khuẩn huyết cổ điển?
 
@@ -560,17 +22,33 @@
 | A. Có ổ nhiễm khuẩn tiên phát | B. Có ổ di bệnh |
 | C. Có ổ nhiễm khuẩn thứ phát  | _D. Tất cả_     |
 
-### Sốc nhiễm khuẩn được định nghĩa theo Sepsis 3?
+### Đánh giá điểm SOFA?
+
+- Dựa vào 6 đặc điểm:
+  - Hô hấp PaO2/FiO2.
+  - Đông máu tiểu cầu.
+  - Gan bilirubin.
+  - Tim mạch huyết áp.
+  - Thần kinh Glassgow
+  - Thận creatinin.
+
+### Sốc nhiễm khuẩn được định nghĩa theo Sepsis 3
 
 - Sốc nhiễm khuẩn = Nhiễm khuẩn huyết + HAdm <= 65 mmHg + Lactat >=2 = Nhiễm khuẩn huyết + HAtb > 65 mmHg + Lactat >=2.
+
+### Sốc nhiễm khuẩn là tình trạng nhiễm khuẩn huyết có hạ huyết áp và phải sử dụng thuốc vận mạch
+
+- Đúng.
 
 ### Tỷ lệ chết do nhiễm khuẩn Sepsis 3
 
 - 40%.
 
-### Phương pháp chẩn đoán sớm nhiễm khuẩn huyết?
+### Ổ nhiễm trùng khởi đầu theo 3 đường
 
-- Phân lập vi khuẩn từ máu (cấy máu 2-3 h), mủ, dịch.
+- Đường tĩnh mạch.
+- Đường viêm nội tâm mạc cấp và bán cấp.
+- Đường bạch huyết.
 
 ### Biểu hiện lâm sàng ổ di bệnh tiêu hóa của nhiễm khuẩn huyết?
 
@@ -583,172 +61,508 @@
 - Sốt, ngộ độc.
 - Ổ nhiễm khuẩn tiên phát, sốt cao, tình trạng nhiễm trùng - nhiễm độc, bạch cầu tăng cao, bạch cầu đa nhân trung tính tăng.
 
+### Các thể của nhiễm khuẩn huyết
+
+- Thể tối cấp tử vong trong 24-48h.
+- Thể cấp sốt kéo dài, sốt kiểu thương hàn, tử vong trong 5-10 ngày.
+- Thể bán cấp điều trị kéo dài, nhiều ổ di bệnh.
+- Thể kéo dài.
+
+### Nguyên nhân gây bệnh
+
+- Từ cộng đồng phổ biến E. coli, gram (-), phế cầu, tụ cầu.
+- Nhiễm khuẩn bệnh viện tụ cầu, trực khuẩn mủ xanh, gram (-), đường ruột.
+- Vi khuẩn gồm 3 loại chính:
+  - Gram (-) thường gặp Enterobacteriacae như Salmonella, E. coli, Klebsiella, Seratia, v.v
+  - Gram (+) như Streptococus pneumoniae, Staphylococus aureus, v.v
+  - Kị khí như Clostridium perfringens, Bacteroides fragilis, Bacillus perfingens, v.v
+
+### Biểu hiện lâm sàng nhiễm khuẩn huyết do S. aureus (tụ cầu)
+
+- Sốt cao, rét run, sau chấn thương.
+
+### BN tiền sử đái buốt, đái dắt. Lâm sàng sốt cao, rét run, mạch tăng, huyết áp 90/60 mmHg, đái buốt, nước tiểu đục, protein (++), hồng cầu (+). Chẩn đoán ở BN này là gì?
+
+- Nhiễm khuẩn huyết đường vào tiết niệu.
+
+### Một BN làm nghề thịt lợn có ăn thịt lợn, vào viện vì sốt rét run, nhiệt độ 39 oC, huyết áp 90/60 mmHg, mạch 100 lần/phút. Căn nguyên gây bệnh là?
+
+- Streptocucus suis (liên cầu lợn).
+
+### Một phụ nữ 35 tuổi vào viện vì sốt, viêm họng 1 tuần, huyết áp tâm thu 120 mmHg, nhiệt độ 39.5 oC, mạch 130 chu kỳ/phút, vàng da nhẹ, phát ban, thiểu niệu, ure 21 mmol/lm, creatinin 186 mcmol/l, AST/ALT 134/198 U/l, procalcitonin 5.8 mg/l. Chẩn đoán là gì?
+
+- Nhiễm khuẩn huyết cảnh báo sốc nhiễm khuẩn.
+
+### Tiêu chuẩn chẩn đoán nhiễm khuẩn huyết
+
+- Cấy mọc vi khuẩn.
+
+### Phương pháp chẩn đoán sớm nhiễm khuẩn huyết?
+
+- Phân lập vi khuẩn từ máu (cấy máu 2-3h), mủ, dịch.
+- Kết quả cấy máu thường có sau 4 ngày.
+
+### Ở người procalcitonin có giá trị chẩn đoán nhiễm khuẩn khi
+
+- PCT >10 ng/ml.
+
+### Nguyên tắc điều trị
+
+- Điều trị sớm.
+- Kháng sinh liều cao, phối hợp, đủ thời gian.
+- Trước khi có kết quả chẩn đoán phải dự đoán vi khuẩn.
+- Dùng kháng sinh đường tĩnh mạch.
+- Điều chỉnh kháng sinh theo kháng sinh đồ.
+
+### Kháng sinh được khuyến cáo để điều trị sốt vào viện?
+
+- Doxycyline.
+
+### Khi nghi ngờ nhiễm trùng do nguyên nhân kỵ khí kháng sinh nào nên được sử dụng
+
+- Metronidazol.
+
 ### Trong điều trị nhiễm khuẩn huyết do tụ cầu vàng kháng methicilline phối hợp kháng sinh cần ưu tiên kết hợp với vancomycin?
 
 - Cephalosporin thế hệ 1.
 
-### Một phụ nữ 35 tuổi vào viện vì sốt, viêm họng 1 tuần, huyết áp tâm thu 120 mmHg, nhiệt độ 39.5 độ C, mạch 130 chu kỳ/phút, vàng da nhẹ, phát ban, thiểu niệu, ure 21 mmol/lm, creatinin 186 mcmol/l, AST/ALT 134/198 U/l, procalcitonin 5.8 mg/l. Chẩn đoán là gì?
-
-- Nhiễm khuẩn huyết cảnh báo sốc nhiễm khuẩn.
-
-### Kháng sinh điều trị nhiễm khuẩn huyết ngoại trừ?
+### Kháng sinh điều trị nhiễm khuẩn huyết, ngoại trừ
 
 - Gentamycine.
 
-### Sốc nhiễm khuẩn là tình trạng nhiễm khuẩn huyết có hạ huyết áp và phải sử dụng thuốc vận mạch?
-
-- Đúng.
-
-### Tiêu chuẩn chẩn đoán nhiễm khuẩn huyết là?
-
-- Cấy mọc vi khuẩn.
-
-### Ở người procalcitonin có giá trị chẩn đoán nhiễm khuẩn khi?
-
-- PCT >10 ng/ml.
-
-### Đánh giá điểm SOFA?
-
-- Dựa vào 6 đặc điểm:
-  - Hô hấp PaO2/FiO2.
-  - Đông máu tiểu cầu.
-  - Gan bilirubin.
-  - Tim mạch huyết áp.
-  - Thần kinh Glassgow
-  - Thận creatinin.
-
-### Hội chứng đáp ứng viêm hệ thống?
-
-- Nhiệt độ > 38 hoặc < 35 oC.
-- Nhịp tim > 40 lần/phút.
-- Nhịp thở > 20 lần/phút hoặc PaCO2 < 32 mmHg.
-- Bạch cầu > 10 G/l hoặc < 4 G/l.
-
 ### Kháng sinh phù hợp cho các đường vào?
 
-- Tiêu hóa, gan, mật dùng Cephalosporin thế hệ 3-4 hoặc carbapenem, quinolon phối hợp metronidazol.
+- Tiêu hóa, gan, mật dùng cephalosporin thế hệ 3-4 hoặc carbapenem, quinolon phối hợp metronidazol.
 - Hô hấp dùng cephalosporin thế hệ 3-4, quinolon.
 - Da dùng oxacilin, cefazolin hoặc vancomycin, v.v.
+
+### Dùng corticoid khi nào?
+
+- Đối với những BN sốc nhiễm trùng, huyết áp tâm thu <90 mmHg.
+- Dùng đường tĩnh mạch 8h đầu của sốc, dùng trong 7 ngày.
 
 ### Tiên lượng của BN nhiễm khuẩn huyết
 
 - Bệnh có tỷ lệ tử vong cao.
 
-## Thủy đậu
+## Viêm màng não
 
-### Thuỷ đậu xảy ra vào
+### Căn nguyên gây viêm màng não mủ
 
-- Cuối đông, đầu xuân.
+- Căn nguyên chủ yếu ở Việt Nam là Streptococcus suis (liên cầu lợn), Klebsiella pneumoniae, S. pneumoniae (phế cầu).
+- Não mô cầu (Neisseria Meningitis), gây ra các vụ dịch nhỏ, gặp ở tuổi dưới 20 nhưng có thể gặp ở mọi lứa tuổi. Gồm 3 type:
+  - Sero A gặp ở châu Phi.
+  - Sero B gặp ở các nước đang phát triển.
+  - Sero C gặp ở mọi nơi trên thế giới.
+- Haemophilus Influenze gặp ở trẻ 3-5 tuổi.
+- Phế cầu gặp ở mọi lứa tuổi.
+- Listeria monocytogene gặp ở trẻ bú mẹ, phụ nữ có thai và người suy giảm miễn dịch.
+- Liên cầu lợn thường gặp.
 
-### Thời gian ủ bệnh thuỷ đậu?
+### Vi khuẩn gây viêm màng não theo lứa tuổi
 
-- Từ 10-21 ngày, trung bình 14-17 ngày.
+- Sơ sinh: Liên cầu nhóm B, E. coli, phế cầu, não mô cầu.
+- Trẻ bú mẹ đến 5 tuổi: HI, phế cầu, não mô cầu.
+- Trẻ >5 tuổi đến <50 tuổi: Não mô cầu, phế cầu.
+- Hơn 50 tuổi: Phế cầu, não mô cầu, Listeria monocytogene.
 
-### Thời gian lây nhiễm thuỷ đậu từ ngày?
+### Triệu chứng gợi ý viêm màng não mủ
 
-- 7-10 ngày.
+- Sốt cao đột ngột 39-40 oC, đau đầu.
+- Rối loạn vận động: Cử động bất thường, co giật, liệt cứng.
+- Rối loạn tri giác: Mất phương hướng, lơ mơ, bất tỉnh.
 
-### Biểu hiện lâm sàng hướng tới thuỷ đậu?
+### Hai hội chứng thường gặp trong viêm màng não mủ?
 
-- Sốt, nhiều ban, phỏng nước toàn thân, nhiều lứa tuổi, nhiều hình thái.
+- Hội chứng nhiễm trùng.
+- Hội chứng màng não (đau đầu, nôn vọt, táo bón, sợ ánh sáng, tư thế nằm cò súng, cổ cứng, Kernig (+), v.v.).
 
-### Biến chứng thần kinh hay gặp ở thuỷ đậu?
+### Triệu chứng nào thường gặp trong viêm màng não do lao
 
-- Viêm màng não nước trong.
-- _Các biến chứng khác: Viêm phổi do thủy đậu (biến chứng trầm trọng nhất), viêm da do bội nhiễm liên cầu/tụ cầu, viêm cơ tim, viêm giác mạc, viêm khớp, viêm thận, xuất huyết nội tạng, v.v._
+- Bí đái.
 
-### Biến chứng viêm phổi trong thủy đậu?
+### Đặc điểm dịch não tuỷ trong viêm màng não mủ
 
-- Trầm trọng nhất.
-- Chiếm 20%, xảy ra vào ngày thứ 3 và thứ 5 của bệnh.
-- Lâm sàng ho sốt, đau ngực, Xquang thấy nốt mờ chẩn đoán viêm phổi kẽ.
+- Dịch đục, áp lực tăng.
+- Protein tăng >1 g/l.
+- Đường giảm, glucose dịch não tủy/glucose máu <0.3.
+- BC >1000/mm^3 chủ yếu là đa nhân trung tính.
 
-### Ban dạng nốt phỏng thường gặp ở bệnh nào?
+### Đặc điểm dịch não tủy do virus
 
-- Thủy đậu.
+- Tăng bạch cầu vài chục đến vài trăm <250.
+- Độ tập trung bình thường, hồng cầu thường không có.
+- Protein <1 g.
 
-### Điều trị thủy đậu bằng?
+### Nguyên tắc điều trị
 
-- Acyclovir.
+- Sử dụng kháng sinh đường tĩnh mạch ngay lập tức.
 
-### Phòng bệnh thủy đậu
+### Kháng sinh thường dùng
 
-- Cách ly đến khi mụn nước khô.
+- Hơn 3 tuổi: Cefotaxime 200-300 hoặc ceftriaxone 70-100.
+- Người lớn: Amoxicilline 200 hoặc cefotaxime 200-300 hoặc ceftriaxone 70-100.
+- Có thể phối hợp vancomycin, gentamycin nếu có dấu hiệu nguy hiểm.
 
-### Điều trị Zona và thủy đậu có giống nhau không?
+### Dùng corticoid tron viêm màng não với vi khuẩn nào
 
-- Cùng một tác nhân nhưng điều trị khác nhau.
+- Haemophilus và Streptococcus suis để giảm di chứng.
 
-## Thương hàn
+### Thuốc nào sau đây không được lựa chọn điều trị viêm màng não
 
-### Đặc điểm không phải của vi khuẩn thương hàn:
+- Penopenem.
 
-- _Không phải đó là_ bắt buộc phải kí sinh nội bào.
-- _Tên vi khuẩn Salmonella typhi (có 3 loại kháng nguyên O gây bệnh, H tạo kháng thể, Vi quan trọng về mặt dịch tễ) và Salmonella paratyphi A, B, C. Trực khuẩn gram (-), đường ruột._
-- _Bị tiêu diệt tại dạ dày bởi acid dịch vị._
+### Thời gian trung bình điều trị viêm màng não mủ?
 
-### Sốt trong thương hàn
+- Kháng sinh 10-14 ngày hết sốt sau 3 ngày.
+- Não mô cầu 7 ngày.
+- Hib 10 ngày.
+- Phế cầu 14 ngày.
+- Gram (-), tụ cầu, liên cầu 3 tuần.
 
-- Sốt từ từ tăng dần. Rồi sốt cao liên tục giữ vững mức 39.5-40 độ C. Hình cao nguyên.
+### Chọc dịch não tủy lại sau bao lâu để đánh giá
 
-### Đào ban thường gặp trong bệnh nào?
+- 48-72h.
 
-- Thương hàn.
+### Di chứng thường gặp trong viêm màng não mủ do S. suis?
 
-### Ban trong bệnh thương hàn xuất hiện vào
+- Di chứng như liệt nửa người, liệt dây thần kinh sọ não III, rối loạn tiền đình, điếc.
 
-- Tuần thứ 2 trong thời kỳ toàn phát (hồng ban).
+### Đặc điểm phế cầu S. pneumonie hay gây viêm màng não
 
-### Ban trong thương hàn kéo dài bao lâu?
+- Gram (+).
+- Gây bệnh ở trẻ <5 tuổi và người già > 50 tuổi.
 
-- 2-3 tuần.
+### Các phòng bệnh đặc hiệu virus gây viêm não?
 
-### Vị trí ban trong thương hàn?
+- Bằng vacine đối với HI cho trẻ dưới 5 tuổi. Dự phòng với gia đình có trẻ <4 tuổi hoặc phụ nữ có thai sống với trẻ nhiễm HI bằng rifampicine 20 mg/kg x 4 ngày.
+- Đối với não mô cầu có 4 loại vacine: Monovalen, bivalent A và C, quadrivalet A.
 
-- Hồng ban ở tuần đầu thời kỳ toàn phát. Ban nhỏ 2-4 mm ở ngực bụng, số lượng ít, có khi chỉ 10 ban mỗi lần mọc, ban rát, ấn lặn, tồn tại 2-3 ngày thì mất, cách nhau 3-4 ngày mỗi đợt.
 
-### Biến chứng tim mạch gặp ở bệnh thương hàn?
+## Sốt kéo dài
 
-- Viêm cơ tim.
-- Viêm tác động tĩnh mạch.
+### Định nghĩa sốt kéo dài
 
-### Kháng sinh nào được ưu tiên điều trị bệnh thương hàn có kháng acid nalidixic?
+- Sốt trên 20 ngày không được chẩn đoán và điều trị hoặc được điều trị nhưng không đáp ứng.
 
-- Ceftriaxone 2-3g/ngày x 1 lần x 7-14 ngày.
-- _Thương hàn chưa kháng thuốc sử dụng chloramphenicol, ampicillin, trimethoprim-sulfamethaxazole._
-- _Ngày nay hay dùng fluoroquinolne như ciprofloxacine 500mg x2 lần/ngày hoặc ofloxacin 400mg x2 lần/ngày. Betalactam như ceftriaxone 2-3g/ngày hoặc cefixime 20-30mg/kg/ngày trong 7-14 ngày._
+### 3 nguyên nhân gây sốt kéo dài không rõ nguyên nhân?
 
-### Cấy máu tìm vi khuẩn thương hàn có tỷ lệ dương tính cao nhất ở thời kỳ nào?
+- Bệnh nhiễm trùng.
+- Bệnh tự miễn.
+- Bệnh ác tính.
 
-- Tuần thứ nhất của bệnh (90%).
+### Thăm khám BN sốt kéo dài
 
-### Kháng sinh ưu tiên điều trị thương hàn không kháng acid nadicilic là?
+- Thăm khám có hệ thống không bỏ sót cơ quan nào.
+- Thăm khám hằng ngày để phát hiện dấu hiệu mới.
 
-- Fluroquinolone.
+### Cách đo nhiệt độ
 
-### 3 nhóm biến chứng chính trong bệnh thương hàn?
+- Lấy nhiệt độ ở trực tràng xa bữa ăn, sau nằm tại giường 15 phút.
+- Độ 3h/lần.
 
-- Tiêu hóa xuất hiện cuối tuần thứ 2 và thứ 3:
-  - Xuất huyết tiêu hóa.
-  - Thủng ruột.
-  - Viêm miệng lợi, thương hàn đại tràng, viêm túi mật, viêm gan, viêm tuyến mang tai.
-- Tim mạch xuất hiện ở tuần thứ 3:
-  - Viêm cơ tim: nhịp tim nhanh, tiếng tim mờ, huyết áp hạ, tiếng ngựa phi, v.v.
-  - Viêm tắc động mạch hiếm gặp.
-- Thần kinh:
-  - Viêm não thương hàn với dấu hiệu Typhos.
-  - Viêm màng nõa tủy.
-- Ngoài ra còn viêm phế quản, viêm phổi, tràn dịch màng phổi, v.v.
+### Xử trí sốt kéo dài
 
-### Phương pháp điều trị thương hàn
+- Hạ sốt bằng paracetamol, efenagan codein, chườm lạnh, v.v.
+- Bù nước điện giải.
 
-- Kháng sinh, hạ sốt, điều trị triệu chứng, bù nước và điện giải.
+### Những điểm cần lưu ý
 
-### Thời gian hồi phục của bệnh thương hàn
+- Sau 1 tháng điều trị kháng sinh không hết sốt nghĩ đến nguyên nhân do kí sinh trùng.
+- Tìm viêm tại tĩnh mạch sâu.
+- Sốt do kháng sinh.
+- BN điều trị corticoid còn sốt nghĩ đến bội nhiễm hoặc lao.
+- Sốt kéo dài có thể gặp ở người ốm thời kỳ lại sức, phụ nữ béo phì, suy nhược cơ thể.
 
-- Hồi phục kéo dài (thời gian lại sức kéo dài 2 tuần).
+## Viêm gan virus
+
+### Diễn biến viêm gan A
+
+- Viêm gan A gây dịch.
+- Viêm gan A không dẫn đến viêm gan mạn và rất ít tử vong.
+
+### Viêm gan A ở các nước đang phát triển gặp chủ yếu ở?
+
+- Trẻ em.
+
+### Virus viêm gan A, B, C, D, E thuộc họ?
+
+- HAV Picorna, ARN không vỏ bọc, lây truyền qua đường phân miệng.
+- HBV Hepadna, vỏ bọc mang HBsAg + nucleo capside mang HBc + ADN bên trong.
+- HCV Flaviviridae, ARN đơn cực.
+- HDV Delta mượn vỏ của virus viêm gan B nên đồng nhiễm với viêm gan B, ARN phụ thuộc.
+- HEV Calicivirus, ARN, lây truyền qua đường phân miệng.
+
+### Viêm gan B, C, D lây qua đường?
+
+- Máu (Chủ yếu viêm gan C).
+- Tình dục không an toàn.
+- Mẹ sang con trong thời kỳ chu sinh (không lây qua rau thai với viêm gan B).
+- Lây ngang.
+
+### Đường lây chủ yếu của virus viêm gan C là?
+
+- Tiêm chích có dùng chung bơm kim tiêm.
+
+### Thời gian ủ bệnh của viêm gan A?
+
+- 4 tuần (1-3 tuần).
+- Thời gian ủ bệnh:
+  - HAV trung bình 30 ngày (15-45 ngày).
+  - HBV trung bình 60-90 ngày (30-180 ngày).
+  - HCV trung bình 50 ngày (15-150 ngày).
+  - HDV giống HBV.
+  - HEV trung bình 40 ngày (15-60 ngày).
+
+### Thời gian ủ bệnh viêm gan B
+
+- 10 tuần.
+
+### Thời gian ủ bệnh của viêm gan C
+
+- 7 tuần.
+
+### Diễn biến nào viêm gan gây tử vong
+
+- Ung thư HCC -> Tử vong.
+- Xơ gan -> Suy gan -> Tử vong.
+
+### Tiến triển của viêm gan thể điển hình
+
+- Thời kỳ ủ bệnh.
+- Tiền hoàng đản.
+- Hoàng đản.
+- Lui bệnh
+
+### Đặc điểm tiền hoàng đản
+
+- Từ 5-15 ngày.
+- Mệt mỏi.
+- Chán ăn, buồn nôn, đau thượng vị và hạ sườn phải.
+- Sốt nhẹ hoặc không.
+- Đau khớp đôi khi phát ban. Tam chứng cổ điển Caroli (vàng da, phát ban, đau khớp).
+
+### Tam chứng cổ điển Caroli xuất hiện vào thời kỳ nào của viêm gan B
+
+- Tiền hoàng đản.
+- Tam chứng vàng da, phát ban, đau khớp.
+
+### Đặc điểm thời kỳ hoàng đản
+
+- Sau thời kì tiền hoàng đản.
+- Kéo dài 2-6 tuần.
+- Vàng da xuất hiện từ từ, hết sốt, nước tiểu sẫm màu, phân nhạt màu.
+
+### Biểu hiện lâm sàng của viêm gan virus cấp
+
+- Chán ăn, vàng da, mệt mỏi, xuất hiện sau sốt.
+- Đột ngột mệt mỏi, buồn nôn, chướng bụng, đau hạ sườn phải.
+- Vàng da, phân bạc màu, nước tiểu sẫm màu.
+
+### Thời gian giai đoạn viêm gan cấp
+
+- Viêm gan cấp khi được chẩn đoán <6 tháng.
+- Viêm gan thể teo gan vàng cấp:
+  - Tối cấp <1 tuần.
+  - Cấp trong 1 tháng đầu.
+  - Bán cấp sau 1 tháng.
+
+### Dấu hiệu thần kinh trong teo gan vàng cấp (hôn mê gan)
+
+- Độ 1: Thay đổi tính cách, khó nhận biết.
+- Độ 2: Hay quên, lơ mơ, mất trí.
+- Độ 3: Hôn mê, kích động, dãy dụa, tăng trương lực cơ.
+
+### Xét nghiệm sinh vật học chẩn đoán viêm gan
+
+- Viêm gan A: Tìm kháng thể anti HAV type IgM.
+- Viêm gan B: Tìm HBsAg và kháng thể anti HBc type IgM.
+- Viêm gan C: Tìm kháng thể anti HCV.
+- Viêm gan D: Tìm kháng thể anti HDV.
+
+### Đặc điểm của các marker viêm gan
+
+- Viêm gan A
+  - Anti HAV type IgM xuất hiện từ đầu, mất sau 2 tháng.
+  - Anti HAV type IgG xuất hiện sau IgM, tồn tại cả đời.
+- Viêm gan B:
+  - Kháng nguyên HBsAg xuất hiện trước 3 tuần khi có dấu hiệu lâm sàng, 90% mất sau 3 tháng, 10% kéo dài trên 6 tháng.
+  - Kháng thể Anti HBs (HBsAb) xuất hiện sau nhiều tuần, tồn tại cả đời.
+  - Kháng nguyên HBcAg không có trong huyết thanh.
+  - Kháng thể anti HBc xuất hiện trước 1 tuần có dấu hiệu lâm sàng. IgM tồn tại vài tháng, IgG tồn tại cả đời.
+  - Kháng nguyên HBeAg xuất hiện cùng HBsAg nhưng biến mất trước.
+  - Kháng thể anti HBa đánh giá sự dừng hoạt động của virus.
+
+### BN nam, 23 tuổi, có xăm trở tiền sử viêm gan C cách đây 2 năm. XN có AST/ALT tăng, protein 59%, HBsAg (-), anti HCV (+), anti HCV type IgG (+).
+
+#### Chẩn đoán phù hợp là gì?
+
+- Viêm gan C cấp.
+
+#### Cần làm thêm XN gì?
+
+- HCV ARN.
+
+### Một phụ nữ 20 tuổi, khỏe mạnh, đến khám sức khỏe định kỳ, HBsAg (-), anti HBs (+) 5 đơn vị/ml. Tư vấn cho BN?
+
+- Cô ấy nên đi tiêm phòng vacine viêm gan B.
+
+### BN nam 21 tuổi, ăn kém, vàng da 1 tuần nay. XN thấy HBsAg (+), anti Hbc type IgM (+), anti HCV (-), anti HAV type IgG (+), AST/ALT tăng. Chẩn đoán phù hợp là gì?
+
+- Viêm gan B cấp.
+
+### Một phụ nữ 30 tuổi, khỏe mạnh khám sức khỏe, HBsAg (-), anti HBs 18 đơn vị. Cô ấy có cần tiêm phòng không?
+
+- Không.
+
+### Một phụ nữ khoẻ mạnh đến kiểm tra định kỳ HBsAg (-), Anti HBs (+) 29 đơn vị/ml. Cô ấy cần tiêm phòng không?
+
+- Cô ấy đã đủ nồng độ kháng thể để bảo vệ.
+
+### Một BN viêm gan C do sử dụng ma tuý qua đường tĩnh mạch. AST/ALT tăng, HBsAg (+), anti HCV (+). Giả sử tải lượng virus 3x10^3. Áp dụng lựa chọn điều trị phù hợp?
+
+- Thuốc kháng virus.
+
+### HCV khi nào cần điều trị?
+
+- Khi bệnh nhân xơ gan bất kể còn bù hay mất bù.
+
+### Phụ nữ mang thai bị viêm gan B, thuốc kháng virus nào dùng cho BN?
+
+- Tenterfovir.
+
+### Thuốc kháng virus nào sử dụng được cho phụ nữ mang thai?
+
+- Rifampicine 20mg.
+- DTG, Dohitegravit.
+
+### Điều trị quan trọng nhất của viêm gan C là?
+
+- Thuốc kháng virus viêm gan C.
+
+### Viêm gan B uống thuốc kháng virus bao lâu?
+
+- Điều trị có thời hạn bằng Pegylated Interferon (PegINF) 48 tuần.
+- Xơ gan điều trị cả đời.
+- Chưa xơ gan, HBeAg dương tính điều trị tới khi HBeAg âm tính rồi thêm 12 tháng hoặc không đo được HBeAg thì điều trị ít nhất 12 tháng.
+
+### Điều trị nào nên được tiến hành ở BN viêm gan B cấp tính
+
+- Nghỉ ngơi, điều trị triệu chứng.
+
+### Về cơ bản, chỉ định điều trị thuốc kháng virus viêm gan B mạn cần dựa vào?
+
+- Cả 3 yếu tố:
+  - Men ALT.
+  - Tải lượng HBV ADN.
+  - Tình trạng xơ hóa gan.
+
+### Vacine phòng viêm gan B đạt hiệu quả:
+
+- 90%.
+
+### Không áp dụng tiêm phòng cho bệnh nào?
+
+- Viêm gan C.
+
+### Tiêm huyết thanh globuline đặc hiệu chống HBsAg
+
+- Tiêm 500 đơn vị cho trường hợp phơi nhiễm nghề nghiệp.
+- Tiêm 8 đơn vị/kg tiêm bắp không quá 500 đơn vị cho người lọc máu.
+- Tiêm bắp 30 đơn vị/lg cho trẻ sơ sinh, tác dụng bảo vệ trong 5 tuần.
+
+
+## Cúm
+
+### Virus cúm thuộc họ virus nào?
+
+- Orthoyxoviridage có 3 loại cúm A, B, C.
+
+### Đặc điểm nào không phải của virus cúm type A?
+
+- Chỉ gây bệnh ở người.
+- Cúm A lây bệnh ở người và các loài động vật khác nhau.
+- Cúm B chỉ lưu hành ở người và gây các vụ dịch theo mùa.
+- Cúm C lưu hành ở người và lợn nhưng nhẹ.
+
+### Phân chia các nhóm
+
+- Dựa vào protein bề mặt haemagglutinin (H) gồm 18 loại và neuraminidase (N).
+
+### Thời gian ủ bệnh của cúm A
+
+- Cúm A (H5N1) ủ bệnh 2-5 ngày, kéo dài 17 ngày.
+- Cúm A (H7N9) ủ bệnh trung bình 5 ngày (1-10 ngày).
+- Cúm lợn ủ bệnh 2-7 ngày.
+
+### Các triệu chứng điển hình của bệnh cúm?
+
+- Viêm họng.
+- Sốt.
+- Đau cơ.
+- Nôn, tiêu chảy.
+
+### Biến chứng
+
+- Viêm phổi bội nhiễm, kháng sinh tiêu biểu cephalosporin 1-2 hoặc co-trimoxazol, azithromycin, doxycilin, gentamycin.
+- Suy hô hấp.
+
+### Nguyên tắc điều trị
+
+- Phát hiện và cách ly sớm.
+- Điều trị sớm (lý tưởng là 48h kể từ khi có triệu chứng đàu tiên).
+- Điều trị triệu chứng.
+- Hồi sức khi cần.
+- Điều trị biến chứng, suy đa tạng.
+
+### Thời gian điều trị
+
+- 5-7 ngày.
+
+### Hai nhóm thuốc cúm được sử dụng
+
+- Nhóm ức chế M2: Amantadine và Rimantadine với cúm A.
+- Nhóm ức chế Neuraminidase: Zanamivir và Oseltamivir hiệu quả cả cúm A và B.
+
+### Thuốc điều trị cúm được Bộ y tế khuyến cáo sử dụng ở nước ta?
+
+- Oseltamivir (Tamiflu).
+
+### Phòng bệnh đặc hiệu
+
+- Vacine cúm được điều chế từ virus cúm bất hoạt.
+- Đối tượng là người >=6 tháng tuổi có nguy cơ biến chứng nặng.
+- Người >=65 tuổi trong viện dưỡng lão, có bệnh lý mạn tính.
+- Phụ nữ thai kỳ thứ 2 hay 3 trong mùa cúm.
+- Nhân viên y tế tiếp xúc với BN cúm.
+
+### Thuốc dự phòng cúm chỉ định khi nào?
+
+- Phòng nhóm đối tượng nguy cơ cơ.
+- Kiểm soát cúm trong bệnh viện.
+- Amantadine hoặc rimantadine 100-200 mg/ngày.
+- Oseltamivir 75 mg/ngày uống.
+- Aznamivir 10 mg/ngày hít.
 
 ## Quai bị
+
+### Virus quai bị
+
+- Paramyxovirus, ARN có vỏ capside đối xứng.
+- Nguồn bệnh duy nhất ở người.
+- Lây qua đường hô hấp, mạnh nhất khoảng 3 ngày trước khi biểu hiện triệu chứng.
+
+### Thời gian lây quai bị là?
+
+- Trước 6 ngày, 5 ngày sau khi có triệu chứng sốt. Thời gian lây bệnh kéo dài 10 ngày.
+
+### Thời kỳ ủ bệnh
+
+- 16-20 ngày.
+
+### Thời kỳ khởi phát
+
+- 24-48h với sốt, đau cơ, chán ăn, có nôn.
 
 ### Biểu hiện lâm sàng của quai bị?
 
@@ -790,11 +604,31 @@
 - Mặc quần chật cố định tinh hoàn.
 - Corticoid ngắn ngày. Không dùng dài ngày.
 
-### Thời gian lây quai bị là?
+### Phòng bệnh đặc hiệu với quai bị
 
-- Trước 6 ngày, 5 ngày sau khi có triệu chứng sốt.
+- Tiêm vacine sống giảm độc lực, tiêm dưới da.
+- Tỷ lệ xuất hiện kháng thể từ 80-95%.
+- Hiệu quả bảo vệ 10-20 năm.
+- Tiêm cho trẻ từ 12-15 tháng nhắc lại từ 13 tháng đến 13 tuổi. Trẻ 2-13 tuổi chưa được tiêm khuyến cáo tiêm 2 liều. Trẻ 14-25 chưa tiêm khuyến cáo tiêm 1 liều.
 
 ## Sởi
+
+### Đặc điểm virus sởi
+
+- Paramyxovirus influenzae.
+- Tuổi dễ mắc từ 2-6 tuổi.
+
+### Đặc điểm sởi thể điển hình
+
+- Thời gian nung bệnh 11-12 ngày.
+- Khởi phát 4 ngày.
+- Toàn phát (phát ban).
+
+### Đặc điểm bệnh sởi thời kì khởi phát?
+
+- Hội chứng nhiễm trùng: Sốt nhẹ hoặc sốt vừa, cao.
+- Hội chứng viêm long đường hô hấp trên: Viêm mũi họng, chảy nước mắt.
+- Xuất hiện hạt trắng nhỏ (Koplick).
 
 ### Đặc điểm của ban sởi?
 
@@ -804,14 +638,9 @@
   - Ngày 3: Bụng, hai chi dưới.
 - Ban sởi đỏ hồng hoặc đỏ tía, tròn hay bầu dục, đứng riêng rẽ, sờ mịn như nhung, da quanh ban bình thường.
 
-### Tiêm vacine sởi kháng thể hình thành sau?
+### Đặc điểm liên quan đến bệnh sởi?
 
-- 9 tháng.
-
-### Sởi phân biệt với bệnh nào?
-
-- Chưa phát ban có cúm, viêm phế quản, ỉa chảy, bạch hầu.
-- Phát ban: Rubeole, Megalerytheme, Tăng bạch cầu đơn nhân nhiễm trùng, Scarlatine, Rickettsia, dị ứng, virus đường ruột Coxackia A/B, v.v.
+- Hết sốt khi phát ban toàn thân.
 
 ### Trong bệnh sởi, hạt Koplick thường xuất hiện trước khi mọc ban?
 
@@ -828,24 +657,742 @@
   - Biến chứng mắt (viêm màng tiếp hợp, viêm màng bồ đào, viêm kết mạc).
   - Biến chứng hiếm gặp (viêm cơ tim, xuất huyết, bệnh nhiễm sắc thể).
 
+### Biến chứng hiếm gặp ở bệnh sởi?
+
+- Viêm cơ tim.
+
+### Sởi phân biệt với bệnh nào?
+
+- Chưa phát ban có cúm, viêm phế quản, ỉa chảy, bạch hầu.
+- Phát ban: Rubeole, Megalerytheme, Tăng bạch cầu đơn nhân nhiễm trùng, Scarlatine, Rickettsia, dị ứng, virus đường ruột Coxackia A/B, v.v.
+
 ### Đặc điểm miễn dịch khi mắc sởi?
 
 - Trẻ mới sinh nhận miễn dịch từ mẹ đến tháng thứ 9.
 - Miễn dịch bền vững suốt đời.
 
-### Biến chứng hiếm gặp ở bệnh sởi?
+### Tiêm vacine sởi kháng thể hình thành sau?
+
+- 9 tháng.
+
+## Thủy đậu
+
+### Đặc điểm virus thủy đậu
+
+- Varicella Zoster.
+- Người là nguồn bệnh duy nhất.
+
+### Thuỷ đậu xảy ra vào
+
+- Cuối đông, đầu xuân.
+
+### Các thời kỳ của thủy đậu
+
+- Thời kỳ nung bệnh.
+- Thời kỳ khởi phát.
+- Thời kỳ toàn phát.
+- Thời kỳ ban bày (kéo dài 4-6 ngày)
+
+### Thời gian ủ bệnh thuỷ đậu?
+
+- Từ 10-21 ngày, trung bình 14-17 ngày.
+
+### Thời gian lây nhiễm thuỷ đậu từ ngày?
+
+- 7-10 ngày.
+
+### Biểu hiện lâm sàng hướng tới thuỷ đậu?
+
+- Sốt, nhiều ban, phỏng nước toàn thân, nhiều lứa tuổi, nhiều hình thái.
+- Không mọc tuần tự.
+
+### Biến chứng thần kinh hay gặp ở thuỷ đậu?
+
+- Viêm màng não nước trong.
+- _Các biến chứng khác: Viêm phổi do thủy đậu (biến chứng trầm trọng nhất), viêm da do bội nhiễm liên cầu/tụ cầu, viêm cơ tim, viêm giác mạc, viêm khớp, viêm thận, xuất huyết nội tạng, v.v._
+
+### Biến chứng viêm phổi trong thủy đậu?
+
+- Trầm trọng nhất.
+- Chiếm 20%, xảy ra vào ngày thứ 3 và thứ 5 của bệnh.
+- Lâm sàng ho sốt, đau ngực, Xquang thấy nốt mờ chẩn đoán viêm phổi kẽ.
+
+### Ban dạng nốt phỏng thường gặp ở bệnh nào?
+
+- Thủy đậu.
+
+### Điều trị thủy đậu bằng?
+
+- Acyclovir.
+- Người lớn 800 mgx 5 lần/24h theo đường uống 5-7 ngày. Trẻ dưới 12 tuổi dùng sớm trong 24h liều 10 mg/kg mỗi 8h.
+
+### Phòng bệnh thủy đậu
+
+- Cách ly đến khi mụn nước khô.
+
+### Điều trị Zona và thủy đậu có giống nhau không?
+
+- Cùng một tác nhân nhưng điều trị khác nhau.
+
+## Sốt xuất huyết Dengue
+
+### Vật chủ chính của virus sốt Dengue:
+
+- Người.
+- Ngoài tự nhiên khỉ còng chứa virus.
+
+### Muỗi Aedes là trung gian truyền những bệnh gì?
+
+- Sốt xuất huyết Dengue và Zikavirus.
+- _Vector truyền bệnh chính là Aedes. aegypti. Ngoài ra các loại Aedes khác khả năng truyền bệnh không rõ ràng._
+
+### Đối tượng ít mắc Dengue?
+
+- Người cao tuổi.
+- _Hay mắc ở trẻ em <15 tuổi, đa số từ 5-9 tuổi, vùng dịch vừa người lớn mắc nhưng không quá 50 tuổi._
+
+### Sốt Dengue hay gặp tháng nào trong năm ở Việt Nam?
+
+- Thường từ tháng 4-7.
+- 4-10 ở miền Bắc và 6-12 ở miền Nam.
+
+### Type virus Dengue nào hay gây bệnh cảnh sốt xuất huyết Dengue nặng?
+
+- Type 2.
+
+### Đặc điểm của sốt xuất huyết Dengue
+
+- Thời kỳ ủ bệnh từ 4-10 ngày.
+- Giai đoạn sốt:
+  - Sốt cao đột ngột, liên tục.
+  - Nhức đầu, chán ăn, buồn nôn.
+  - Da xung huyết.
+  - Xuất huyết ở da, chân răng.
+- Giai đoạn nguy hiểm (ngày 3-7):
+  - Giảm sốt.
+  - Vật vã, li bì.
+  - Gan to.
+  - Nôn.
+  - Thoát huyết ương da tăng tính thấm thành mạch (kéo dài 24h-48h).
+  - Xuất huyết.
+  - Tổn thương gan, thận.
+- Giai đoạn hồi phục (ngày 7-10):
+  - Hết sốt.
+  - Có thể phát ban, ngứa.
+
+### Sốt xuất huyết Dengue nặng là sốt xuất huyết kèm theo?
+
+- Sốt cao.
+- Xuất huyết tạng.
+- Suy tạng.
+
+### Hiện tượng thoát huyết tương ra ngoài lòng mạch xảy ra trong giai đoạn nào của sốt xuất huyết Dengue?
+
+- Giai đoạn nguy kịch.
+
+### Dấu hiệu cảnh báo sốt xuất huyết Dengue
+
+- Sốt cao 40 oC, đau dầu, đau khớp, đau ổ mắt, xuất huyết chảy máu mũi, răng, sốc mạch nhanh, huyết áp tụt, tràn dịch đa màng, Hct tăng, albumin giảm.
+- Cụ thể 9 dấu hiệu cảnh báo:
+  - Vật vã, li bì.
+  - Nôn nhiều >3 lần/h hoặc >4 lần/6h.
+  - Xuất huyết niêm mạc.
+  - Gan to >2 cm.
+  - Tiểu cầu giảm.
+  - Hct tăng, PLT giảm.
+  - AST/ALT tăng trên 400 U/L.
+  - Tràn dịch màng bụng trên Xquang, siêu âm.
+
+### Dấu hiệu không có trong tăng tính thấm thành mạch do sốt xuất huyết Dengue
+
+- Siêu âm không thấy dịch nhưng tiểu cầu giảm.
+
+### Xét nghiệm chẩn đoán căn nguyên virus Dengue
+
+- ELISA tìm kháng thể IgM, IgG. Nên lấy máu ngày thứ 5 kể từ khi sosots.
+- Xét nghiệm nhanh tìm NS1 trong 3-4 ngày đầu của bệnh.
+- PCR trong giai đoạn còn sốt hoặc ngay sau khi hết sốt.
+
+### Các thể của sốt xuất huyết Dengue
+
+- Thể điển hình.
+- Thể có dấu hiệu cảnh báo.
+- Thể nặng (thoát huyết tương, xuất huyết nặng, suy tạng).
+
+### Nguyên tắc điều trị
+
+- Chẩn đoán sớm, bù dịch kịp thời.
+- Tiên lượng phụ thuộc vào việc phát hiến ớm sốc:
+  - Theo dõi làm XN tiểu cầu 6h/lần.
+  - Theo dõi các dấu hiệu nặng.
+
+### Sốt xuất huyết Dengue truyền khối tiểu cầu khi nào?
+
+- Khi tiểu cầu <5000/mm^3 dù chưa có xuất huyết.
+
+### Điều trị sốt Dengue
+
+- Nước muối sinh lý 0.9%.
+
+### Biện pháp phòng sốt xuất huyết Dengue khi chưa có dịch:
+
+- Không đặc hiệu:
+  - Kiểm tra tích cực và theo dõi sát muỗi Aedes aegypti.
+  - Hướng dẫn cộng đồng biết cách sớm nhận biết.
+- Đặc hiệu:
+  - Đang nghiên cứu vacine.
+
+## Viêm não
+
+### Một số căn nguyên gây viêm não
+
+- Herpes simplex 1.
+- Varicella zoster, Epstein-Barr, HIV, Human herpes virus-6, Zika virus.
+
+### Virus nào gây viêm não ở tất cả các mùa trong năm?
+
+- Herpes Simplex 1.
+
+### Viêm não trong thương hàn biểu hiện như thế nào?
+
+- Dấu hiệu Typhos.
+
+### Tổn thương thuỳ thái dương căn nguyên nào gây bệnh?
+
+- Herpes Simplex 1.
+
+### Tổn thương đồi thị hoặc hạch nền kèm theo viêm não
+
+- Virus gây bệnh đường hô hấp.
+
+### Tử ban hình sao có giá trị trong chẩn đoán căn nguyên do?
+
+- Neisseria menigitidis (Não mô cầu). Đặc điểm màu đỏ thẫm hoặc xám tính, đường kính 1-5 mm bề mặt bằng phẳng không gồ tập trung ưới thân mình và chi dưới.
+
+### Viêm não virus thứ phát do
+
+- Virus quai bị.
+
+### Nguồn bệnh trong thiên nhiên của viêm não Nhật Bản B
+
+- Chim và lợn.
+
+### Tiến triển thường gặp của viêm não Nhật Bản B là?
+
+- Tử vong hoặc qua khỏi nhưng để lại di chứng.
+
+### Trung gian truyền bệnh viêm não Nhật Bản B tại Việt Nam là?
+
+- Muỗi Culex.
+
+### 3 thể lâm sàng thường gặp của viêm não mô cầu
+
+- Viêm họng.
+- Nhiễm khuẩn huyết.
+- Viêm màng não.
+
+### Khi nghi ngờ viêm não do virus Herpes Simplex 1 (tương tự với viêm não do virus B) cần tiến hành điều trị ngay bằng?
+
+- Acyclovir.
+
+### Acyclovir được chỉ định khi nào?
+
+- Điều trị sớm cho BN viêm não mà không rõ căn nguyên.
+- Trước khi BN mất ý thức.
+- Trong vòng 24h từ khi khởi phát.
+- Glassgow 9-15 điểm.
+
+### Đứng trước một BN chưa được tiêm chủng có sưng tuyến nước bọt mang tai và có thay đổi ý thức cần nghĩ đến viêm não thứ phát do căn nguyên nào?
+
+- Virus quai bị (paramyxo virus).
+
+### BN chẩn đoán viêm não do virus, xuất hiện mụn nước ở mạn sườn phải. Nguyên nhân do?
+
+- Herpes Simplex 1, Varicella Zoster.
+
+### Sự lan nhanh của các ban xuất huyết do não mô cầu là 1 yếu tố tiên lượng tốt.
+
+- Sai.
+
+### Tỷ lệ cấy khuẩn (+) của dịch não tủy (DNT) khi chưa sử dụng kháng sinh?
+
+- 6% trong số 22.394 mẫu cấy dịch não tủy.
+
+## HIV
+
+### Virus HIV tích hợp mã di truyền vào ADN bằng cách?
+
+- ADN tiền virus tích hợp vào ADN tế bào chủ nhờ ZnZyen Intergrbse.
+
+### Thời gian điều trị bằng Co-trimoxazole
+
+- ARV ít nhất 12 tháng, CD4>350 và lâm sàng ổn định.
+
+### XN phát hiện sớm HIV
+
+- p24.
+
+### HIV có bạch sản lông là giai đoạn mấy?
+
+- Giai đoạn 3.
+
+### Điều nào không nên làm khi bị phơi nhiễm HIV?
+
+- Không nặn bóp máu.
+- Không điều trị dự phòng phơi nhiễm khi đã quá 72h.
+- Không chỉ định dự phòn sau phơi nhiễm HIV cho các trường hợp:
+  - Người bị phơi nhiễm đã nhiễm.
+  - Người gây phơi nhiễm có HIV (-).
+  - Phơi nhiễm với dịch không có nguy cơ nhiễm HIV.
+  - Phơi nhiễm liên tục với HIV.
+- Các bước xử trí phơi nhiễm:
+  - Bước 1 xử lý vết thương tại chỗ: Rửa vết thương dưới vòi nước sạch bằng xà phòng, rửa mắt bằng nước cất hoặc nước muối liên tục trong 5 phút, rửa mũi miệng.
+  - Bước 2 báo cho người phụ trách và lập biên bản.
+  - Bước 3 đánh giá nguy cơ phơi nhiễm.
+  - Bước 4 xác định tình trạng HIV của nguồn gây phơi nhiễm.
+  - Bước 5 xác định tình trạng HIV của người bị phơi nhiễm.
+  - Bước 6 tư vấn cho người bị phơi nhiễm.
+
+### Dự phòng bằng co-trimoxazole khi nào?
+
+- CD4 <=350.
+
+### Phòng lây truyền HIV biện pháp nào tốt nhất?
+
+- Tình dục an toàn.
+
+### Điều trị dự phòng viêm màng não và nhiễm nấm Cryptococus neoformans cho BN HIV khi?
+
+- CD4 <100.
+
+### 1 BN HIV, đau mạn sườn, sốt, CD4 = 206, mờ mắt và lao màng phổi ở giai đoạn nào?
+
+- Giai đoạn 4.
+
+### Diễn biến lâm sàng tự nhiên của HIV có mấy giai đoạn?
+
+- 3 giai đoạn:
+  - Giai đoạn cấp tính.
+  - Giai đoạn tiềm tàng.
+  - Giai đoạn tiến triển.
+
+### Khi nào điều trị ARV
+
+- Bất kể CD4 bằng bao nhiêu. Chỉ định điều trị ngay khi được chẩn đoán HIV.
+- Trẻ dưới 18 tháng tuổi có PCR lần 1 (+).
+
+### Nồng độ HIV huyết tương cao nhất ở thời điểm nào?
+
+- Giai đoạn cấp tính và giai đoạn tiến triển AIDS.
+
+### 1 phụ nữ phát hiện nhiễm HIV 2 năm, hiện có zona mặt phải làm BN đau nhức, nhìn mờ. BN ở giai đoạn mấy?
+
+- Giai đoạn 2.
+
+### Cytomegalovirus gây ra, trừ
+
+- _Không gây bệnh_ Viêm cầu thận.
+- _Gây bệnh tại võng mạc, đại tràng, thực quản._
+
+### Nấm Talaromyces (Penicillium marneffei)
+
+- CD4 <100.
+- _Tổn thương da đơn thuần đặc trưng._
+- _Điều trị amphotericin B (0.7-1.5 mg/kg/ngày) x 2 tuần, sau đó dùng itraconazole 200mg (trẻ em 5-6 mg/kg) x 2 lần/ngày x 8-10 tuần. Ngừng khi điều trị ARV có CD4 > 100 duy trì >= 6 tháng._
+
+### Co-trimoxazole được chỉ định điều trị dự phòng các bệnh nào?
+
+- Viêm phổi Pneumocystis jiroveci (PCP).
+- Viêm não Toxoplasma.
+- Viêm phổi do vi khuẩn Norcadia.
+- Bệnh đường tiêu hóa Salmonela, Shigella isopora, v.v.
+- Sốt rét.
+
+### Co-trimoxazolee không điều trị dự phòng cho?
+
+- Lao.
+- Chống chỉ định và sulfamid.
+
+### Điều trị nấm Candida miệng bằng?
+
+- Fluconazole 100-200 mg/ngày x 7-14 ngày.
+
+## Dại
+
+### Liên quan đến bệnh dại?
+
+- Virus Rhabdovi thuộc loài lysavirus.
+- Lưu truyền hoang dã ở cáo, đô thị ở chó, dại ở dơi.
+- Động vật có thể lây truyền bệnh cho người 5-7 ngày kể từ khi có biểu hiện lâm sàng tới lúc chết.
+
+
+### Vị trí nào thường nghiêm trọng khi bị chó cắn?
+
+- Vùng đầu mặt cổ gần thần kinh trung ương.
+
+### Đặc điểm lâm sàng của dại
+
+- Nung bệnh từ 10 ngày - 1 năm, trung bình 30-40 ngày.
+- Gồm 2 thể hung dữ và thể liệt.
+
+### Chẩn đoán xác định bệnh dại
+
+- Chẩn đoán dựa vào lâm sàng là chính.
+- Chỉ có thể chẩn đoán virus tại các labo chuyên khoa dựa vào miễn dịch huỳnh quang tìm tiểu thể Negri.
+
+### Chẩn đoán phân biệt của dại
+
+- Thể hung dữ: Giả dại, sàng.
+- Thể liệt: Bại liệt, hội chứng Guillain-Barre, tai biến do tiêm vacine.
+
+### Bệnh dại hay gặp nhất thể?
+
+- Hung dữ.
+
+### Dại thể hung dữ tử vong sau bao lâu?
+
+- 3-4 ngày.
+- Thể liệt tử vong sau 5-6 ngày.
+
+### Chỉ số không ủng hộ bệnh dại?
+
+- Tiến triển tốt lên của các dấu hiệu thần kinh.
+
+### Nguyên tắc điều trị bệnh dại
+
+- Chăm sóc giảm nhẹ (an thần, thở máy, điều trị trung ương).
+
+### Điều trị dại thời kì toàn phát
+
+- Cách ly ở nơi yên tĩnh, hạn chế người ra vào.
+- An thần bằng Diazepan + Clozepine, morphin.
+- Đảm bảo chức năng tim mạch, hô hấp.
+
+### Biện pháp nào không được áp dụng sau khi bị chó cắn có vết thương chảy máu không biết tình trạng sức khỏe của con vật được tiêm phòng dại hay chưa?
+
+- Tiêm globulin miễn dịch. 20 IU/kg vào mông.
+
+### Phòng dại bằng vaccine
+
+- Vacine giảm hoạt lực 3 mũi vào ngày 0, 7 và 28 nhắc lại sau 1, 3-5 năm.
+
+## Lỵ trực khuẩn
+
+### Đặc điểm lỵ trực khuẩn
+
+- Do trực khuẩn Shigella.
+- Gram (-), gồm 4 nhóm:
+  - Nhóm A: S. dysenteriae có 10 type huyết thanh.
+  - Nhóm B: S. flexneri có 6 type huyết thanh.
+  - Nhóm C: S. boydii có 15 type huyết thanh.
+  - Nhóm D: S. sonnei có 1 type huyết thanh.
+
+### Căn nguyên gây bệnh lỵ trực khuẩn?
+
+- Shigella plexneri.
+- Gram âm, không vỏ, không lông.
+- Lây truyền qua đường phân-miệng.
+- Mọi người đều có thể mắc bệnh nhất là trẻ nhỏ 1-2 tuổi.
+
+### Vị trí tác động của lỵ trực khuẩn
+
+- Đại tràng.
+
+### Triệu chứng không có trong bệnh lỵ trực khuẩn?
+
+- Phân tóe nước.
+- _Triệu chứng điển hình: Hội chứng nhiễm trùng, hội chứng lỵ (đau bụng, mót rặn, đi ngoài nhiều lần nhầy máu)_.
+
+### Trong các dấu hiệu cận lâm sàng dấu hiệu có giá trị quyết định nhất trong chẩn đoán lỵ trực khuẩn?
+
+- Cấy phân mọc lỵ trực khuẩn 3 lần.
+
+### Biến chứng của lỵ trực khuẩn
+
+- Tại ruột: Chảy máu, hoại tử, thủng ruột, lồng ruột, v.v.
+- Bội nhiễm.
+- Toàn thân:
+  - Rối loạn nước và điện giải.
+  - Nhiêm độc thần kinh.
+  - Hội chứng tan máu-ure huyết.
+  - Hội chứng Reiter.
+
+### Kháng sinh được ưu tiên để điều trị lỵ trực khuẩn người lớn hiện nay là?
+
+- Quinolon.
+- _Theo WHO 1995 điều trị bằng ampicillin, trimazol._
+
+## Thương hàn
+
+### Đặc điểm không phải của vi khuẩn thương hàn:
+
+- _Không phải_ bắt buộc phải kí sinh nội bào.
+- _Tên vi khuẩn Salmonella typhi (có 3 loại kháng nguyên O gây bệnh, H tạo kháng thể, Vi quan trọng về mặt dịch tễ) và Salmonella paratyphi A, B, C. Trực khuẩn gram (-), đường ruột._
+- _Bị tiêu diệt tại dạ dày bởi acid dịch vị._
+- _Gây bệnh ở độ tuổi nhiều nhất từ 5-19._
+
+### Sốt trong thương hàn
+
+- Sốt từ từ tăng dần. Rồi sốt cao liên tục giữ vững mức 39.5-40 oC. Hình cao nguyên.
+
+### Đào ban thường gặp trong bệnh nào?
+
+- Thương hàn.
+
+### Ban trong bệnh thương hàn xuất hiện vào
+
+- Tuần thứ 2 trong thời kỳ toàn phát (hồng ban).
+
+### Ban trong thương hàn kéo dài bao lâu?
+
+- 2-3 tuần.
+
+### Vị trí ban trong thương hàn?
+
+- Hồng ban ở tuần đầu thời kỳ toàn phát. Ban nhỏ 2-4 mm ở ngực bụng, số lượng ít, có khi chỉ 10 ban mỗi lần mọc, ban rát, ấn lặn, tồn tại 2-3 ngày thì mất, cách nhau 3-4 ngày mỗi đợt.
+
+### 3 nhóm biến chứng chính trong bệnh thương hàn?
+
+- Tiêu hóa xuất hiện cuối tuần thứ 2 và thứ 3:
+  - Xuất huyết tiêu hóa.
+  - Thủng ruột.
+  - Viêm miệng lợi, thương hàn đại tràng, viêm túi mật, viêm gan, viêm tuyến mang tai.
+- Tim mạch xuất hiện ở tuần thứ 3:
+  - Viêm cơ tim: nhịp tim nhanh, tiếng tim mờ, huyết áp hạ, tiếng ngựa phi, v.v.
+  - Viêm tắc động mạch hiếm gặp.
+- Thần kinh:
+  - Viêm não thương hàn với dấu hiệu Typhos.
+  - Viêm màng nõa tủy.
+- Ngoài ra còn viêm phế quản, viêm phổi, tràn dịch màng phổi, v.v.
+
+### Biến chứng tim mạch gặp ở bệnh thương hàn?
 
 - Viêm cơ tim.
+- Viêm tác động tĩnh mạch.
 
-### Đặc điểm bệnh sởi thời kì khởi phát?
+### Kháng sinh nào được ưu tiên điều trị bệnh thương hàn có kháng acid nalidixic?
 
-- Hội chứng nhiễm trùng: Sốt nhẹ hoặc sốt vừa, cao.
-- Hội chứng viêm long đường hô hấp trên: Viêm mũi họng, chảy nước mắt.
-- Xuất hiện hạt trắng nhỏ (Koplick).
+- Ceftriaxone 2-3g/ngày x 1 lần x 7-14 ngày.
+- _Thương hàn chưa kháng thuốc sử dụng chloramphenicol, ampicillin, trimethoprim-sulfamethaxazole._
+- _Ngày nay hay dùng fluoroquinolne như ciprofloxacine 500mg x2 lần/ngày hoặc ofloxacin 400mg x2 lần/ngày. Betalactam như ceftriaxone 2-3g/ngày hoặc cefixime 20-30mg/kg/ngày trong 7-14 ngày._
 
-### 158. Đặc điểm liên quan đến bệnh sởi?
+### Xét nghiệm chẩn đoán thương hàn
 
-- Hết sốt khi phát ban toàn thân.
+- Cấy máu, cấy tủy xương, cấy phân.
+- Phản ứng Widal.
+- Phản ứng ELISA.
+
+### Cấy máu tìm vi khuẩn thương hàn có tỷ lệ dương tính cao nhất ở thời kỳ nào?
+
+- Tuần thứ nhất của bệnh (90%).
+
+### Phương pháp điều trị thương hàn
+
+- Kháng sinh, hạ sốt, điều trị triệu chứng, bù nước và điện giải.
+
+### Kháng sinh ưu tiên điều trị thương hàn không kháng acid nadicilic là?
+
+- Fluroquinolone.
+
+### Thời gian hồi phục của bệnh thương hàn
+
+- Hồi phục kéo dài (thời gian lại sức kéo dài 2 tuần).
+
+### Vacine thương hàn là vacine gì?
+
+- Vacine giảm độc lực Ty21a.
+
+## Tả
+
+### Vi khuẩn tả ở?
+
+- Ruột non.
+- _Phẩy khuẩn tả tên Vibrio Cholerae, gram (-)._
+- _Người là nguồn dự trữ chính._
+
+### Hình thái phân điển hình trong bệnh tả?
+
+- Phân đục như nước vo gạo hoặc trong như nước mưa.
+
+### Các mức độ mất nước
+
+- Gồm 3 mức độ dựa vào:
+  - Khát nước.
+  - Mạch.
+  - Huyết áp.
+  - Nước tiểu.
+  - Tay chân lạnh.
+  - Lượng nước mất.
+
+### Vibrio cholera type O1 và O139 gây bệnh ở người?
+
+- Đúng. Gây bệnh tả.
+
+### Phẩy khuẩn tả cấy phân mọc sau bao lâu?
+
+- 24h.
+
+### Công thức bù dịch trong ngày
+
+- Tổng lượng dịch truyền = A + B + M. Trong đó:
+  - A là lượng dịch mất trước khi đến viện.
+  - B là lượng phân và chất nôn lúc nằm viện.
+  - M là lượng nước duy trì hằng ngày.
+- Bù dịch theo 2 giai đoạn.
+
+### Tả nên điều trị tại chỗ không nên chuyển tuyến trên?
+
+- Đúng.
+
+### Biện pháp phòng tả tốt nhất?
+
+- Uống vacine.
+
+## Sốt mò
+
+### Địa dư sốt mò?
+
+- Bãi hoa màu.
+
+### Đặc điểm của vi khuẩn sốt mò.
+
+- Tên Orientia tsutsugamushi.
+- Sốt mò là vi khuẩn Gram âm và bắt buộc phải kí sinh nội bào.
+- Trung gian truyền bệnh là ấu trùng mò Leptotrobidium thông qua vật chủ tự nhiên là động vật nhỏ như chuột, chó, gà, chim.
+- Không lây trực tiếp từ người sang người.
+
+### Dấu hiệu của sốt mò.
+
+- Sốt cao kéo dài, kèm theo dấu hiệu da xung huyết, hạch to, phát ban, sẩn đỏ.
+- Dấu Eschar có giá trị chẩn đoán nhưng không phải lúc nào cũng có.
+
+### Bệnh cảnh lâm sàng thường gặp trong bệnh sốt mò?
+
+- Sốt, phát ban, nổi hạch tại nhiều cơ quan. Vết Eschar ở vị trí mềm, không đau, không ngứa, 50-70% gan lách to ở tuần thứ 2.
+
+### Dấu hiệu có giá trị nhất để chẩn đoán bệnh sốt mò?
+
+- Dấu Eschar.
+
+### Tính chất của vết đốt mò?
+
+- Tròn, bầu dục đường kính 0.5-1 cm, không đau, không ngứa, nổi viền đỏ lên mặt da.
+- Nếu có vẩy, vẩy đen, cứng phủ trên môt nốt sẩn có gờ cứng.
+- Nếu vẩy bong sẽ để lại vết lõm, màu đỏ tươi, sạch không tiết dịch, không có mủ.
+
+### Các XN chẩn đoán sốt mò
+
+- Phân lập Oritentia tsutsugamushi.
+- PCR.
+- IFA.
+- Dot - Blot Immunoassay.
+
+### Điều trị sốt mò
+
+- Cloramphenicol 30-50 mg/kg/24h x 5-7 ngày.
+- Doxycyline 100-200 mg/ngày x 5-7 ngày.
+
+## Uốn ván
+
+### Trực khuẩn uốn ván?
+
+- Kỵ khí gram (+).
+- _Tên Clostridium tetani._
+
+### Thời gian biểu hiện bệnh của uốn ván?
+
+- Nung bệnh trung bình 7-12 ngày. Dưới 8 ngày nặng, trên 20 ngày tiên lượng khả quan.
+- Khởi phát dưới 48 giờ bệnh nặng, trên 5 ngày bệnh nhẹ.
+
+### Kiểu co cơ của uốn ván?
+
+- Co cứng tự nhiên hoặc do kích thích kéo dài vài dây đến vài phút.
+- Co cứng điển hình gồm cứng lưng, duỗi vai, bụng.
+
+### Cứng hàm uốn ván phân biệt với?
+
+- Viêm khớp thái dương hàm.
+- _Ngoài ra phân biệt với tai biến răng 8, amidan mủ, sai khớp thái dương hàm, viêm xương hàm)._
+
+### Uốn ván có cơn co giật phân biệt với?
+
+- Ngộ độc Strychnin.
+- _Toàn phát phân biệt viêm màng não mủ giả uống ván, hạ đường huyết, cơn testanine, histeria, u não, v.v._
+
+### Dấu hiệu gợi ý uốn ván thể nặng?
+
+- Rối loạn thần kinh thực vật.
+
+### Các nguyên nhân có thể gây co giật ở BN uốn ván?
+
+- Tất cả các ý (Kích thích với tiếng động, tác nghẽn, rối loạn thần kinh thực vật).
+
+### Hội chứng rối loạn thần kinh thực vật do uốn ván.
+
+- Sốt 39-40 độc C, mạch nhanh, huyết áp thất thường, da lúc đỏ lúc tái, tăng tiết mồ hôi, tăng tiết đờm dãi.
+
+### Bệnh uốn ván nặng khi có thời kỳ khởi phát?
+
+- <2 ngày.
+
+### Biểu hiện lâm sàng sớm cần phát hiện của BN uốn ván?
+
+- Cơn chẹn ngực.
+
+### Triệu chứng lâm sàng quan trọng nhất để phân biệt uốn ván với các bệnh thần kinh khác?
+
+- Tinh thần tỉnh.
+
+### Biến chứng uốn ván
+
+- Biến chứng hô hấp.
+- Biến chứng tim mạch.
+- Bội nhiễm.
+- Biến chứng cơ học.
+- Tai biến do điều trị SAT, xuất hiện ngày thứ 9.
+
+### Tiên lượng uốn ván tốt lên khi?
+
+- Thời gian ủ bệnh kéo dài.
+
+### Tiên lượng BN uốn ván dựa vào?
+
+- Thời gian nung bệnh.
+- Thời gian khởi phát.
+- Cơ địa.
+- Cơn co giật.
+- Rối loạn thần kinh thực vật.
+- Kết quả điều trị.
+
+### Thể uốn ván gây tử vong nhiều nhất
+
+- Uốn ván đầu có liệt.
+
+### Thể uốn ván tiên lượng nhẹ
+
+- Uốn ván cục bộ.
+
+### Nguyên tắc điều trị uốn ván
+
+- Chẩn đoán sớm.
+- Điều trị triệu chứng.
+
+### Kháng sinh ưu tiên điều trị uốn ván?
+
+- Penicilin G, metronidazol, cephalosporine, imipenem, macrolide. Trong đó penicilin G hay được sử dụng nhất.
+
+### Sử dụng SAT trong uốn ván để?
+
+- Trung hoà độc tố.
+
+### Liều tối thiểu của SAT?
+
+- 10000 UI. _Tiêm từ 10000-20000 UI_.
+
+### Phương pháp giảm tỷ lệ uốn ván sơ sinh?
+
+- Tiêm phòng vacine cho thai phụ 3 tháng cuối.
+- Tiêm vacine giải độc tố cho trẻ 2-3 tháng (5 trong 1).
 
 ## Leptospira
 
@@ -855,15 +1402,18 @@
 
 ### Đặc điểm của Leptospira
 
-- Vi khuẩn gram âm, hiếu khí, mọc trên môi trường nuôi cấy.
+- Xoắn khuẩn gram âm, thuộc họ Spirohaetaece, hiếu khí, mọc trên môi trường nuôi cấy.
 - Leptospira gây tăng men gan trung bình.
+
+### Có bao nhiêu type huyết thanh Leptospira?
+
+- 23 nhóm, 240 type huyết thanh.
 
 ### Soi tươi tìm được Leptospira ở khoảng thời gian nào của bệnh?
 
 - Trong 10 phút ở nhiệt độ 56 oC.
 - 6 ngày đầu với dịch não tủy, từ ngày thứ 12 với nước tiểu
 - _Phản ứng ngưng kết Martin-Petti, miễn dịch huỳnh quang, ELISA qua huyết thanh thực hiện ở tuyến trung ương._
-- _Thuộc họ Spirohaetaece. Xoắn khuẩn gram (-)._
 
 ### Triệu chứng không có giá trị chẩn đoán Leptospira
 
@@ -881,116 +1431,65 @@
 
 - Peniciline.
 
-### Có bao nhiêu type huyết thanh Leptospira?
-
-- 23 nhóm, 240 type huyết thanh.
-
 ### Thời gian điều trị penicillin ở Leptospira là bao lâu?
 
 - Penicillin 1.5 triệu đơn vị x6 lần/ngày x 7 ngày tiêm tĩnh mạch.
 
-## Tả
+## Lỵ amip
 
-### Vi khuẩn tả ở?
+### Căn nguyên gây lỵ amip
 
-- Ruột non.
-- _Phẩy khuẩn tả, gram (-)._
+- Đơn bào ký sinh trùng Entamoeba histolytica.
 
-### Biện pháp phòng tả tốt nhất?
+### Dịch tễ của lỵ amip.
 
-- Uống vacine.
+- Lỵ amip gây những vụ dịch nhỏ.
 
-### Vibrio cholera type O1 và O139 gây bệnh ở người?
+### Lứa tuổi hay mắc Entamoeba histolytica
 
-- Đúng. Gây bệnh tả.
+- 20-50 tuổi (20-30 tuổi).
+- Trẻ <5 tuổi ít mắc.
 
-### Hình thái phân điển hình trong bệnh tả?
+### Triệu chứng nào không giống lỵ amip?
 
-- Phân đục như nước vo gạo hoặc trong như nước mưa.
+- Sốt cao, rét run.
 
-### Tả nên điều trị tại chỗ không nên chuyển tuyến trên?
+### Chẩn đoán lỵ amip cấp tính dựa vào?
 
-- Đúng.
+- Soi phân thấy nhiều amip thể hoạt động ăn hồng cầu.
 
-## Viêm màng não
+### Hình ảnh tổn thương đại tràng do lỵ amip cấp
 
-### Triệu chứng gợi ý viêm màng não mủ
+- Có nhiều vết loét điển hình kèm xuất huyết.
+- Xquang có thủng ruột, lồng ruột, u amip.
+- Nội soi: Amip ăn hồng cầu trong bệnh cấp tính.
 
-- Sốt cao đột ngột 39-40 oC, đau đầu.
-- Rối loạn vận động: Cử động bất thường, co giật, liệt cứng.
-- Rối loạn tri giác: Mất phương hướng, lơ mơ, bất tỉnh.
+### Biến chứng của lỵ amip
 
-### Hai hội chứng thường gặp trong viêm màng não mủ?
+- Tại ruột:
+  - Thủng ruột.
+  - Xuất huyết tiêu hóa.
+  - Lồng ruột.
+  - Viêm ruột thừa.
+  - Loét đại tràng.
+  - Trĩ.
+- Ngoài ruột:
+  - Bệnh amip gan.
+  - Bệnh amip phổi.
+  - Bệnh amip não.
 
-- Hội chứng nhiễm trùng, hội chứng màng não (đau đầu, nôn vọt, táo bón, sốt, sợ ánh sáng, tư thế nằm cò súng, cổ cứng, Kernig (+)).
+## Điều trị amip
 
-### Triệu chứng nào thường gặp trong viêm màng não do lao?
-
-- Bí đái.
-
-### Thuốc nào sau đây không được lựa chọn điều trị viêm màng não?
-
-- Penopenem.
-- _Thường chọn ceftriaxone, cefotaxime, amoxicilin._
-
-### Đặc điểm của dịch não tuỷ BN viêm màng não mủ?
-
-- Dịch đục.
-
-### Tỷ lệ cấy khuẩn (+) của dịch não tủy (DNT) khi chưa sử dụng kháng sinh?
-
-- 6% trong số 22.394 mẫu cấy dịch não tủy.
-
-### Đặc điểm dịch não tuỷ trong viêm màng não mủ?
-
-- Dịch đục, áp lực tăng.
-- Protein tăng.
-- Đường giảm.
-- BC >1000/mm^3 chủ yếu là đa nhân trung tính.
-
-### Đặc điểm dịch não tủy do virus
-
-- Tăng bạch cầu vài chục đến vài trăm <250.
-- Độ tập trung bình thường, hồng cầu thường không có.
-- Protein <1 g.
-
-### Thời gian trung bình điều trị viêm màng não mủ?
-
-- Kháng sinh 10-14 ngày hết sốt sau 3 ngày.
-- Não mô cầu 7 ngày.
-- Hib 10 ngày.
-- Phế cầu 14 ngày.
-- Gram (-), tụ cầu, liên cầu 3 tuần.
-
-### Di chứng thường gặp trong viêm màng não mủ do S. suis?
-
-- Di chứng như liệt nửa người, liệt dây thần kinh so não III, rối loạn tiền đình, điếc.
-
-## Cúm
-
-### Hai nhóm thuốc cúm được sử dụng?
-
-- Nhóm ức chế M2: Amantadine và Rimantadine với cúm A.
-- Nhóm ức chế Neuraminidase: Zanamivir và Oseltamivir hiệu quả cả cúm A và B.
-
-### Thuốc điều trị cúm được Bộ y tế khuyến cáo sử dụng ở nước ta?
-
-- Oseltamivir (Tamiflu).
-
-### Các triệu chứng điển hình của bệnh cúm?
-
-- Viêm họng.
-- Sốt.
-- Đau cơ.
-- Nôn, tiêu chảy.
-
-### Đặc điểm nào không phải của virus cúm type A?
-
-- Chỉ gây bệnh ở người.
-
-### Virus cúm thuộc họ virus nào?
-
-- Orthoyxoviridage có 3 loại cúm A, B, C.
+- Cấp tính:
+  - Metronidazol.
+  - Indoquinol.
+  - Diloxanide furoate.
+  - Emetin.
+  - Dihydroemetin.
+- Mạn tính:
+  - Diloxande furoate.
+  - Indoquinol.
+  - Paramomycine.
 
 ## Tiêu chảy cấp
 
@@ -1015,7 +1514,7 @@
 ### Tiêu chảy khi nào cần nhập viện?
 
 - Tiểu chảy phân nhiều nước và mất nước, giảm thể tích mà khi BN đứng lên thấy chóng mặt.
-- Sốt >38.5 độ C.
+- Sốt >38.5 oC.
 - Kéo dài >48h.
 - Tuổi trẻ em, người già.
 - Bệnh đại tràng sẵn có: Crohn, viêm loét đại tràng.
@@ -1026,99 +1525,6 @@
 ### Xét nghiệm có giá trị chẩn đoán tiêu chảy cấp
 
 - XN phân.
-
-## Lỵ trực khuẩn
-
-### Đặc điểm lỵ trực khuẩn
-
-- Do trực khuẩn Shigella.
-- Gram (-), gồm 4 nhóm:
-  - Nhóm A: S. dysenteriae có 10 type huyết thanh.
-  - Nhóm B: S. flexneri có 6 type huyết thanh.
-  - Nhóm C: S. boydii có 15 type huyết thanh.
-  - Nhóm D: S. sonnei có 1 type huyết thanh.
-
-### Căn nguyên gây bệnh lỵ trực khuẩn?
-
-- Shigella plexneri.
-
-### Trong các dấu hiệu cận lâm sàng dấu hiệu có giá trị quyết định nhất trong chẩn đoán lỵ trực khuẩn?
-
-- Cấy phân mọc lỵ trực khuẩn 3 lần.
-
-### Triệu chứng không có trong bệnh lỵ trực khuẩn?
-
-- Phân tóe nước.
-- _Triệu chứng điển hình: Hội chứng nhiễm trùng, hội chứng lỵ (đau bụng, mót rặn, đi ngoài nhiều lần nhầy máu)_.
-
-### Kháng sinh được ưu tiên để điều trị lỵ trực khuẩn người lớn hiện nay là?
-
-- Quinolon.
-- _Theo WHO 1995 điều trị bằng ampicillin, trimazol._
-
-## Dại
-
-### Liên quan đến bệnh dại?
-
-- Virus Rhabdovi thuộc loài lysavirus.
-- Lưu truyền hoang dã ở cáo, đô thị ở chó, dại ở dơi.
-- Nung bệnh từ 10 ngày - 1 năm, trung bình 30-40 ngày. Gồm 2 thể hung dữ và thể liệt.
-- Chẩn đoán dựa vào lâm sàng là chính. Chỉ có thể chẩn đoán virus tại các labo chuyên khoa dựa vào miễn dịch huỳnh quang tìm tiểu thể Negri.
-- Chẩn đoán phân biệt:
-  - Thể hung dữ: Giả dại, sàng.
-  - Thể liệt: Bại liệt, hội chứng Guillain-Barre, Tai biến do tiêm vacine.
-
-### Biện pháp nào không được áp dụng sau khi bị chó cắn có vết thương chảy máu không biết tình trạng sức khỏe của con vật được tiêm phòng dại hay chưa?
-
-- Tiêm globulin miễn dịch.
-
-### Dại thể hung dữ tử vong sau bao lâu?
-
-- 3-4 ngày.
-- _Thể liệt tử vong sau 5-6 ngày._
-
-### Chỉ số không ủng hộ bệnh dại?
-
-- Tiến triển tốt lên của các dấu hiệu thần kinh.
-
-### Nguyên tắc điều trị bệnh dại
-
-- Chăm sóc giảm nhẹ (an thần, thở máy, điều trị trung ương).
-
-### Điều trị dại thời kì toàn phát
-
-- Cách ly ở nơi yên tĩnh, hạn chế người ra vào.
-- An thần bằng Diazepan + Clozepine, morphin.
-- Đảm bảo chức năng tim mạch, hô hấp.
-
-### Vị trí nào thường nghiêm trọng khi bị chó cắn?
-
-- Vùng đầu mặt cổ gần thần kinh trung ương.
-
-### Bệnh dại hay gặp nhất thể?
-
-- Hung dữ.
-
-## Sốt kéo dài
-
-### 3 nguyên nhân gây sốt kéo dài không rõ nguyên nhân?
-
-- Bệnh nhiễm trùng
-- Bệnh tự miễn
-- Bệnh ác tính.
-
-### Thăm khám BN sốt kéo dài
-
-- Thăm khám có hệ thống không bỏ sót cơ quan nào.
-- Thăm khám hằng ngày để phát hiện dấu hiệu mới.
-
-### Kháng sinh được khuyến cáo để điều trị sốt vào viện?
-
-- Doxycyline.
-
-### Xử trí sốt kéo dài
-
-- Hạ sốt bằng paracetamol, efenagan codein, v.v.
 
 ## Sốt rét
 
@@ -1144,35 +1550,6 @@
 ### Điều trị cắt cơn kết hợp với chống lây lan là chiến lược?
 
 - P. faciparrum.
-
-## Lỵ amip
-
-### Căn nguyên gây lỵ amip
-
-- Đơn bào ký sinh trùng Entamoeba histolytica.
-
-### Dịch tễ
-
-- Lỵ amip gây những vụ dịch nhỏ.
-
-### Lứa tuổi hay mắc Entamoeba histolytica
-
-- 20-50 tuổi (20-30 tuổi).
-- Trẻ <5 tuổi ít mắc.
-
-### Triệu chứng nào không giống lỵ amip?
-
-- Sốt cao, rét run.
-
-### Chẩn đoán lỵ amip cấp tính dựa vào?
-
-- Soi phân thấy nhiều amip thể hoạt động ăn hồng cầu.
-
-### Hình ảnh tổn thương đại tràng do lỵ amip cấp
-
-- Có nhiều vết loét điển hình kèm xuất huyết.
-- Xquang có thủng ruột, lồng ruột, u amip.
-- Nội soi: Amip ăn hồng cầu trong bệnh cấp tính.
 
 ## Zika
 
