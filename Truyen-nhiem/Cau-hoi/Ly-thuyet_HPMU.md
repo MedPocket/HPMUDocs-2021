@@ -1403,7 +1403,7 @@
 ### Soi tươi tìm được Leptospira ở khoảng thời gian nào của bệnh?
 
 - Trong 10 phút ở nhiệt độ 56 oC.
-- 6 ngày đầu với dịch não tủy, từ ngày thứ 12 với nước tiểu
+- 6 ngày đầu với dịch não tủy, từ ngày thứ 12 với nước tiểu.
 - _Phản ứng ngưng kết Martin-Petti, miễn dịch huỳnh quang, ELISA qua huyết thanh thực hiện ở tuyến trung ương._
 
 ### Triệu chứng không có giá trị chẩn đoán Leptospira
@@ -1493,7 +1493,7 @@
 - _Shigella: Ăn rau, sốt, tiêu chảy phân nhày máu, phân ít, mót rặn._
 - _Ecoli: Tùy vào chủng nhiễm có thể tiêu chảy, có máu, đau bụng._
 - _Clostridium difficile: Mất nước, hạ huyết áp, ấn đau bụng lan tỏa._
-- _Listeria: An thịt bò, tiêu chảy phân nhiều nước, sốt, nôn, đau bụng nhẹ._
+- _Listeria: Ăn thịt bò, tiêu chảy phân nhiều nước, sốt, nôn, đau bụng nhẹ._
 - _Giardia: Khám bụng bình thường, tăng nhu động ruột._
 
 ### Đặc điểm tiêu chảy do tụ cầu vàng?
