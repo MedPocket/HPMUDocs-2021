@@ -238,7 +238,6 @@
 - Bằng vacine đối với HI cho trẻ dưới 5 tuổi. Dự phòng với gia đình có trẻ <4 tuổi hoặc phụ nữ có thai sống với trẻ nhiễm HI bằng rifampicine 20 mg/kg x 4 ngày.
 - Đối với não mô cầu có 4 loại vacine: Monovalen, bivalent A và C, quadrivalet A.
 
-
 ## Sốt kéo dài
 
 ### Định nghĩa sốt kéo dài
@@ -295,7 +294,7 @@
 
 ### Viêm gan B, C, D lây qua đường?
 
-- Máu (Chủ yếu viêm gan C).
+- Máu (chủ yếu viêm gan C).
 - Tình dục không an toàn.
 - Mẹ sang con trong thời kỳ chu sinh (không lây qua rau thai với viêm gan B).
 - Lây ngang.
@@ -391,7 +390,7 @@
   - Kháng nguyên HBcAg không có trong huyết thanh.
   - Kháng thể anti HBc xuất hiện trước 1 tuần có dấu hiệu lâm sàng. IgM tồn tại vài tháng, IgG tồn tại cả đời.
   - Kháng nguyên HBeAg xuất hiện cùng HBsAg nhưng biến mất trước.
-  - Kháng thể anti HBa đánh giá sự dừng hoạt động của virus.
+  - Kháng thể anti HBe đánh giá sự dừng hoạt động của virus.
 
 ### BN nam, 23 tuổi, có xăm trở tiền sử viêm gan C cách đây 2 năm. XN có AST/ALT tăng, protein 59%, HBsAg (-), anti HCV (+), anti HCV type IgG (+).
 
@@ -471,7 +470,6 @@
 - Tiêm 8 đơn vị/kg tiêm bắp không quá 500 đơn vị cho người lọc máu.
 - Tiêm bắp 30 đơn vị/lg cho trẻ sơ sinh, tác dụng bảo vệ trong 5 tuần.
 
-
 ## Cúm
 
 ### Virus cúm thuộc họ virus nào?
@@ -495,19 +493,19 @@
 - Cúm A (H7N9) ủ bệnh trung bình 5 ngày (1-10 ngày).
 - Cúm lợn ủ bệnh 2-7 ngày.
 
-### Các triệu chứng điển hình của bệnh cúm?
+### Các triệu chứng điển hình của bệnh cúm
 
 - Viêm họng.
 - Sốt.
 - Đau cơ.
 - Nôn, tiêu chảy.
 
-### Biến chứng
+### Biến chứng của cúm
 
 - Viêm phổi bội nhiễm, kháng sinh tiêu biểu cephalosporin 1-2 hoặc co-trimoxazol, azithromycin, doxycilin, gentamycin.
 - Suy hô hấp.
 
-### Nguyên tắc điều trị
+### Nguyên tắc điều trị cúm
 
 - Phát hiện và cách ly sớm.
 - Điều trị sớm (lý tưởng là 48h kể từ khi có triệu chứng đàu tiên).
@@ -515,7 +513,7 @@
 - Hồi sức khi cần.
 - Điều trị biến chứng, suy đa tạng.
 
-### Thời gian điều trị
+### Thời gian điều trị cúm
 
 - 5-7 ngày.
 
@@ -609,7 +607,7 @@
 - Tiêm vacine sống giảm độc lực, tiêm dưới da.
 - Tỷ lệ xuất hiện kháng thể từ 80-95%.
 - Hiệu quả bảo vệ 10-20 năm.
-- Tiêm cho trẻ từ 12-15 tháng nhắc lại từ 13 tháng đến 13 tuổi. Trẻ 2-13 tuổi chưa được tiêm khuyến cáo tiêm 2 liều. Trẻ 14-25 chưa tiêm khuyến cáo tiêm 1 liều.
+- Tiêm cho trẻ từ 12-15 tháng nhắc lại từ 13 tháng đến 13 tuổi. Trẻ 2-13 tuổi chưa được tiêm khuyến cáo tiêm 2 liều. Tuổi 14-25 chưa tiêm khuyến cáo tiêm 1 liều.
 
 ## Sởi
 
@@ -780,16 +778,6 @@
   - Hết sốt.
   - Có thể phát ban, ngứa.
 
-### Sốt xuất huyết Dengue nặng là sốt xuất huyết kèm theo?
-
-- Sốt cao.
-- Xuất huyết tạng.
-- Suy tạng.
-
-### Hiện tượng thoát huyết tương ra ngoài lòng mạch xảy ra trong giai đoạn nào của sốt xuất huyết Dengue?
-
-- Giai đoạn nguy kịch.
-
 ### Dấu hiệu cảnh báo sốt xuất huyết Dengue
 
 - Sốt cao 40 oC, đau dầu, đau khớp, đau ổ mắt, xuất huyết chảy máu mũi, răng, sốc mạch nhanh, huyết áp tụt, tràn dịch đa màng, Hct tăng, albumin giảm.
@@ -803,26 +791,30 @@
   - AST/ALT tăng trên 400 U/L.
   - Tràn dịch màng bụng trên Xquang, siêu âm.
 
+### Sốt xuất huyết Dengue nặng là sốt xuất huyết kèm theo?
+
+- Sốt cao.
+- Xuất huyết tạng.
+- Suy tạng.
+
+### Hiện tượng thoát huyết tương ra ngoài lòng mạch xảy ra trong giai đoạn nào của sốt xuất huyết Dengue?
+
+- Giai đoạn nguy kịch.
+
 ### Dấu hiệu không có trong tăng tính thấm thành mạch do sốt xuất huyết Dengue
 
 - Siêu âm không thấy dịch nhưng tiểu cầu giảm.
 
 ### Xét nghiệm chẩn đoán căn nguyên virus Dengue
 
-- ELISA tìm kháng thể IgM, IgG. Nên lấy máu ngày thứ 5 kể từ khi sosots.
+- ELISA tìm kháng thể IgM, IgG. Nên lấy máu ngày thứ 5 kể từ khi sốt.
 - Xét nghiệm nhanh tìm NS1 trong 3-4 ngày đầu của bệnh.
 - PCR trong giai đoạn còn sốt hoặc ngay sau khi hết sốt.
 
-### Các thể của sốt xuất huyết Dengue
-
-- Thể điển hình.
-- Thể có dấu hiệu cảnh báo.
-- Thể nặng (thoát huyết tương, xuất huyết nặng, suy tạng).
-
-### Nguyên tắc điều trị
+### Nguyên tắc điều trị sốt xuất huyết Dengue
 
 - Chẩn đoán sớm, bù dịch kịp thời.
-- Tiên lượng phụ thuộc vào việc phát hiến ớm sốc:
+- Tiên lượng phụ thuộc vào việc phát hiến sớm sốc:
   - Theo dõi làm XN tiểu cầu 6h/lần.
   - Theo dõi các dấu hiệu nặng.
 
@@ -922,7 +914,7 @@
 
 ### Virus HIV tích hợp mã di truyền vào ADN bằng cách?
 
-- ADN tiền virus tích hợp vào ADN tế bào chủ nhờ ZnZyen Intergrbse.
+- ADN tiền virus tích hợp vào ADN tế bào chủ nhờ Integrase.
 
 ### Thời gian điều trị bằng Co-trimoxazole
 
@@ -976,7 +968,7 @@
   - Giai đoạn tiềm tàng.
   - Giai đoạn tiến triển.
 
-### Khi nào điều trị ARV
+### Khi nào điều trị ARV cho BN HIV
 
 - Bất kể CD4 bằng bao nhiêu. Chỉ định điều trị ngay khi được chẩn đoán HIV.
 - Trẻ dưới 18 tháng tuổi có PCR lần 1 (+).
@@ -985,13 +977,13 @@
 
 - Giai đoạn cấp tính và giai đoạn tiến triển AIDS.
 
-### 1 phụ nữ phát hiện nhiễm HIV 2 năm, hiện có zona mặt phải làm BN đau nhức, nhìn mờ. BN ở giai đoạn mấy?
+### Một phụ nữ phát hiện nhiễm HIV 2 năm, hiện có zona mặt phải làm BN đau nhức, nhìn mờ. BN ở giai đoạn mấy?
 
 - Giai đoạn 2.
 
 ### Cytomegalovirus gây ra, trừ
 
-- _Không gây bệnh_ Viêm cầu thận.
+- _Không gây bệnh_ viêm cầu thận.
 - _Gây bệnh tại võng mạc, đại tràng, thực quản._
 
 ### Nấm Talaromyces (Penicillium marneffei)
@@ -1011,7 +1003,7 @@
 ### Co-trimoxazolee không điều trị dự phòng cho?
 
 - Lao.
-- Chống chỉ định và sulfamid.
+- Chống chỉ định với sulfamid.
 
 ### Điều trị nấm Candida miệng bằng?
 
@@ -1024,7 +1016,6 @@
 - Virus Rhabdovi thuộc loài lysavirus.
 - Lưu truyền hoang dã ở cáo, đô thị ở chó, dại ở dơi.
 - Động vật có thể lây truyền bệnh cho người 5-7 ngày kể từ khi có biểu hiện lâm sàng tới lúc chết.
-
 
 ### Vị trí nào thường nghiêm trọng khi bị chó cắn?
 
@@ -1054,7 +1045,7 @@
 - 3-4 ngày.
 - Thể liệt tử vong sau 5-6 ngày.
 
-### Chỉ số không ủng hộ bệnh dại?
+### Chỉ số không ủng hộ bệnh dại
 
 - Tiến triển tốt lên của các dấu hiệu thần kinh.
 
@@ -1304,7 +1295,7 @@
 - Nung bệnh trung bình 7-12 ngày. Dưới 8 ngày nặng, trên 20 ngày tiên lượng khả quan.
 - Khởi phát dưới 48 giờ bệnh nặng, trên 5 ngày bệnh nhẹ.
 
-### Kiểu co cơ của uốn ván?
+### Kiểu co cơ của uốn ván
 
 - Co cứng tự nhiên hoặc do kích thích kéo dài vài dây đến vài phút.
 - Co cứng điển hình gồm cứng lưng, duỗi vai, bụng.
@@ -1423,7 +1414,7 @@
 
 - Ampiciline.
 
-### Chẩn đoán Leptospira nên được đặt ra trên 1 BN có sốt không đặc hiệu và mắt xung huyết đỏ?
+### Chẩn đoán Leptospira nên được đặt ra trên một BN có sốt không đặc hiệu và mắt xung huyết đỏ?
 
 - Đúng.
 
@@ -1679,15 +1670,15 @@
 
 - 1 ngày.
 
-### họn kháng sinh phù hợp
+### Chọn kháng sinh phù hợp
 
 #### Bệnh nhân nam 21 tuổi vào nhập viện ngày thứ hai của bệnh vì sốt và đau bụng âm ỉ, thỉnh thoảng đau quặn từng cơn, mót rặn, nôn, đi ngoài phân toàn nhày và máu, dịch phân có màu đỏ như nước rửa thịt. Bệnh nhân đi ngoài 20 lần trong 24 giờ qua. Xét nghiệm phân thấy có nhiều hồng cầu và bạch cầu trung tính, vi khuẩn gram âm.
 
-- Ciprofloxacin
+- Ciprofloxacin.
 
 #### Bệnh nhân nữ, 32 tuổi, thai 12 tuần, vào viện vì sốt 23 của bệnh, đi ngoài phân lỏng. Bệnh nhân nói tuần đầu sốt từ từ tăng dần, đến tuần thứ hai sốt cao liên tục. Khám thấy môi khô, lưỡi bẩn, bụng óc ách, gan, lách to. Công thức máu thấy bạch cầu không tăng. Cấy máu mọc S. paratyphi B
 
-- Ceftriaxon
+- Ceftriaxon.
 
 #### Bệnh nhân nữ, 70 tuổi vào viện ngày thứ 2 của bệnh vì đi ngoài phân như nước vo gạo 10 lần, nôn ra nhiều nước trong như nước mưa. Bệnh nhân hốc hác, khát nước, môi khô, không sốt, không đau bụng. Mạch nhanh nhỏ, huyết áp 85/60 mmHg. Soi tươi phân dưới kính hiển vi nền đen thấy các vi khuẩn gram âm dạng cong như hình dấu phẩy.
 
