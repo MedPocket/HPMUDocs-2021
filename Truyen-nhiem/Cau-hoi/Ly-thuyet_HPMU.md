@@ -68,7 +68,7 @@
 - Thể bán cấp điều trị kéo dài, nhiều ổ di bệnh.
 - Thể kéo dài.
 
-### Nguyên nhân gây bệnh
+### Nguyên nhân gây nhiễm khuẩn huyết
 
 - Từ cộng đồng phổ biến E. coli, gram (-), phế cầu, tụ cầu.
 - Nhiễm khuẩn bệnh viện tụ cầu, trực khuẩn mủ xanh, gram (-), đường ruột.
