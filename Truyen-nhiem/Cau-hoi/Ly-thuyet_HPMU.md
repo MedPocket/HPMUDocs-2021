@@ -554,7 +554,7 @@
 
 - Trước 6 ngày, 5 ngày sau khi có triệu chứng sốt. Thời gian lây bệnh kéo dài 10 ngày.
 
-### Thời kỳ ủ bệnh của quai bin
+### Thời kỳ ủ bệnh của quai bị
 
 - 16-20 ngày.
 
