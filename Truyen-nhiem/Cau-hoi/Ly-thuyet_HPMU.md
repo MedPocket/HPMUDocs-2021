@@ -1115,7 +1115,7 @@
 
 ## Thương hàn
 
-### Đặc điểm không phải của vi khuẩn thương hàn:
+### Đặc điểm không phải của vi khuẩn thương hàn
 
 - _Không phải_ bắt buộc phải kí sinh nội bào.
 - _Tên vi khuẩn Salmonella typhi (có 3 loại kháng nguyên O gây bệnh, H tạo kháng thể, Vi quan trọng về mặt dịch tễ) và Salmonella paratyphi A, B, C. Trực khuẩn gram (-), đường ruột._
