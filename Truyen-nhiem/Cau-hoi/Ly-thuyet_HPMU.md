@@ -14,9 +14,9 @@
 
 ### Tử ban hình sao có giá trị trong chẩn đoán căn nguyên do?
 
-- Neisseria menigitidis (Não mô cầu).
+- Neisseria menigitidis (Não mô cầu). Đặc điểm màu đỏ thẫm haocwj xám tính, đường kính 1-5 mm bề mặt bằng phẳng không gồ tập trung ưới thân mình và chi dưới.
 
-### Viêm não virus thứ phát do:
+### Viêm não virus thứ phát do
 
 - Virus quai bị.
 
@@ -35,6 +35,8 @@
 
 ### Các phòng bệnh đặc hiệu virus gây viêm não?
 
+- Bằng vacine đối với HI cho trẻ dưới 5 tuổi.
+- Đối với não mô cầu có 4 loại vacine: Nonovalen, bivalent A và C, quadrivalet A.
 - Tiêm vacine viêm não Nhật Bản B.
 
 ### Trung gian truyền bệnh viêm não Nhật Bản B tại Việt Nam là?
@@ -54,6 +56,13 @@
 ### Khi nghi ngờ viêm não do virus Herpes Simplex 1 (tương tự với viêm não do virus B) cần tiến hành điều trị ngay bằng?
 
 - Acyclovir.
+
+### Acyclovir được chỉ định khi nào?
+
+- Điều trị sớm cho BN viêm não mà không rõ căn nguyên.
+- Trước khi BN mất ý thức.
+- Trong vòng 24h từ khi khởi phát.
+- Glassgow 9-15 điểm.
 
 ### Đứng trước 1 BN chưa được tiêm chủng có sưng tuyến nước bọt mang tai và có thay đổi ý thức cần nghĩ đến viêm não thứ phát do căn nguyên nào?
 
@@ -110,6 +119,7 @@
 
 ### Thuốc kháng virus nào sử dụng được cho phụ nữ mang thai?
 
+- Rifampicine 20mg.
 - DTG, Dohitegravit.
 
 ### Điều trị quan trọng nhất của viêm gan C là?
@@ -132,6 +142,10 @@
 
 - Cô ấy đã đủ nồng độ kháng thể để bảo vệ.
 
+### Một BN viêm gan C do sử dụng ma tuý qua đường tĩnh mạch. AST/ALT tăng, HbSAg (+), anti HCV (+). Giả sử tải lượng virus 3x10^3. Áp dụng lựa chọn điều trị phù hợp?
+
+- Thuốc kháng virus.
+
 ### Phụ nữ mang thai bị viêm gan B, thuốc kháng virus nào dùng cho BN?
 
 - Tenterfovir.
@@ -144,10 +158,6 @@
 
 - Tiền hoàng đản.
 - _Tam chứng vàng da, phát ban, đau khớp._
-
-### 1 BN viêm gan C do sử dụng ma tuý qua đường tĩnh mạch. AST/ALT tăng, HbSAg (+), anti HCV (+). Giả sử tải lượng virus 3x10^3. Áp dụng lựa chọn điều trị phù hợp?
-
-- Thuốc kháng virus.
 
 ### Thời gian ủ bệnh viêm gan B?
 
@@ -162,6 +172,8 @@
 ### Biểu hiện lâm sàng của viêm gan virus cấp
 
 - Chán ăn, vàng da, mệt mỏi, xuất hiện sau sốt.
+- Đột ngột mệt mỏi, buồn nôn, chướng bụng, đau hạ sườn phải.
+- Vàng da, phân bạc màu, nước tiểu sẫm màu.
 
 ### Thời gian giai đoạn viêm gan cấp?
 
@@ -192,9 +204,10 @@
 
 ### Viêm gan B, C, D lây qua đường?
 
-- Máu.
-- Tình dục
-- Mẹ sang con trong thời kỳ chu sinh.
+- Máu (Chủ yếu viêm gan C).
+- Tình dục không an toàn.
+- Mẹ sang con trong thời kỳ chu sinh (không lây qua rau thai với viêm gan B).
+- Lây ngang.
 
 ### Điều trị nào nên được tiến hành ở BN viêm gan B cấp tính?
 
@@ -228,6 +241,12 @@
 ### Điều nào không nên làm khi bị phơi nhiễm HIV?
 
 - Không nặn bóp máu.
+- Không điều trị dự phòng phơi nhiễm khi đã quá 72h.
+- Không chỉ định dự phòn sau phơi nhiễm HIV cho các trường hợp:
+  - Người bị phơi nhiễm đã nhiễm.
+  - Người gây phơi nhiễm có HIV (-).
+  - Phơi nhiễm với dịch không có nguy cơ nhiễm HIV.
+  - Phơi nhiễm liên tục với HIV.
 - Các bước xử trí phơi nhiễm:
   - Bước 1 xử lý vết thương tại chỗ: Rửa vết thương dưới vòi nước sạch bằng xà phòng, rửa mắt bằng nước cất hoặc nước muối liên tục trong 5 phút, rửa mũi miệng.
   - Bước 2 báo cho người phụ trách và lập biên bản.
@@ -357,7 +376,8 @@
 
 ### Phương pháp giảm tỷ lệ uốn ván sơ sinh?
 
-- Tiêm phòng vacine.
+- Tiêm phòng vacine cho thai phụ 3 tháng cuối.
+- Tiêm vacine giải độc tố cho trẻ 2-3 tháng (5 trong 1).
 
 ### Dấu hiệu gợi ý uốn ván thể nặng?
 
@@ -383,6 +403,14 @@
 
 - Viêm khớp thái dương hàm.
 - _Ngoài ra phân biệt với tai biến răng 8, amidan mủ, sai khớp thái dương hàm, viêm xương hàm)._
+
+### Thể uốn ván gây tử vong nhiều nhất
+
+- Uốn ván đầu có liệt.
+
+### Thể uốn ván tiên lượng nhẹ
+
+- Uốn ván cục bộ.
 
 ## Sốt xuất huyết Dengue
 
@@ -422,6 +450,19 @@
 ### Dấu hiệu cảnh báo sốt xuất huyết Dengue
 
 - Sốt cao 40 độ C, đau dầu, đau khớp, đau ổ mắt, xuất huyết chảy máu mũi, răng, sốc mạch nhanh, huyết áp tụt, tràn dịch đa màng, Hct tăng, albumin giảm.
+- Cụ thể 9 dấu hiệu cảnh báo:
+  - Vật vã, li bì.
+  - Nôn nhiều >3 lần/h hoặc >4 lần/6h.
+  - Xuất huyết niêm mạc.
+  - Gan to >2 cm.
+  - Tiểu cầu giảm.
+  - Hct tăng, PLT giảm.
+  - AST/ALT tăng trên 400 U/L.
+  - Tràn dịch màng bụng trên Xquang, siêu âm.
+
+### Dấu hiệu không có trong tăng tính thấm thành mạch do sốt xuất huyết Dengue
+
+- Siêu âm không thấy dịch nhưng tiểu cầu giảm.
 
 ### Sốt xuất huyết Dengue truyền khối tiểu cầu khi nào?
 
@@ -430,6 +471,7 @@
 ### Muỗi Aedes là trung gian truyền những bệnh gì?
 
 - Sốt xuất huyết Dengue và Zikavirus.
+- _Vector truyền bệnh chính là Aedes. aegypti. Ngoài ra các loại Aedes khác khả năng truyền bệnh không rõ ràng._
 
 ### Hiện tượng thoát huyết tương ra ngoài lòng mạch xảy ra trong giai đoạn nào của sốt xuất huyết Dengue?
 
@@ -445,6 +487,18 @@
 - Xuất huyết tạng.
 - Suy tạng.
 
+### Điều trị sốt Dengue
+
+- Nước muối sinh lý 0.9%.
+
+### Biện pháp phòng sốt xuất huyết Dengue khi chưa có dịch:
+
+- Không đặc hiệu:
+  - Kiểm tra tích cực và theo dõi sát muỗi Aedes aegypti.
+  - Hướng dẫn cộng đồng biết cách sớm nhận biết.
+- Đặc hiệu:
+  - Đang nghiên cứu vacine.
+
 ## Sốt mò
 
 ### Địa dư sốt mò?
@@ -455,10 +509,13 @@
 
 - Tên Orientia tsutsugamushi.
 - Sốt mò là vi khuẩn Gram âm và bắt buộc phải kí sinh nội bào.
+- Trung gian truyền bệnh là ấu trùng mò Leptotrobidium thông qua vật chủ tự nhiên là động vật nhỏ như chuột, chó, gà, chim.
+- Không lây trực tiếp từ người sang người.
 
-### Người bị sốt mò bao giờ cũng có vết đốt trên da?
+### Dấu hiệu của sốt mò.
 
-- Sai.
+- Sốt cao kéo dài, kèm theo dấu hiệu da xung huyết, hạch to, phát ban, sẩn đỏ.
+- Dấu Eschar có giá trị chẩn đoán nhưng không phải lúc nào cũng có.
 
 ### Bệnh cảnh lâm sàng thường gặp trong bệnh sốt mò?
 
@@ -471,8 +528,14 @@
 ### Tính chất của vết đốt mò?
 
 - Tròn, bầu dục đường kính 0.5-1 cm, không đau, không ngứa, nổi viền đỏ lên mặt da.
+- Nếu có vẩy, vẩy đen, cứng phủ trên môt nốt sẩn có gờ cứng.
+- Nếu vẩy bong sẽ để lại vết lõm, màu đỏ tươi, sạch không tiết dịch, không có mủ.
 
 ## Nhiễm khuẩn huyết
+
+### Định nghĩa nhiễm khuẩn huyết
+
+- Rối loạn chức năng cơ quan đe dọa tính mạng.
 
 ### Biểu hiện lâm sàng nhiễm khuẩn huyết do S. Aureus (tụ cầu)?
 
@@ -501,23 +564,24 @@
 
 - Sốc nhiễm khuẩn = Nhiễm khuẩn huyết + HAdm <= 65 mmHg + Lactat >=2 = Nhiễm khuẩn huyết + HAtb > 65 mmHg + Lactat >=2.
 
+### Tỷ lệ chết do nhiễm khuẩn Sepsis 3
+
+- 40%.
+
 ### Phương pháp chẩn đoán sớm nhiễm khuẩn huyết?
 
 - Phân lập vi khuẩn từ máu (cấy máu 2-3 h), mủ, dịch.
 
 ### Biểu hiện lâm sàng ổ di bệnh tiêu hóa của nhiễm khuẩn huyết?
 
-- Viêm ruột.
+- Viêm ruột: Ruột, dạ dày chảy máu, viêm hoại tử.
 - Viêm phúc mạc.
-- Viêm gan.
+- Viêm gan: Vàng da, viêm gan nhiễm khuẩn, áp xe gan đường mật.
 
 ### Chẩn đoán sớm nhiễm khuẩn huyết?
 
 - Sốt, ngộ độc.
-
-### Tỷ lệ cấy khuẩn (+) của dịch não tủy (DNT) khi chưa sử dụng kháng sinh?
-
-- 6% trong số 22.394 mẫu cấy dịch não tủy
+- Ổ nhiễm khuẩn tiên phát, sốt cao, tình trạng nhiễm trùng - nhiễm độc, bạch cầu tăng cao, bạch cầu đa nhân trung tính tăng.
 
 ### Trong điều trị nhiễm khuẩn huyết do tụ cầu vàng kháng methicilline phối hợp kháng sinh cần ưu tiên kết hợp với vancomycin?
 
@@ -566,9 +630,13 @@
 - Hô hấp dùng cephalosporin thế hệ 3-4, quinolon.
 - Da dùng oxacilin, cefazolin hoặc vancomycin, v.v.
 
+### Tiên lượng của BN nhiễm khuẩn huyết
+
+- Bệnh có tỷ lệ tử vong cao.
+
 ## Thủy đậu
 
-### Thuỷ đậu xảy ra vào?
+### Thuỷ đậu xảy ra vào
 
 - Cuối đông, đầu xuân.
 
@@ -587,11 +655,12 @@
 ### Biến chứng thần kinh hay gặp ở thuỷ đậu?
 
 - Viêm màng não nước trong.
-- _Các biến chứng khác: Viêm phổi do thủy đậu (biến chứng trầm trọng nhất), viêm da do bội nhiễm liên cầu, tụ cầu, viêm cơ tim, viêm giác mạc, viêm khớp, viêm thận, xuất huyết nội tạng, v.v._
+- _Các biến chứng khác: Viêm phổi do thủy đậu (biến chứng trầm trọng nhất), viêm da do bội nhiễm liên cầu/tụ cầu, viêm cơ tim, viêm giác mạc, viêm khớp, viêm thận, xuất huyết nội tạng, v.v._
 
 ### Biến chứng viêm phổi trong thủy đậu?
 
-- Trầm trọng nhất 20% (vào ngày thứ 3 và thứ 5 của bệnh).
+- Trầm trọng nhất.
+- Chiếm 20%, xảy ra vào ngày thứ 3 và thứ 5 của bệnh.
 - Lâm sàng ho sốt, đau ngực, Xquang thấy nốt mờ chẩn đoán viêm phổi kẽ.
 
 ### Ban dạng nốt phỏng thường gặp ở bệnh nào?
@@ -602,16 +671,37 @@
 
 - Acyclovir.
 
+### Phòng bệnh thủy đậu
+
+- Cách ly đến khi mụn nước khô.
+
+### Điều trị Zona và thủy đậu có giống nhau không?
+
+- Cùng một tác nhân nhưng điều trị khác nhau.
+
 ## Thương hàn
 
 ### Đặc điểm không phải của vi khuẩn thương hàn:
 
 - _Không phải đó là_ bắt buộc phải kí sinh nội bào.
 - _Tên vi khuẩn Salmonella typhi (có 3 loại kháng nguyên O gây bệnh, H tạo kháng thể, Vi quan trọng về mặt dịch tễ) và Salmonella paratyphi A, B, C. Trực khuẩn gram (-), đường ruột._
+- _Bị tiêu diệt tại dạ dày bởi acid dịch vị._
 
-### Sốt trong thương hàn?
+### Sốt trong thương hàn
 
 - Sốt từ từ tăng dần. Rồi sốt cao liên tục giữ vững mức 39.5-40 độ C. Hình cao nguyên.
+
+### Đào ban thường gặp trong bệnh nào?
+
+- Thương hàn.
+
+### Ban trong bệnh thương hàn xuất hiện vào
+
+- Tuần thứ 2 trong thời kỳ toàn phát (hồng ban).
+
+### Ban trong thương hàn kéo dài bao lâu?
+
+- 2-3 tuần.
 
 ### Vị trí ban trong thương hàn?
 
@@ -621,10 +711,6 @@
 
 - Viêm cơ tim.
 - Viêm tác động tĩnh mạch.
-
-### Đào ban thường gặp trong bệnh nào?
-
-- Thương hàn.
 
 ### Kháng sinh nào được ưu tiên điều trị bệnh thương hàn có kháng acid nalidixic?
 
@@ -640,10 +726,6 @@
 
 - Fluroquinolone.
 
-### Ban trong bệnh thương hàn xuất hiện vào?
-
-- Tuần thứ 2 trong thời kỳ toàn phát (hồng ban).
-
 ### 3 nhóm biến chứng chính trong bệnh thương hàn?
 
 - Tiêu hóa xuất hiện cuối tuần thứ 2 và thứ 3:
@@ -657,6 +739,14 @@
   - Viêm não thương hàn với dấu hiệu Typhos.
   - Viêm màng nõa tủy.
 - Ngoài ra còn viêm phế quản, viêm phổi, tràn dịch màng phổi, v.v.
+
+### Phương pháp điều trị thương hàn
+
+- Kháng sinh, hạ sốt, điều trị triệu chứng, bù nước và điện giải.
+
+### Thời gian hồi phục của bệnh thương hàn
+
+- Hồi phục kéo dài (thời gian lại sức kéo dài 2 tuần).
 
 ## Quai bị
 
@@ -680,15 +770,25 @@
 
 - Teo tuyến nước bọt.
 
+### Đặc điểm của biến chứng viêm tụy trong quai bị
+
+- Xuất hiện 7-9 ngày đau bụng vùng thượng vị, buồn nôn, hội chứng đau bụng cấp tính, suy giảm toàn trạng.
+
+### Biểu hiện lâm sàng hay gặp của quai bị thể viêm tinh hoàn là?
+
+- Sốt, sưng đau tinh hoàn 1 bên sau khi bị viêm tuyến nước bọt mang tai 2 bên.
+
 ### Phân biệt quai bị với?
 
-- Bệnh lý góc hàm tam giác cảnh, viêm tuyến nước bọt mang tai, viêm hạch góc hàm dưới.
+- Bệnh lý góc hàm tam giác cảnh.
+- Viêm tuyến nước bọt mang tai.
+- Viêm hạch góc hàm dưới.
 
 ### Phương pháp điều trị viêm tinh hoàn do quai bị?
 
 - Nghỉ ngơi tại giường.
 - Mặc quần chật cố định tinh hoàn.
-- Corticoid ngắn ngày.
+- Corticoid ngắn ngày. Không dùng dài ngày.
 
 ### Thời gian lây quai bị là?
 
@@ -719,17 +819,18 @@
 
 ### Biến chứng nào không gặp trong sởi?
 
-- _Không gặp_ viêm túi mật.
+- _Không gặp_ viêm túi mật, giãn thanh quản do bội nhiễm.
 - Biến chứng có thể gặp:
   - Biến chứng hô hấp (viêm mũi họng, viêm tai giữa, viêm thanh quản, viêm phế quản, v.v).
   - Biến chứng thần kinh (viêm màng não nước trong, viêm màng não tủy, viêm não mủ sau viêm tai giữa).
   - Biến chứng tiêu hóa (viêm niêm mạc miệng, viêm ruột, đau bụng).
   - Biến chứng ngoài da (viêm da, mụn nhọt).
-  - Biến chứng mắt (viêm màng tiếp hợp, viêm kết mạc).
+  - Biến chứng mắt (viêm màng tiếp hợp, viêm màng bồ đào, viêm kết mạc).
   - Biến chứng hiếm gặp (viêm cơ tim, xuất huyết, bệnh nhiễm sắc thể).
 
 ### Đặc điểm miễn dịch khi mắc sởi?
 
+- Trẻ mới sinh nhận miễn dịch từ mẹ đến tháng thứ 9.
 - Miễn dịch bền vững suốt đời.
 
 ### Biến chứng hiếm gặp ở bệnh sởi?
@@ -738,8 +839,8 @@
 
 ### Đặc điểm bệnh sởi thời kì khởi phát?
 
-- Sốt nhẹ hoặc sốt vừa, cao.
-- Viêm mũi họng, chảy nước mắt.
+- Hội chứng nhiễm trùng: Sốt nhẹ hoặc sốt vừa, cao.
+- Hội chứng viêm long đường hô hấp trên: Viêm mũi họng, chảy nước mắt.
 - Xuất hiện hạt trắng nhỏ (Koplick).
 
 ### 158. Đặc điểm liên quan đến bệnh sởi?
@@ -748,13 +849,23 @@
 
 ## Leptospira
 
+### Khu vực thịnh hành Leptospira
+
+- Ở các nước nhiệt đới, mưa nhiều.
+
+### Đặc điểm của Leptospira
+
+- Vi khuẩn gram âm, hiếu khí, mọc trên môi trường nuôi cấy.
+- Leptospira gây tăng men gan trung bình.
+
 ### Soi tươi tìm được Leptospira ở khoảng thời gian nào của bệnh?
 
+- Trong 10 phút ở nhiệt độ 56 oC.
 - 6 ngày đầu với dịch não tủy, từ ngày thứ 12 với nước tiểu
 - _Phản ứng ngưng kết Martin-Petti, miễn dịch huỳnh quang, ELISA qua huyết thanh thực hiện ở tuyến trung ương._
 - _Thuộc họ Spirohaetaece. Xoắn khuẩn gram (-)._
 
-### Triệu chứng không có giá trị chẩn đoán Leptospira?
+### Triệu chứng không có giá trị chẩn đoán Leptospira
 
 - Chức năng gan, thận bình thường.
 
@@ -773,6 +884,10 @@
 ### Có bao nhiêu type huyết thanh Leptospira?
 
 - 23 nhóm, 240 type huyết thanh.
+
+### Thời gian điều trị penicillin ở Leptospira là bao lâu?
+
+- Penicillin 1.5 triệu đơn vị x6 lần/ngày x 7 ngày tiêm tĩnh mạch.
 
 ## Tả
 
@@ -799,7 +914,13 @@
 
 ## Viêm màng não
 
-### 2 hội chứng thường gặp trong viêm màng não mủ?
+### Triệu chứng gợi ý viêm màng não mủ
+
+- Sốt cao đột ngột 39-40 oC, đau đầu.
+- Rối loạn vận động: Cử động bất thường, co giật, liệt cứng.
+- Rối loạn tri giác: Mất phương hướng, lơ mơ, bất tỉnh.
+
+### Hai hội chứng thường gặp trong viêm màng não mủ?
 
 - Hội chứng nhiễm trùng, hội chứng màng não (đau đầu, nôn vọt, táo bón, sốt, sợ ánh sáng, tư thế nằm cò súng, cổ cứng, Kernig (+)).
 
@@ -816,12 +937,22 @@
 
 - Dịch đục.
 
+### Tỷ lệ cấy khuẩn (+) của dịch não tủy (DNT) khi chưa sử dụng kháng sinh?
+
+- 6% trong số 22.394 mẫu cấy dịch não tủy.
+
 ### Đặc điểm dịch não tuỷ trong viêm màng não mủ?
 
 - Dịch đục, áp lực tăng.
 - Protein tăng.
 - Đường giảm.
 - BC >1000/mm^3 chủ yếu là đa nhân trung tính.
+
+### Đặc điểm dịch não tủy do virus
+
+- Tăng bạch cầu vài chục đến vài trăm <250.
+- Độ tập trung bình thường, hồng cầu thường không có.
+- Protein <1 g.
 
 ### Thời gian trung bình điều trị viêm màng não mủ?
 
@@ -853,10 +984,6 @@
 - Đau cơ.
 - Nôn, tiêu chảy.
 
-### Acyclovir được chỉ định khi?
-
-- Herpes simplex, Zoster, v.v.
-
 ### Đặc điểm nào không phải của virus cúm type A?
 
 - Chỉ gây bệnh ở người.
@@ -866,6 +993,24 @@
 - Orthoyxoviridage có 3 loại cúm A, B, C.
 
 ## Tiêu chảy cấp
+
+### Triệu chứng tiêu chảy có đặc điểm
+
+- Adenovirus: Không sốt, triệu chứng nhẹ, thường tự khỏi.
+- _Rotavirus: Sốt, nôn, tiêu chảy nhiều nước phân vàng, không nhày máu, lây từ người suy giảm miễn dịch._
+- Norovirus: Ăn nhiều nghêu, sò, nôn, đau quặn sau đó tiêu chảy nhiều nước, phân không nhày máu.
+- _Campylobacter: Ăn thịt gia cầm chưa chín, tiêu chảy nhiều nước, phân kèm nhầy, tự khỏi sau 5-7 ngày, đau quặn, sốt, tiêu chảy phân máu có thể từ ngày thứ 3._
+- _Shigella: Ăn rau, sốt, tiêu chảy phân nhày máu, phân ít, mót rặn._
+- _Ecoli: Tùy vào chủng nhiễm có thể tiêu chảy, có máu, đau bụng._
+- _Clostridium difficile: Mất nước, hạ huyết áp, ấn đau bụng lan tỏa._
+- _Listeria: An thịt bò, tiêu chảy phân nhiều nước, sốt, nôn, đau bụng nhẹ._
+- _Giardia: Khám bụng bình thường, tăng nhu động ruột._
+
+### Đặc điểm tiêu chảy do tụ cầu vàng?
+
+- Không sốt, không đau bụng, tiêu chảy phân nhiều nước.
+- Nôn, buồn nôn.
+- Ăn thịt bò, lợn, gia cầm trứng trước 4-6h khởi bệnh.
 
 ### Tiêu chảy khi nào cần nhập viện?
 
@@ -877,6 +1022,10 @@
 - Đau bụng nặng.
 - Sử dụng kháng sinh gần đây.
 - Người suy giảm miễn dịch.
+
+### Xét nghiệm có giá trị chẩn đoán tiêu chảy cấp
+
+- XN phân.
 
 ## Lỵ trực khuẩn
 
@@ -891,7 +1040,7 @@
 
 ### Căn nguyên gây bệnh lỵ trực khuẩn?
 
-- Shigella Hexneri.
+- Shigella plexneri.
 
 ### Trong các dấu hiệu cận lâm sàng dấu hiệu có giá trị quyết định nhất trong chẩn đoán lỵ trực khuẩn?
 
@@ -925,16 +1074,22 @@
 
 ### Dại thể hung dữ tử vong sau bao lâu?
 
-- 3-5 ngày.
+- 3-4 ngày.
 - _Thể liệt tử vong sau 5-6 ngày._
 
 ### Chỉ số không ủng hộ bệnh dại?
 
 - Tiến triển tốt lên của các dấu hiệu thần kinh.
 
-### Điều trị bệnh dại?
+### Nguyên tắc điều trị bệnh dại
 
 - Chăm sóc giảm nhẹ (an thần, thở máy, điều trị trung ương).
+
+### Điều trị dại thời kì toàn phát
+
+- Cách ly ở nơi yên tĩnh, hạn chế người ra vào.
+- An thần bằng Diazepan + Clozepine, morphin.
+- Đảm bảo chức năng tim mạch, hô hấp.
 
 ### Vị trí nào thường nghiêm trọng khi bị chó cắn?
 
@@ -952,9 +1107,18 @@
 - Bệnh tự miễn
 - Bệnh ác tính.
 
+### Thăm khám BN sốt kéo dài
+
+- Thăm khám có hệ thống không bỏ sót cơ quan nào.
+- Thăm khám hằng ngày để phát hiện dấu hiệu mới.
+
 ### Kháng sinh được khuyến cáo để điều trị sốt vào viện?
 
 - Doxycyline.
+
+### Xử trí sốt kéo dài
+
+- Hạ sốt bằng paracetamol, efenagan codein, v.v.
 
 ## Sốt rét
 
@@ -981,27 +1145,20 @@
 
 - P. faciparrum.
 
-## Tiêu chảy
-
-### Triệu chứng Adenovirus có đặc điểm?
-
-- Không sốt, triệu chứng nhẹ, thường tự khỏi.
-- _Rotavirus: Sốt, nôn, tiêu chảy nhiều nước phân vàng, không nhày máu, lây từ người suy giảm miễn dịch_
-- _Norovirus: Ăn nhiều nghêu, sò, nôn, đau quạn sau đó tiêu chảy nhiều nước, phân không nhày máu_
-- _Campylobacter: Ăn thịt gia cầm chưa chín, tiêu chảy nhiều nước, phân kèm nhầy, tự khỏi sau 5-7 ngày, đau quặn, sốt, tiêu chảy phân máu có thể từ ngày thứ 3_
-- _Shigella: Ăn rau, sốt, tiêu chảy phân nhày máu, phân ít, mót rặn_
-- _Ecoli: Tùy vào chủng nhiễm có thể tiêu chảy, có máu, đau bụng_
-- _Clostridium difficile: Mất nước, hạ huyết áp, ấn đau bụng lan tỏa_
-- _Listeria: An thịt bò, tiêu chảy phân nhiều nước, sốt, nôn, đau bụng nhẹ_
-- _Giardia: Khám bụng bình thường, tăng nhu động ruột_
-
-### Đặc điểm tiêu chảy do tụ cầu vàng?
-
-- Không sốt, không đau bụng, tiêu chảy phân nhiều nước.
-- Nôn, buồn nôn.
-- Ăn thịt bò, lợn, gia cầm trứng trước 4-6h khởi bệnh.
-
 ## Lỵ amip
+
+### Căn nguyên gây lỵ amip
+
+- Đơn bào ký sinh trùng Entamoeba histolytica.
+
+### Dịch tễ
+
+- Lỵ amip gây những vụ dịch nhỏ.
+
+### Lứa tuổi hay mắc Entamoeba histolytica
+
+- 20-50 tuổi (20-30 tuổi).
+- Trẻ <5 tuổi ít mắc.
 
 ### Triệu chứng nào không giống lỵ amip?
 
@@ -1011,9 +1168,11 @@
 
 - Soi phân thấy nhiều amip thể hoạt động ăn hồng cầu.
 
-### Biểu hiện lâm sàng hay gặp của quai bị thể viêm tinh hoàn là?
+### Hình ảnh tổn thương đại tràng do lỵ amip cấp
 
-- Sốt, sưng đau tinh hoàn 1 bên sau khi bị viêm tuyến nước bọt mang tai 2 bên.
+- Có nhiều vết loét điển hình kèm xuất huyết.
+- Xquang có thủng ruột, lồng ruột, u amip.
+- Nội soi: Amip ăn hồng cầu trong bệnh cấp tính.
 
 ## Zika
 
@@ -1030,6 +1189,10 @@
 ### Mức cảnh báo của Covid-19?
 
 - Cao, phạm vi toàn cầu.
+
+### Thời gian cách ly Covid
+
+- 14 ngày.
 
 ## Ca lâm sàng
 
@@ -1087,7 +1250,7 @@
 
 #### Chẩn đoán nào dưới đây là phù hợp nhất:
 
-- Viêm màng não mủ
+- Viêm màng não mủ.
 
 #### Thái độ xử trí phù hợp cho bệnh nhân ngay sau đó nên là:
 
