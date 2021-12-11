@@ -136,7 +136,7 @@
 - Hô hấp dùng cephalosporin thế hệ 3-4, quinolon.
 - Da dùng oxacilin, cefazolin hoặc vancomycin, v.v.
 
-### Dùng corticoid khi nào?
+### Dùng corticoid đối với BN nhiễm khuẩn huyết khi nào?
 
 - Đối với những BN sốc nhiễm trùng, huyết áp tâm thu <90 mmHg.
 - Dùng đường tĩnh mạch 8h đầu của sốc, dùng trong 7 ngày.
@@ -194,17 +194,17 @@
 - Độ tập trung bình thường, hồng cầu thường không có.
 - Protein <1 g.
 
-### Nguyên tắc điều trị
+### Nguyên tắc điều trị viêm màng não
 
 - Sử dụng kháng sinh đường tĩnh mạch ngay lập tức.
 
-### Kháng sinh thường dùng
+### Kháng sinh thường dùng trong viêm màng não
 
 - Hơn 3 tuổi: Cefotaxime 200-300 hoặc ceftriaxone 70-100.
 - Người lớn: Amoxicilline 200 hoặc cefotaxime 200-300 hoặc ceftriaxone 70-100.
 - Có thể phối hợp vancomycin, gentamycin nếu có dấu hiệu nguy hiểm.
 
-### Dùng corticoid tron viêm màng não với vi khuẩn nào
+### Dùng corticoid trong viêm màng não với vi khuẩn nào
 
 - Haemophilus và Streptococcus suis để giảm di chứng.
 
@@ -265,7 +265,7 @@
 - Hạ sốt bằng paracetamol, efenagan codein, chườm lạnh, v.v.
 - Bù nước điện giải.
 
-### Những điểm cần lưu ý
+### Những điểm cần lưu ý với sốt kéo dài
 
 - Sau 1 tháng điều trị kháng sinh không hết sốt nghĩ đến nguyên nhân do kí sinh trùng.
 - Tìm viêm tại tĩnh mạch sâu.
@@ -428,7 +428,7 @@
 
 ### Phụ nữ mang thai bị viêm gan B, thuốc kháng virus nào dùng cho BN?
 
-- Tenterfovir.
+- Tenerfovir.
 
 ### Thuốc kháng virus nào sử dụng được cho phụ nữ mang thai?
 
@@ -468,7 +468,7 @@
 
 - Tiêm 500 đơn vị cho trường hợp phơi nhiễm nghề nghiệp.
 - Tiêm 8 đơn vị/kg tiêm bắp không quá 500 đơn vị cho người lọc máu.
-- Tiêm bắp 30 đơn vị/lg cho trẻ sơ sinh, tác dụng bảo vệ trong 5 tuần.
+- Tiêm bắp 30 đơn vị/kg cho trẻ sơ sinh, tác dụng bảo vệ trong 5 tuần.
 
 ## Cúm
 
@@ -478,7 +478,7 @@
 
 ### Đặc điểm nào không phải của virus cúm type A?
 
-- Chỉ gây bệnh ở người.
+- _Không đúng_ chỉ gây bệnh ở người.
 - Cúm A lây bệnh ở người và các loài động vật khác nhau.
 - Cúm B chỉ lưu hành ở người và gây các vụ dịch theo mùa.
 - Cúm C lưu hành ở người và lợn nhưng nhẹ.
@@ -554,15 +554,15 @@
 
 - Trước 6 ngày, 5 ngày sau khi có triệu chứng sốt. Thời gian lây bệnh kéo dài 10 ngày.
 
-### Thời kỳ ủ bệnh
+### Thời kỳ ủ bệnh của quai bị
 
 - 16-20 ngày.
 
-### Thời kỳ khởi phát
+### Thời kỳ khởi phát của quai bị
 
 - 24-48h với sốt, đau cơ, chán ăn, có nôn.
 
-### Biểu hiện lâm sàng của quai bị?
+### Biểu hiện lâm sàng của quai bị
 
 - Sưng đau tuyến nước bọt, có hạch.
 
@@ -622,13 +622,13 @@
 - Khởi phát 4 ngày.
 - Toàn phát (phát ban).
 
-### Đặc điểm bệnh sởi thời kì khởi phát?
+### Đặc điểm bệnh sởi thời kì khởi phát
 
 - Hội chứng nhiễm trùng: Sốt nhẹ hoặc sốt vừa, cao.
 - Hội chứng viêm long đường hô hấp trên: Viêm mũi họng, chảy nước mắt.
 - Xuất hiện hạt trắng nhỏ (Koplick).
 
-### Đặc điểm của ban sởi?
+### Đặc điểm của ban sởi
 
 - Mọc tuần tự từ trên xuống dưới:
   - Ngày 1: Tai, trán, chân tóc, má.
@@ -662,7 +662,7 @@
 ### Sởi phân biệt với bệnh nào?
 
 - Chưa phát ban có cúm, viêm phế quản, ỉa chảy, bạch hầu.
-- Phát ban: Rubeole, Megalerytheme, Tăng bạch cầu đơn nhân nhiễm trùng, Scarlatine, Rickettsia, dị ứng, virus đường ruột Coxackia A/B, v.v.
+- Phát ban: Rubela, Megalerytheme, Tăng bạch cầu đơn nhân nhiễm trùng, Scarlatine, Rickettsia, dị ứng, virus đường ruột Coxackia A/B, v.v.
 
 ### Đặc điểm miễn dịch khi mắc sởi?
 
@@ -734,7 +734,7 @@
 
 ## Sốt xuất huyết Dengue
 
-### Vật chủ chính của virus sốt Dengue:
+### Vật chủ chính của virus sốt Dengue
 
 - Người.
 - Ngoài tự nhiên khỉ còng chứa virus.
@@ -916,7 +916,7 @@
 
 - ADN tiền virus tích hợp vào ADN tế bào chủ nhờ Integrase.
 
-### Thời gian điều trị bằng Co-trimoxazole
+### Thời gian điều trị bằng co-trimoxazole
 
 - ARV ít nhất 12 tháng, CD4>350 và lâm sàng ổn định.
 
@@ -957,7 +957,7 @@
 
 - CD4 <100.
 
-### 1 BN HIV, đau mạn sườn, sốt, CD4 = 206, mờ mắt và lao màng phổi ở giai đoạn nào?
+### Một BN HIV, đau mạn sườn, sốt, CD4 = 206, mờ mắt và lao màng phổi ở giai đoạn nào?
 
 - Giai đoạn 4.
 
@@ -1061,9 +1061,9 @@
 
 ### Biện pháp nào không được áp dụng sau khi bị chó cắn có vết thương chảy máu không biết tình trạng sức khỏe của con vật được tiêm phòng dại hay chưa?
 
-- Tiêm globulin miễn dịch. 20 IU/kg vào mông.
+- Tiêm globulin miễn dịch.
 
-### Phòng dại bằng vaccine
+### Phòng dại bằng vacine
 
 - Vacine giảm hoạt lực 3 mũi vào ngày 0, 7 và 28 nhắc lại sau 1, 3-5 năm.
 
@@ -1115,7 +1115,7 @@
 
 ## Thương hàn
 
-### Đặc điểm không phải của vi khuẩn thương hàn:
+### Đặc điểm không phải của vi khuẩn thương hàn
 
 - _Không phải_ bắt buộc phải kí sinh nội bào.
 - _Tên vi khuẩn Salmonella typhi (có 3 loại kháng nguyên O gây bệnh, H tạo kháng thể, Vi quan trọng về mặt dịch tễ) và Salmonella paratyphi A, B, C. Trực khuẩn gram (-), đường ruột._
@@ -1149,11 +1149,11 @@
   - Thủng ruột.
   - Viêm miệng lợi, thương hàn đại tràng, viêm túi mật, viêm gan, viêm tuyến mang tai.
 - Tim mạch xuất hiện ở tuần thứ 3:
-  - Viêm cơ tim: nhịp tim nhanh, tiếng tim mờ, huyết áp hạ, tiếng ngựa phi, v.v.
+  - Viêm cơ tim nhịp tim nhanh, tiếng tim mờ, huyết áp hạ, tiếng ngựa phi, v.v.
   - Viêm tắc động mạch hiếm gặp.
 - Thần kinh:
   - Viêm não thương hàn với dấu hiệu Typhos.
-  - Viêm màng nõa tủy.
+  - Viêm màng não tủy.
 - Ngoài ra còn viêm phế quản, viêm phổi, tràn dịch màng phổi, v.v.
 
 ### Biến chứng tim mạch gặp ở bệnh thương hàn?
@@ -1308,7 +1308,7 @@
 ### Uốn ván có cơn co giật phân biệt với?
 
 - Ngộ độc Strychnin.
-- _Toàn phát phân biệt viêm màng não mủ giả uống ván, hạ đường huyết, cơn testanine, histeria, u não, v.v._
+- _Toàn phát phân biệt viêm màng não mủ giả uống ván, hạ đường huyết, cơn tetanine, histeria, u não, v.v._
 
 ### Dấu hiệu gợi ý uốn ván thể nặng?
 
@@ -1403,7 +1403,7 @@
 ### Soi tươi tìm được Leptospira ở khoảng thời gian nào của bệnh?
 
 - Trong 10 phút ở nhiệt độ 56 oC.
-- 6 ngày đầu với dịch não tủy, từ ngày thứ 12 với nước tiểu
+- 6 ngày đầu với dịch não tủy, từ ngày thứ 12 với nước tiểu.
 - _Phản ứng ngưng kết Martin-Petti, miễn dịch huỳnh quang, ELISA qua huyết thanh thực hiện ở tuyến trung ương._
 
 ### Triệu chứng không có giá trị chẩn đoán Leptospira
@@ -1469,7 +1469,7 @@
   - Bệnh amip phổi.
   - Bệnh amip não.
 
-## Điều trị amip
+### Điều trị amip
 
 - Cấp tính:
   - Metronidazol.
@@ -1493,7 +1493,7 @@
 - _Shigella: Ăn rau, sốt, tiêu chảy phân nhày máu, phân ít, mót rặn._
 - _Ecoli: Tùy vào chủng nhiễm có thể tiêu chảy, có máu, đau bụng._
 - _Clostridium difficile: Mất nước, hạ huyết áp, ấn đau bụng lan tỏa._
-- _Listeria: An thịt bò, tiêu chảy phân nhiều nước, sốt, nôn, đau bụng nhẹ._
+- _Listeria: Ăn thịt bò, tiêu chảy phân nhiều nước, sốt, nôn, đau bụng nhẹ._
 - _Giardia: Khám bụng bình thường, tăng nhu động ruột._
 
 ### Đặc điểm tiêu chảy do tụ cầu vàng?
@@ -1584,7 +1584,7 @@
 
 ### Bệnh nhân nam 29 tuổi, sử dụng heroin tĩnh mạch 20 năm nay, lần đầu tiên phát hiện nhiễm HIV. Bệnh nhân được gia đình đưa đến khám vì ý thức lú lẫn, kích thích, co giật. Trên phim chụp cắt lớp sọ não có nhiều ổ tổn thương hình vòng nhẫn. Xết nghiệm tế bào CD4 chưa có kết quả.
 
-#### Chẩn đoán nào nên đặt ra trên bệnh nhân này:
+#### Chẩn đoán nào nên đặt ra trên bệnh nhân này
 
 - Viêm não do Toxoplasma.
 
@@ -1594,7 +1594,7 @@
 
 ### Bệnh nhân nam, 34 tuổi, làm ruộng, vào viện ngày thứ 7 của bệnh với triệu chứng mệt mỏi, chán ăn, không sốt, đau hạ sườn phải âm ỉ, liên tục, không nôn, không ỉa chảy. Khám: Tỉnh, huyết áp 120/80 mHg, nhiệt độ 37oC, nhịp thở 17 lần/phút, củng mạc mắt vàng, không xuất huyết dưới da, không sờ thấy hạch, cổ trướng (-), gan mấp mé bờ sườn, ấn đau. Bệnh nhân không nghiện rượu.
 
-#### Nêu một chẩn đoán có khả năng nhất trên bệnh nhân này:
+#### Nêu một chẩn đoán có khả năng nhất trên bệnh nhân này
 
 - Viêm gan virus cấp.
 
@@ -1605,7 +1605,7 @@
 
 ### Anh H uống rượu, lao xe máy vào cọc sắt ven đường. Anh bị ngã có dập nát vùng cơ cẳng chân trái. Anh ấy đã đến trạm y tế phường để làm sạch vết thương và uống kháng sinh amoxicillin 0,5g x 4 viên/ngày. Sau 5 ngày anh thấy mỏi hàm, cứng hàm sau đó đến các cơ ở mặt, cổ và toàn thân. Đến ngày thứ 6, anh H bắt đầu xuất hiện co giật. Bạn nghĩ anh H bị bệnh uốn ván.
 
-#### Bạn hãy tiên lượng bệnh nhân này:
+#### Bạn hãy tiên lượng bệnh nhân này
 
 - Khả năng tiến triển nặng.
 
@@ -1616,21 +1616,21 @@
 
 ### Một nam thanh niên 20 tuổi vào viện giờ thứ 6 của bệnh vì đau đầu nhiều, ngủ gà, buồn nôn, nôn. Ở nhà chưa xử trí gì. Vào viện khám thấy nhiệt độ 39oC, mạch 95 lần/phút, huyết áp 120/80mmHg, cứng gáy, vạch màng bụng (+), Kernig (+). Bệnh nhân khó đánh thức và không phối hợp hoàn toàn với các sĩ trong khi khám, có lưỡi bẩn. Khám các bộ phận khác không có gì đặc biệt. Bạch cầu máu ngoại vi 21 G/L, tỉ lệ bạch cầu đa nhân trung tính 89%, procalcitonin 1,9 ng/ml. Vì bệnh nhân sốt nên 2 mẫu máu đã được lấy đi để thực hiện cấy máu.
 
-#### Chẩn đoán nào dưới đây là phù hợp nhất:
+#### Chẩn đoán nào dưới đây là phù hợp nhất
 
 - Viêm màng não mủ.
 
-#### Thái độ xử trí phù hợp cho bệnh nhân ngay sau đó nên là:
+#### Thái độ xử trí phù hợp cho bệnh nhân ngay sau đó nên là
 
 - Tiêm kháng sinh cefotaxim hoặc ceftriaxon. Sau đó chụp cắt lớp sọ não và chọc dịch não tủy nếu không có chống chỉ định từ kết quả chụp cắt lớp.
 
 ### Bệnh nhân nữ 26 tuổi, thai 4 tuần, nhập viện giờ thứ 12 của bệnh vì sốt rét run, đau vùng bụng dưới, đái buốt, nước tiểu đục, không ho, không ỉa chảy. Khám thấy nhiệt độ 39,4oC, tần số tim 125 lần/phút, huyết áp 90/50 mmHg, tần số thở 18 lần/phút. Xét nghiệm: Công thức máu có bạch cầu 1,5 G/L, trong đó có 20% bạch cầu non, Hb 125 g/L, tiểu cầu 250 G/L, hồng cầu 4,8 T/L; hóa sinh máu có GOT/GPT = 40/20 U/L, ure 17,2 mmol/L, creatinin 235 µmol/L, procalcitonin 1,8 ng/ml; nước tiểu có bạch cầu, vi khuẩn; XQ phổi bình thường; siêu âm ổ bụng có sỏi thận trái kích thước 3 x 2 cm, có giãn đài bể thận.
 
-#### Chẩn đoán sơ bộ bệnh nhân này:
+#### Chẩn đoán sơ bộ bệnh nhân này
 
 - Nhiễm khuẩn huyết.
 
-#### Phương pháp điều trị nào dưới đây phù hợp nhất:
+#### Phương pháp điều trị nào dưới đây phù hợp nhất
 
 - Cephalosporin thế hệ 3.
 
@@ -1638,13 +1638,13 @@
 
 - Sốc nhiễm khuẩn.
 
-#### Biện pháp điều trị nào cần được tiến hành trên bệnh nhân này, ngoại trừ:
+#### Biện pháp điều trị nào cần được tiến hành trên bệnh nhân này, ngoại trừ
 
 - Dùng thuốc lợi tiểu.
 
 ### Bệnh nhân nam 29 tuổi, sử dụng heroin tĩnh mạch 10 năm nay, phát hiện nhiễm HIV cách đây 3 năm nhưng chưa điều trị gì. Bệnh nhân đến khám vì khi soi gương phát hiện những sợi trắng ở rìa lưỡi, không bong khi cạo lưỡi. Mặt trên của lưỡi và vòm họng sạch. Bệnh nhân nuốt bình thường. Khám lâm sàng khác chưa có gì đặc biệt. Xét nghiệm tế bào CD4 270 tế bào/mm3.
 
-#### Chẩn đoán nào phù hợp nhất cho tổn thương ở miệng của bệnh nhân:
+#### Chẩn đoán nào phù hợp nhất cho tổn thương ở miệng của bệnh nhân
 
 - Bạch sản lông.
 
@@ -1658,7 +1658,7 @@
 
 ### Bệnh nhân nam, 34 tuổi, vào viện ngày thứ 20 của bệnh vì vàng da. Bệnh nhân không sốt, mệt mỏi, ăn kém. Bệnh nhân sử dụng ma túy có dùng chung bơm kim tiêm với bạn chích, không có tiền sử nghiện rượu, khám sức khỏe định kì cách đây 3 tháng thấy anti HCV âm tính. Khám lâm sàng không có gì đặc biệt. Kết quả xét nghiệm cho thấy: Bilirubin toàn phần 234 µmol/L, GOT/GPT = 1080/1236 U/L, tỉ lệ prothrombin 78%, anti HCV dương tính, ARN-HCV 108 copies/ml, αFP = 2,5 ng/ml. Xét nghiệm các virus gây viêm gan khác âm tính.
 
-#### Nêu một chẩn đoán có khả năng nhất trên bệnh nhân này:
+#### Nêu một chẩn đoán có khả năng nhất trên bệnh nhân này
 
 - Viêm gan do virus C cấp.
 
@@ -1694,7 +1694,7 @@
 
 ### Bệnh nhân nam, 34 tuổi, mới được phát hiện nhiễm HIV, vào viện vì lí do sốt 3 tuần nay và khó thở tăng dần 1 tuần nay, đặc biệt khi gắng sức. Kèm theo bệnh nhân ho không có đờm, gầy sút 6 kg trong 3 tuần qua. Số lượng CD4 mới đây là 41 tế bào/mm3. Khám lâm sàng: Nấm miệng, nghe phổi có ran nổ ở 2 đáy. X quang phổi có hình mờ khắp 2 trường phổi. Xét nghiệm dịch phế quản thấy Pneumocystis jiroveci.
 
-#### Chẩn đoán bệnh phổi trên bệnh nhân này là:
+#### Chẩn đoán bệnh phổi trên bệnh nhân này là
 
 - PCP.
 
@@ -1702,25 +1702,25 @@
 
 - Giai đoạn 4.
 
-#### Bệnh nhân được chẩn đoán là AIDS:
+#### Bệnh nhân được chẩn đoán là AIDS
 
 - Đúng.
 
-#### Bệnh nhân được điều trị tấn công bằng Co-trimoxazol với liều như sau
+#### Bệnh nhân được điều trị tấn công bằng co-trimoxazol với liều như sau
 
 - Co-trimoxazol: TMP 15 mg/kg/ngày + SMX 75 mg/kg/ngày uống 21 ngày.
 
-#### Sau giai đoạn tấn công bạn sẽ điều trị bằng Co-trimoxazol với liều:
+#### Sau giai đoạn tấn công bạn sẽ điều trị bằng co-trimoxazol với liều
 
 - Viên 960 mg: 1 viên/ngày.
 
 ### Bệnh nhân 28 tuổi, sống ở Cát Bà, vào viện ngày thứ 8 của bệnh vì sốt cao, đau đầu, đau mỏi toàn thân. Kèm theo bệnh nhân có chảy máu cam. Khám thấy nổi hạch cổ và phát ban toàn thân. Cận lâm sàng: Bạch cầu 3,5 G/L (giảm), bạch cầu đa nhân trung tính giảm, tiểu cầu 38 G/L (giảm), Hb 120 g/L.
 
-#### Chẩn đoán có thể nhất ở bệnh nhân này là:
+#### Chẩn đoán có thể nhất ở bệnh nhân này là
 
 - Sốt xuất huyết Dengue.
 
-#### Bạn sẽ điều trị hạ sốt cho bệnh nhân này bằng:
+#### Bạn sẽ điều trị hạ sốt cho bệnh nhân này bằng
 
 - Paracetamol.
 
@@ -1736,21 +1736,21 @@
 
 - Không.
 
-### Bệnh nhân nữ, 22 tuổi có thai 8 tuần, vào viện ngày thứ 1 của bệnh vì tiêu chảy. Trước đó 2 ngày, bệnh nhân có ăn bún riêu cua kèm rau sống ở chợ. Bệnh nhân đi ngoài liên tục phân toàn nước trong, không có nhầy máu. Bệnh nhân nôn nhiều, không đau bụng, không mót rặn. Khám: Bệnh nhân mệt lả, nhiệt độ 36,5oC. huyết áp 80/50 mmHg, mạch quay 120 lần/phút.
+### Bệnh nhân nữ, 22 tuổi có thai 8 tuần, vào viện ngày thứ 1 của bệnh vì tiêu chảy. Trước đó 2 ngày, bệnh nhân có ăn bún riêu cua kèm rau sống ở chợ. Bệnh nhân đi ngoài liên tục phân toàn nước trong, không có nhầy máu. Bệnh nhân nôn nhiều, không đau bụng, không mót rặn. Khám: Bệnh nhân mệt lả, nhiệt độ 36,5 oC, huyết áp 80/50 mmHg, mạch quay 120 lần/phút.
 
-#### Chẩn đoán lâm sàng có thể nhất ở bệnh nhân này:
+#### Chẩn đoán lâm sàng có thể nhất ở bệnh nhân này
 
 - Tả.
 
-#### Biện pháp nào dưới đây không nên tiến hành với bệnh nhân này:
+#### Biện pháp nào dưới đây không nên tiến hành với bệnh nhân này
 
 - Chuyển bệnh nhân lên tuyến trên.
 
-#### Bệnh nhân nôn ra sàn buồng bệnh, bạn sẽ xử trí:
+#### Bệnh nhân nôn ra sàn buồng bệnh, bạn sẽ xử trí
 
 - Đổ cloramin B vào chất nôn trước khi lau.
 
-#### Kháng sinh dùng cho bệnh nhân này:
+#### Kháng sinh dùng cho bệnh nhân này
 
 - Azithromycin.
 
@@ -1762,7 +1762,7 @@
 
 #### Bạn cần làm thêm xét nghiệm gì để khẳng định chẩn đoán:
 
-- Anti HBc typ IgM.
+- Anti HBc type IgM.
 
 ### Một bệnh nhân nam có tiền sử sử dụng ma túy 10 năm nay vào viện vì lí do vàng da, vàng mắt, mệt mỏi. Xét nghiệm AST/ALT = 1100/1200 U/L, bilirubin toàn phần/bilirubin trực tiếp = 43/34 µmol/L, HBsAg (-), anti HCV (+), anti HAV typ IgM và IgG (-).
 
@@ -1776,7 +1776,7 @@
 
 ### Một bệnh nhân nam, 55 tuổi, vào viện ngày thứ 10 của bệnh vì lí do cứng hàm. Cách đó 10 ngày, bệnh nhân đi đám cưới, say rượu đi xe máy đâm vào cọc sắt nhà hàng xóm, làm rách da và phần mềm vùng cẳng chân phải. 4 ngày nay, bệnh nhân xuất hiện cứng hàm, sau đó càng ngày càng khó há miệng. Bệnh nhân đã được y tá gần nhà vệ sinh vết thương và cho uống thuốc giảm đau, chống phù nề. Bạn nghĩ bệnh nhân này bị uốn ván.
 
-#### Biện pháp nào dưới đây không nên được thực hiện trên bệnh nhân này:
+#### Biện pháp nào dưới đây không nên được thực hiện trên bệnh nhân này
 
 - Làm sạch các ngóc ngách của vết thương và băng kín.
 
@@ -1794,7 +1794,7 @@
 
 - Viêm màng não mủ.
 
-#### Căn nguyên có thể gây viêm màng não trên bệnh nhân này là:
+#### Căn nguyên có thể gây viêm màng não trên bệnh nhân này là
 
 - Liên cầu lợn.
 
@@ -1804,7 +1804,7 @@
 
 ### Một bệnh nhân nam, 28 tuổi, vào viện ngày thứ 4 của bệnh vì sưng tuyến nước bọt mang tai. Khám lâm sàng thấy tuyến nước bọt mang tai 2 bên sưng to, đau, không đỏ. Khám thấy có hạch nhỏ góc hàm, các bộ phận khác không có gì đặc biệt. Trước đó 18 ngày, bệnh nhân có tiếp xúc với cháu trai 8 tuổi bị quai bị. Bạn nghĩ nguyên nhân gây sưng tuyến nước bọt mang tai có khả năng do quai bị.
 
-#### Bạn sẽ khám để phát hiện biến chứng quai bị ở những cơ quan dưới đây, ngoại trừ:
+#### Bạn sẽ khám để phát hiện biến chứng quai bị ở những cơ quan dưới đây, ngoại trừ
 
 - Phổi.
 
