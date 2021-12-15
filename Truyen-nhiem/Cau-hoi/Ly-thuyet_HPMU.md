@@ -4,6 +4,16 @@
 
 ## Nhiễm khuẩn huyết
 
+### Thang điểm quick SOFA (qSOFA)
+
+- Gồm 3 tiêu chí trên lâm sàng:
+  - Thay đổi ý thức (Glassgow <15 điểm): 1 điểm.
+  - Nhịp thở >=22 lần/phút: 1 điểm.
+  - Huyết áp tâm thu <=110 mmHg: 1 điểm.
+- Đánh giá:
+  - 1 điểm: Nguy cơ tử vong không cao, nếu vẫn nghi ngờ nhiễm trùng huyết, hãy tiếp tục theo dõi, đánh giá và bắt đầu điều trị thích hợp, bao gồm cả đánh giá qSOFA liên tục, hoặc sử dụng tiêu chí SIRS cho nhiễm trùng huyết.
+  - 2-3 điểm: Nguy cơ tử vong cao, tỷ lệ tử vong có thể tăng gấp từ 3 đến 14 lần. Cần đánh giá rối loạn chức năng cơ quan bằng xét nghiệm máu như lactac, huyết thanh, sử dụng thang điểm SOFA đầy đủ.
+
 ### Hội chứng đáp ứng viêm hệ thống (SIRS)
 
 - Nhiệt độ >38 hoặc <36 oC.
