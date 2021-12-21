@@ -66,22 +66,22 @@
 
 | Thuốc         | Tác dụng | Hình ảnh           |
 | ------------- | -------- | ------------------ |
-| Bạch đậu khấu |          | ![](hanh-khi/.jpg) |
-| Chỉ thực      |          | ![](hanh-khi/.jpg) |
-| Chỉ xác       |          | ![](hanh-khi/.jpg) |
-| Đại phúc bì   |          | ![](hanh-khi/.jpg) |
+| Bạch đậu khấu |          | ![](hanh-khi/bach-dau-khau.jpg) |
+| Chỉ thực      |          | ![](hanh-khi/chi-thuc.jpg) |
+| Chỉ xác       |          | ![](hanh-khi/chi-xac.jpg) |
+| Đại phúc bì   |          | ![](hanh-khi/dai-phuc-bi.jpg) |
 | Hậu phác      |          |                    |
-| Hương phụ     |          | ![](hanh-khi/.jpg) |
-| Mộc hương     |          | ![](hanh-khi/.jpg) |
-| Ô dược        |          | ![](hanh-khi/.jpg) |
-| Sa nhân       |          | ![](hanh-khi/.jpg) |
-| Trần bì       |          | ![](hanh-khi/.jpg) |
+| Hương phụ     |          | ![](hanh-khi/huong-phu.jpg) |
+| Mộc hương     |          | ![](hanh-khi/moc-huong.jpg) |
+| Ô dược        |          | ![](hanh-khi/o-duoc.jpg) |
+| Sa nhân       |          | ![](hanh-khi/sa-nhan.jpg) |
+| Trần bì       |          | ![](hanh-khi/tran-bi.jpg) |
 
 ## Hoạt huyết
 
 | Thuốc        | Tác dụng | Hình ảnh                         |
-| ------------ | -------- | -------------------------------- | ---------------------------- |
-| Đan sâm      |          |                                  | ![](hoat-huyet/dan-sam.jpg)) |
+| ------------ | -------- | -------------------------------- |
+| Đan sâm      |          | ![](hoat-huyet/dan-sam.jpg))     |
 | Hồng hoa     |          | ![](hoat-huyet/hong-hoa.jpg)     |
 | Ích mẫu      |          |                                  |
 | Khương hoàng |          | ![](hoat-huyet/khuong-hoang.jpg) |
