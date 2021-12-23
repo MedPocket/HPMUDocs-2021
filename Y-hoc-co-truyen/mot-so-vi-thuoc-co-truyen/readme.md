@@ -81,7 +81,7 @@
 
 | Thuốc        | Tác dụng | Hình ảnh                         |
 | ------------ | -------- | -------------------------------- |
-| Đan sâm      |          | ![](hoat-huyet/dan-sam.jpg))     |
+| Đan sâm      |          | ![](hoat-huyet/dan-sam.jpg)      |
 | Hồng hoa     |          | ![](hoat-huyet/hong-hoa.jpg)     |
 | Ích mẫu      |          |                                  |
 | Khương hoàng |          | ![](hoat-huyet/khuong-hoang.jpg) |
