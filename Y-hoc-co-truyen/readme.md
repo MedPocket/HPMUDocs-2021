@@ -5,3 +5,4 @@ Y học cổ truyền là ngành y học nghiên cứu các kiến thức, kinh 
 ## Nội dung
 
 - [Một số vị thuốc cổ truyền](mot-so-vi-thuoc-co-truyen/readme.md)
+- [Tứ chẩn](tu-chan/readme.md)
