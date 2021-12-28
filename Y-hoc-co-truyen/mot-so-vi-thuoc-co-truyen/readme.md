@@ -160,10 +160,10 @@
 
 ## Thanh nhiệt táo thấp
 
-| Thuốc         | Tác dụng | Hình ảnh                                 |
-| ------------- | -------- | ---------------------------------------- |
-| Hoàng bá      | -------- | ![](thanh-nhiet-tao-thap/hoang-ba.jpg)   |
-| Hoàng cầm     |          | ![](thanh-nhiet-tao-thap/hoang-cam.jpg)  |
-| Hoàng liên    |          | ![](thanh-nhiet-tao-thap/hoang-lien.jpg) |
-| Khổ sâm       |          | ![](thanh-nhiet-tao-thap/kho-sam.jpg)    |
-| Nhân trần     |          | ![](thanh-nhiet-tao-thap/nhan-tran.jpg)  |
+| Thuốc      | Tác dụng | Hình ảnh                                 |
+| ---------- | -------- | ---------------------------------------- |
+| Hoàng bá   |          | ![](thanh-nhiet-tao-thap/hoang-ba.jpg)   |
+| Hoàng cầm  |          | ![](thanh-nhiet-tao-thap/hoang-cam.jpg)  |
+| Hoàng liên |          | ![](thanh-nhiet-tao-thap/hoang-lien.jpg) |
+| Khổ sâm    |          | ![](thanh-nhiet-tao-thap/kho-sam.jpg)    |
+| Nhân trần  |          | ![](thanh-nhiet-tao-thap/nhan-tran.jpg)  |
