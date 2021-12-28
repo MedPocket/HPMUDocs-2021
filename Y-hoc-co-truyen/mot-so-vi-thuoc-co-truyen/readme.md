@@ -10,9 +10,7 @@
 | Bình vôi         |          | ![](an-than/binh-voi.jpg)         |
 | Lá vông nem      |          | ![](an-than/la-vong-nem.jpg)      |
 | Lạc tiên         |          | ![](an-than/lac-tien.jpg)         |
-| Long cốt         |          |                                   |
 | Long nhãn        |          | ![](an-than/long-nhan.jpg)        |
-| Mẫu lệ           |          |                                   |
 | Thạch quyết minh |          | ![](an-than/thach-quyet-minh.jpg) |
 | Toan táo nhân    |          | ![](an-than/toan-tao-nhan.jpg)    |
 | Viễn chí         |          | ![](an-than/vien-chi.jpg)         |
@@ -21,13 +19,11 @@
 
 | Thuốc      | Tác dụng | Hình ảnh                  |
 | ---------- | -------- | ------------------------- |
-| Bách hợp   |          |                           |
 | Bạch thược |          | ![](bo-am/bach-thuoc.jpg) |
 | Câu kỷ tử  |          | ![](bo-am/cau-ky-tu.jpg)  |
 | Mạch môn   |          | ![](bo-am/mach-mon.jpg)   |
 | Sa sâm     |          | ![](bo-am/sa-sam.jpg)     |
-| Thạch hộc  |          |                           |
-| Thiên môn  |          |                           |
+| Thiên môn  |          | ![](bo-am/thien-mon.jpg)  |
 
 ## Bổ dương
 
@@ -64,18 +60,17 @@
 
 ## Hành khí
 
-| Thuốc         | Tác dụng | Hình ảnh           |
-| ------------- | -------- | ------------------ |
+| Thuốc         | Tác dụng | Hình ảnh                        |
+| ------------- | -------- | ------------------------------- |
 | Bạch đậu khấu |          | ![](hanh-khi/bach-dau-khau.jpg) |
-| Chỉ thực      |          | ![](hanh-khi/chi-thuc.jpg) |
-| Chỉ xác       |          | ![](hanh-khi/chi-xac.jpg) |
-| Đại phúc bì   |          | ![](hanh-khi/dai-phuc-bi.jpg) |
-| Hậu phác      |          |                    |
-| Hương phụ     |          | ![](hanh-khi/huong-phu.jpg) |
-| Mộc hương     |          | ![](hanh-khi/moc-huong.jpg) |
-| Ô dược        |          | ![](hanh-khi/o-duoc.jpg) |
-| Sa nhân       |          | ![](hanh-khi/sa-nhan.jpg) |
-| Trần bì       |          | ![](hanh-khi/tran-bi.jpg) |
+| Chỉ thực      |          | ![](hanh-khi/chi-thuc.jpg)      |
+| Chỉ xác       |          | ![](hanh-khi/chi-xac.jpg)       |
+| Đại phúc bì   |          | ![](hanh-khi/dai-phuc-bi.jpg)   |
+| Hương phụ     |          | ![](hanh-khi/huong-phu.jpg)     |
+| Mộc hương     |          | ![](hanh-khi/moc-huong.jpg)     |
+| Ô dược        |          | ![](hanh-khi/o-duoc.jpg)        |
+| Sa nhân       |          | ![](hanh-khi/sa-nhan.jpg)       |
+| Trần bì       |          | ![](hanh-khi/tran-bi.jpg)       |
 
 ## Hoạt huyết
 
@@ -83,9 +78,7 @@
 | ------------ | -------- | -------------------------------- |
 | Đan sâm      |          | ![](hoat-huyet/dan-sam.jpg)      |
 | Hồng hoa     |          | ![](hoat-huyet/hong-hoa.jpg)     |
-| Ích mẫu      |          |                                  |
 | Khương hoàng |          | ![](hoat-huyet/khuong-hoang.jpg) |
-| Nga truật    |          |                                  |
 | Ngưu tất     |          | ![](hoat-huyet/nguu-tat.jpg)     |
 | Tô mộc       |          | ![](hoat-huyet/to-moc.jpg)       |
 | Uất kim      |          | ![](hoat-huyet/uat-kim.jpg)      |
@@ -105,15 +98,15 @@
 
 ## Tán phong nhiệt
 
-| Thuốc        | Tác dụng | Hình ảnh                          |
-| ------------ | -------- | --------------------------------- |
-| Bạc hà       |          | ![](tan-phong-nhiet/bac-ha.jpg)   |
-| Cát căn      |          | ![](tan-phong-nhiet/cat-can.jpg)  |
-| Cúc hoa      |          | ![](tan-phong-nhiet/cuc-hoa.jpg)  |
-| Mạn kinh tử  |          |                                   |
-| Ngưu bang tử |          |                                   |
-| Sài hồ       |          | ![](tan-phong-nhiet/sai-ho.jpg)   |
-| Thăng ma     |          | ![](tan-phong-nhiet/thang-ma.jpg) |
+| Thuốc        | Tác dụng | Hình ảnh                              |
+| ------------ | -------- | ------------------------------------- |
+| Bạc hà       |          | ![](tan-phong-nhiet/bac-ha.jpg)       |
+| Cát căn      |          | ![](tan-phong-nhiet/cat-can.jpg)      |
+| Cúc hoa      |          | ![](tan-phong-nhiet/cuc-hoa.jpg)      |
+| Mạn kinh tử  |          | ![](tan-phong-nhiet/man-kinh-tu.jpg)  |
+| Ngưu bang tử |          | ![](tan-phong-nhiet/nguu-bang-tu.jpg) |
+| Sài hồ       |          | ![](tan-phong-nhiet/sai-ho.jpg)       |
+| Thăng ma     |          | ![](tan-phong-nhiet/thang-ma.jpg)     |
 
 ## Tán phong thấp
 
@@ -124,7 +117,6 @@
 | Hy thiêm thảo   |          | ![](tan-phong-thap/hy-thiem-thao.jpg)   |
 | Ké đầu ngựa     |          | ![](tan-phong-thap/ke-dau-ngua.jpg)     |
 | Khương hoạt     |          | ![](tan-phong-thap/khuong-hoat.jpg)     |
-| Mộc qua         |          |                                         |
 | Ngũ gia bì      |          | ![](tan-phong-thap/ngu-gia-bi.jpg)      |
 | Phòng phong     |          | ![](tan-phong-thap/phong-phong.jpg)     |
 | Tần giao        |          | ![](tan-phong-thap/tan-giao.jpg)        |
@@ -170,8 +162,8 @@
 
 | Thuốc         | Tác dụng | Hình ảnh                                 |
 | ------------- | -------- | ---------------------------------------- |
+| Hoàng bá      | -------- | ![](thanh-nhiet-tao-thap/hoang-ba.jpg)   |
 | Hoàng cầm     |          | ![](thanh-nhiet-tao-thap/hoang-cam.jpg)  |
 | Hoàng liên    |          | ![](thanh-nhiet-tao-thap/hoang-lien.jpg) |
 | Khổ sâm       |          | ![](thanh-nhiet-tao-thap/kho-sam.jpg)    |
-| Long đờm thảo |          |                                          |
 | Nhân trần     |          | ![](thanh-nhiet-tao-thap/nhan-tran.jpg)  |
