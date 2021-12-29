@@ -108,7 +108,7 @@
 | Cát căn      | ![](tan-phong-nhiet/cat-can.jpg)      |
 | Cúc hoa      | ![](tan-phong-nhiet/cuc-hoa.jpg)      |
 | Mạn kinh tử  | ![](tan-phong-nhiet/man-kinh-tu.jpg)  |
-| Ngưu bang tử | ![](tan-phong-nhiet/nguu-bang-tu.jpg) |
+| Ngưu bàng tử | ![](tan-phong-nhiet/nguu-bang-tu.jpg) |
 | Sài hồ       | ![](tan-phong-nhiet/sai-ho.jpg)       |
 | Thăng ma     | ![](tan-phong-nhiet/thang-ma.jpg)     |
 
