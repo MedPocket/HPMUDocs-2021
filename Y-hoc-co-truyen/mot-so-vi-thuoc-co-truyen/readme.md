@@ -155,7 +155,7 @@
 | Cối xay         |          | ![](thanh-nhiet-ta-hoa/coi-xay.jpg)         |
 | Hạ khô thảo     |          | ![](thanh-nhiet-ta-hoa/ha-kho-thao.jpg)     |
 | Thạch cao       |          | ![](thanh-nhiet-ta-hoa/thach-cao.jpg)       |
-| Thảo tuyết minh |          | ![](thanh-nhiet-ta-hoa/thao-tuyet-minh.jpg) |
+| Thảo quyết minh |          | ![](thanh-nhiet-ta-hoa/thao-tuyet-minh.jpg) |
 | Tri mẫu         |          | ![](thanh-nhiet-ta-hoa/tri-mau.jpg)         |
 
 ## Thanh nhiệt táo thấp
