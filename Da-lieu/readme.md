@@ -5,4 +5,4 @@ Da liễu học là phân ngành y học liên quan đến da, lông, tóc móng
 ## Nội dung
 
 - [Bài Giảng Da Liễu HPMU 2021](https://youtube.com/playlist?list=PLL1t1-UomvZ97JU3kqMcGudTztmjLCcvZ)
-- [Thực hành lâm sàng da liễu HPMU 2021](Lam-sang_HPMU/Thuc-hanh-lam-sang-da-lieu_HPMU.md)
+- [Thực hành lâm sàng da liễu HPMU 2021](Thuc-hanh-lam-sang-da-lieu_HPMU.md)

@@ -5,5 +5,5 @@ Bệnh truyền nhiễm còn gọi là bệnh lây - Là bệnh thường gặp 
 ## Nội dung
 
 - [Bài Giảng Truyền Nhiễm HPMU 2021](https://youtube.com/playlist?list=PLL1t1-UomvZ9dictLzj_yHSlgpngUPnKA)
-- [Câu hỏi lâm sàng truyền nhiễm HPMU](Cau-hoi/Lam-sang_HPMU.md)
-- [Câu hỏi lý thuyết truyền nhiễm HPMU](Cau-hoi/Ly-thuyet_HPMU.md)
+- [Câu hỏi lâm sàng truyền nhiễm HPMU](FAQs/Lam-sang_HPMU.md)
+- [Câu hỏi lý thuyết truyền nhiễm HPMU](FAQs/Ly-thuyet_HPMU.md)

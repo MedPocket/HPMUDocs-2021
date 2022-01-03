@@ -4,4 +4,4 @@ Bệnh lao (Tuberculosis - TB) là bệnh nhiễm trùng tiến triển mãn tí
 
 ## Nội dung
 
-- [Thực hành lâm sàng lao HPMU 2021](Lam-sang_HPMU/Thuc-hanh-lam-sang-lao_HPMU.md)
+- [Thực hành lâm sàng lao HPMU 2021](Thuc-hanh-lam-sang-lao_HPMU.md)
