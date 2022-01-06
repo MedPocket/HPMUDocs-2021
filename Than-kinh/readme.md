@@ -2,6 +2,8 @@
 
 Thần kinh học là một chuyên ngành y học chuyên nghiên cứu về sự rối loạn của hệ thần kinh.
 
+![Sơ đồ thần kinh học](So-do-than-kinh-hoc.jpg)
+
 ## Nội dung
 
 - [Khám thần kinh](https://khamthankinh.vn/)
