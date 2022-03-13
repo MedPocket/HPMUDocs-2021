@@ -6,4 +6,7 @@ Thần kinh học là một chuyên ngành y học chuyên nghiên cứu về s�
 
 ## Nội dung
 
-- [Bài giảng chẩn đoán hình ảnh giải phẫu điện quang não](https://youtube.com/watch?v=pAaocitehkk)
+- [Nranial Nerve Examination](https://youtu.be/sJBpai74tlU)
+- [Upper Lim Neurological Examination](https://youtu.be/0hhcxaeOCYs)
+- [Lower Limb Neurological Examination](https://youtu.be/-7ERNH_o5Ss)
+- [Bài giảng chẩn đoán hình ảnh giải phẫu điện quang não](https://youtube.com/pAaocitehkk)
