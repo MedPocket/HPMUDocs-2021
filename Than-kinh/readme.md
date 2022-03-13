@@ -6,7 +6,4 @@ Thần kinh học là một chuyên ngành y học chuyên nghiên cứu về s�
 
 ## Nội dung
 
-### Khám thần kinh
-
-- [Khám cảm giác](kham-than-kinh/kham-cam-giac/readme.md)
-- [Khám phản xạ](kham-than-kinh/kham-cam-giac/readme.md)
+- [Bài giảng chẩn đoán hình ảnh giải phẫu điện quang não](https://youtube.com/watch?v=pAaocitehkk)
