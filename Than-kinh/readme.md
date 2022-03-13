@@ -6,6 +6,7 @@ Thần kinh học là một chuyên ngành y học chuyên nghiên cứu về s�
 
 ## Nội dung
 
-- [Khám thần kinh](https://khamthankinh.vn/)
-	- [Cách khám hệ thần kinh](https://khamthankinh.vn/than-kinh/gioi-thieu-ve-kham-than-kinh-...-n354.html)
-	- [Cách khám vận động](https://khamthankinh.vn/than-kinh/kham-van-dong-...-n357.html)
+### Khám thần kinh
+
+- [Khám cảm giác](kham-than-kinh/kham-cam-giac/readme.md)
+- [Khám phản xạ](kham-than-kinh/kham-cam-giac/readme.md)
