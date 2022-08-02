@@ -4,7 +4,7 @@ HPMUDocs 2021 là dự án lưu trữ kiến thức Y học 2021 của MedPocket
 
 ## Đóng góp cho dự án
 
-Long Nhật Nguyễn, Nguyễn Trung Hiếu, Lương Tố Uyên và nhiều hơn thế.
+Long Nhật Nguyễn, Nguyễn Trung Hiếu, Lương Tố Uyên, Vũ Minh Hoàng và nhiều người khác.
 
 ## Bản quyền
 
