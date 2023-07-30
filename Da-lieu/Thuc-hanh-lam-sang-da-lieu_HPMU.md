@@ -63,7 +63,7 @@
 - Vẩy nến: Dát đỏ, bong vảy, vị trí ở vùng tỳ đè.
 - Viêm da dầu: Vị trí ở vùng nhiều tuyến bã
 - Tổ đỉa: Mụn nước không trên nền dát đỏ, vị trí thường ở lòng bàn tay, kẽ ngón tay chân.
-- Chàm vi khuẩn: BN có cơ đại dị ứng, lúc này vi khuẩn đóng vai trò là dị nguyên khiến xung quanh ổ nhiễm khuẩn thay đổi màu sắc da.
+- Chàm vi khuẩn: BN có cơ địa dị ứng, lúc này vi khuẩn đóng vai trò là dị nguyên khiến xung quanh ổ nhiễm khuẩn thay đổi màu sắc da.
 - Herpes: Mụn nước không có mủ.
 
 #### Điều trị tham khảo [viêm da cơ địa](#1-viêm-da-cơ-địa)
